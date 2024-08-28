@@ -8,7 +8,8 @@
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/kgxhHsf6/sales-data-in-convenience-stores.png)
+![dashboard sales performance analysis](https://github.com/user-attachments/assets/9ce87137-85de-49d3-a04b-95bdb1ed6eb8)
+
 
 
 ## Tech Stack
