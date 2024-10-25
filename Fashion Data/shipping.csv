@@ -1,0 +1,2405 @@
+﻿shipping_id;shipping_type;percentage;total_discount;payment_method
+1;Express;20%;52.8;Cash
+2;Express;6%;63.94;Bank Transfer
+3;Free Shipping;15%;72.85;Bank Transfer
+4;Next Day Air;30%;89.7;Venmo
+5;Free Shipping;25%;9.75;PayPal
+6;Standard;5%;19.95;Debit Card
+7;Free Shipping;40%;84.6;PayPal
+8;Free Shipping;10%;33.9;Debit Card
+9;Express;7%;96.93;Venmo
+10;Two Day Shipping;9%;30.91;Cash
+11;Store Pickup;8%;33.92;Bank Transfer
+12;Store Pickup;11%;67.89;Bank Transfer
+13;Express;12%;71.88;Venmo
+14;Express;14%;50.86;PayPal
+15;Free Shipping;13%;52.87;Debit Card
+16;Store Pickup;4%;80.96;PayPal
+17;Next Day Air;16%;35.84;Debit Card
+18;Two Day Shipping;18%;37.82;Venmo
+19;Free Shipping;17%;19.83;Cash
+20;Standard;19%;89.81;Debit Card
+21;Express;25%;50.75;Cash
+22;Store Pickup;26%;61.74;Debit Card
+23;Store Pickup;28%;36.72;Debit Card
+24;Express;27%;87.73;Credit Card
+25;Store Pickup;28%;21.72;Debit Card
+26;Express;30%;24.7;PayPal
+27;Next Day Air;29%;19.71;Credit Card
+28;Next Day Air;20%;55.8;Bank Transfer
+29;Free Shipping;6%;93.94;PayPal
+30;Store Pickup;15%;19.85;Credit Card
+31;Standard;30%;30.7;Credit Card
+32;Store Pickup;25%;78.75;Venmo
+33;Free Shipping;5%;66.95;Venmo
+34;Store Pickup;40%;37.6;Cash
+35;Two Day Shipping;10%;90.9;PayPal
+36;Two Day Shipping;7%;32.93;Credit Card
+37;Free Shipping;9%;68.91;PayPal
+38;Store Pickup;8%;9.92;PayPal
+39;Two Day Shipping;11%;36.89;Venmo
+40;Express;12%;59.88;Credit Card
+41;Next Day Air;14%;75.86;Debit Card
+42;Standard;13%;38.87;Venmo
+43;Free Shipping;4%;99.96;PayPal
+44;Store Pickup;16%;68.84;PayPal
+45;Free Shipping;18%;52.82;PayPal
+46;Two Day Shipping;17%;20.83;PayPal
+47;Store Pickup;19%;42.81;Cash
+48;Free Shipping;25%;53.75;Cash
+49;Store Pickup;26%;54.74;Cash
+50;Next Day Air;28%;29.72;Debit Card
+51;Store Pickup;27%;27.73;Debit Card
+52;Two Day Shipping;28%;58.72;Credit Card
+53;Free Shipping;30%;19.7;Credit Card
+54;Next Day Air;29%;23.71;Credit Card
+55;Next Day Air;20%;93.8;Debit Card
+56;Two Day Shipping;6%;27.94;Credit Card
+57;Store Pickup;15%;72.85;Credit Card
+58;Store Pickup;30%;63.7;Debit Card
+59;Free Shipping;25%;53.75;Venmo
+60;Standard;5%;78.95;Debit Card
+61;Express;40%;36.6;Cash
+62;Store Pickup;10%;67.9;Credit Card
+63;Free Shipping;7%;20.93;Credit Card
+64;Two Day Shipping;9%;78.91;Credit Card
+65;Standard;8%;82.92;Debit Card
+66;Two Day Shipping;11%;35.89;Venmo
+67;Two Day Shipping;12%;93.88;Venmo
+68;Store Pickup;14%;32.86;Debit Card
+69;Next Day Air;13%;45.87;Cash
+70;Express;4%;69.96;Cash
+71;Express;16%;28.84;Debit Card
+72;Express;18%;19.82;Bank Transfer
+73;Store Pickup;17%;25.83;Bank Transfer
+74;Free Shipping;19%;84.81;Bank Transfer
+75;Express;25%;57.75;Cash
+76;Free Shipping;26%;84.74;Credit Card
+77;Free Shipping;28%;42.72;Venmo
+78;Next Day Air;27%;52.73;Debit Card
+79;Free Shipping;28%;90.72;Venmo
+80;Two Day Shipping;30%;95.7;Bank Transfer
+81;Store Pickup;29%;71.71;Credit Card
+82;Express;20%;95.8;Credit Card
+83;Two Day Shipping;6%;27.94;Credit Card
+84;Standard;15%;99.85;Bank Transfer
+85;Standard;30%;31.7;Bank Transfer
+86;Next Day Air;25%;94.75;Debit Card
+87;Two Day Shipping;5%;14.95;Cash
+88;Two Day Shipping;40%;52.6;Debit Card
+89;Free Shipping;10%;46.9;Credit Card
+90;Next Day Air;7%;82.93;Cash
+91;Express;9%;199.91;Credit Card
+92;Standard;8%;98.92;Credit Card
+93;Two Day Shipping;11%;86.89;Venmo
+94;Standard;12%;61.88;Credit Card
+95;Free Shipping;14%;75.86;Credit Card
+96;Free Shipping;13%;99.87;PayPal
+97;Express;4%;72.96;Venmo
+98;Store Pickup;16%;91.84;Cash
+99;Next Day Air;18%;66.82;Bank Transfer
+100;Express;17%;13.83;Debit Card
+101;Express;19%;97.81;Cash
+102;Express;25%;84.75;Credit Card
+103;Next Day Air;26%;66.74;Credit Card
+104;Next Day Air;28%;88.72;Venmo
+105;Two Day Shipping;27%;23.73;PayPal
+106;Next Day Air;28%;95.72;Bank Transfer
+107;Standard;30%;34.7;Credit Card
+108;Next Day Air;29%;66.71;PayPal
+109;Next Day Air;20%;78.8;Bank Transfer
+110;Next Day Air;6%;84.94;Bank Transfer
+111;Standard;15%;25.85;Venmo
+112;Free Shipping;30%;74.7;Credit Card
+113;Free Shipping;25%;64.75;PayPal
+114;Next Day Air;5%;53.95;PayPal
+115;Store Pickup;40%;94.6;Cash
+116;Standard;10%;93.9;Debit Card
+117;Free Shipping;7%;85.93;Venmo
+118;Express;9%;31.91;Cash
+119;Two Day Shipping;8%;49.92;Cash
+120;Express;11%;75.89;Cash
+121;Express;12%;83.88;Bank Transfer
+122;Standard;14%;71.86;Cash
+123;Two Day Shipping;13%;98.87;Cash
+124;Free Shipping;4%;88.96;Cash
+125;Next Day Air;16%;85.84;PayPal
+126;Next Day Air;18%;53.82;Venmo
+127;Store Pickup;17%;35.83;Cash
+128;Next Day Air;19%;88.81;Credit Card
+129;Standard;25%;31.75;Credit Card
+130;Two Day Shipping;26%;66.74;PayPal
+131;Next Day Air;28%;38.72;PayPal
+132;Standard;27%;28.73;Credit Card
+133;Two Day Shipping;28%;57.72;PayPal
+134;Next Day Air;30%;64.7;Venmo
+135;Store Pickup;29%;93.71;Cash
+136;Express;20%;80.8;PayPal
+137;Free Shipping;6%;85.94;Debit Card
+138;Free Shipping;15%;42.85;PayPal
+139;Store Pickup;30%;28.7;Bank Transfer
+140;Store Pickup;25%;94.75;Venmo
+141;Two Day Shipping;5%;27.95;Credit Card
+142;Free Shipping;40%;45.6;PayPal
+143;Free Shipping;10%;57.9;Credit Card
+144;Store Pickup;7%;19.93;PayPal
+145;Express;9%;42.91;Cash
+146;Standard;8%;94.92;Debit Card
+147;Standard;11%;29.89;Venmo
+148;Two Day Shipping;12%;63.88;Bank Transfer
+149;Store Pickup;14%;89.86;Debit Card
+150;Free Shipping;13%;75.87;PayPal
+151;Standard;4%;95.96;Debit Card
+152;Next Day Air;16%;46.84;Venmo
+153;Express;18%;84.82;Venmo
+154;Standard;17%;54.83;Debit Card
+155;Next Day Air;19%;97.81;Venmo
+156;Free Shipping;25%;76.75;Bank Transfer
+157;Standard;26%;25.74;Debit Card
+158;Next Day Air;28%;67.72;Bank Transfer
+159;Standard;27%;72.73;Bank Transfer
+160;Store Pickup;28%;26.72;Bank Transfer
+161;Free Shipping;30%;22.7;Venmo
+162;Express;29%;19.71;Venmo
+163;Store Pickup;20%;73.8;PayPal
+164;Standard;6%;66.94;Debit Card
+165;Free Shipping;15%;64.85;Credit Card
+166;Store Pickup;30%;59.7;Cash
+167;Store Pickup;25%;30.75;Cash
+168;Express;5%;26.95;Credit Card
+169;Express;40%;79.6;Cash
+170;Standard;10%;29.9;PayPal
+171;Store Pickup;7%;24.93;Venmo
+172;Store Pickup;9%;34.91;Credit Card
+173;Next Day Air;8%;66.92;Credit Card
+174;Standard;11%;45.89;Cash
+175;Express;12%;34.88;Venmo
+176;Next Day Air;14%;85.86;Bank Transfer
+177;Next Day Air;13%;80.87;Credit Card
+178;Next Day Air;4%;15.96;Bank Transfer
+179;Two Day Shipping;16%;42.84;PayPal
+180;Store Pickup;18%;30.82;Bank Transfer
+181;Store Pickup;17%;80.83;Debit Card
+182;Next Day Air;19%;60.81;Bank Transfer
+183;Store Pickup;25%;95.75;Debit Card
+184;Two Day Shipping;16%;128.84;Credit Card
+185;Express;28%;32.72;Cash
+186;Store Pickup;27%;31.73;Bank Transfer
+187;Standard;28%;55.72;Debit Card
+188;Store Pickup;30%;139.7;Bank Transfer
+189;Express;29%;52.71;Bank Transfer
+190;Next Day Air;20%;81.8;Credit Card
+191;Free Shipping;6%;69.94;Venmo
+192;Free Shipping;15%;75.85;Cash
+193;Express;30%;28.7;PayPal
+194;Standard;25%;99.75;Venmo
+195;Express;5%;93.95;Debit Card
+196;Free Shipping;40%;24.6;Credit Card
+197;Next Day Air;10%;87.9;Credit Card
+198;Two Day Shipping;7%;77.93;Credit Card
+199;Standard;9%;9.91;Credit Card
+200;Express;8%;72.92;Cash
+201;Next Day Air;11%;60.89;Venmo
+202;Free Shipping;12%;21.88;Bank Transfer
+203;Express;14%;37.86;Venmo
+204;Next Day Air;13%;37.87;Bank Transfer
+205;Store Pickup;4%;99.96;Cash
+206;Standard;16%;63.84;PayPal
+207;Free Shipping;18%;54.82;Venmo
+208;Express;17%;90.83;Bank Transfer
+209;Store Pickup;19%;37.81;Credit Card
+210;Store Pickup;25%;96.75;Cash
+211;Two Day Shipping;26%;21.74;PayPal
+212;Two Day Shipping;28%;91.72;Debit Card
+213;Express;27%;83.73;Debit Card
+214;Store Pickup;28%;92.72;Debit Card
+215;Next Day Air;30%;49.7;Cash
+216;Two Day Shipping;29%;63.71;PayPal
+217;Free Shipping;20%;60.8;Venmo
+218;Next Day Air;6%;19.94;Bank Transfer
+219;Store Pickup;15%;9.85;Credit Card
+220;Free Shipping;30%;87.7;Cash
+221;Express;25%;56.75;Debit Card
+222;Store Pickup;5%;67.95;Bank Transfer
+223;Two Day Shipping;40%;93.6;PayPal
+224;Free Shipping;10%;23.9;PayPal
+225;Free Shipping;7%;82.93;Cash
+226;Next Day Air;9%;21.91;Bank Transfer
+227;Free Shipping;8%;73.92;PayPal
+228;Standard;11%;89.89;Venmo
+229;Store Pickup;12%;78.88;Credit Card
+230;Next Day Air;14%;27.86;PayPal
+231;Standard;13%;87.87;Credit Card
+232;Two Day Shipping;4%;25.96;Debit Card
+233;Express;16%;26.84;Bank Transfer
+234;Next Day Air;18%;82.82;Bank Transfer
+235;Next Day Air;17%;38.83;Credit Card
+236;Free Shipping;19%;88.81;Debit Card
+237;Next Day Air;25%;67.75;PayPal
+238;Store Pickup;26%;89.74;Debit Card
+239;Free Shipping;28%;33.72;Cash
+240;Express;27%;50.73;Credit Card
+241;Free Shipping;28%;9.72;Bank Transfer
+242;Free Shipping;30%;87.7;Venmo
+243;Store Pickup;29%;84.71;Debit Card
+244;Two Day Shipping;20%;99.8;Debit Card
+245;Two Day Shipping;6%;15.94;PayPal
+246;Next Day Air;15%;52.85;Venmo
+247;Express;30%;85.7;Venmo
+248;Standard;25%;65.75;Debit Card
+249;Express;5%;99.95;PayPal
+250;Standard;40%;46.6;Credit Card
+251;Express;10%;24.9;Bank Transfer
+252;Standard;7%;50.93;PayPal
+253;Free Shipping;9%;14.91;Venmo
+254;Two Day Shipping;8%;72.92;Bank Transfer
+255;Store Pickup;11%;15.89;PayPal
+256;Free Shipping;12%;19.88;Debit Card
+257;Express;14%;29.86;Credit Card
+258;Express;13%;52.87;Credit Card
+259;Express;4%;73.96;Cash
+260;Standard;16%;56.84;Debit Card
+261;Two Day Shipping;18%;56.82;Credit Card
+262;Standard;17%;76.83;Credit Card
+263;Next Day Air;19%;13.81;Debit Card
+264;Store Pickup;25%;45.75;Venmo
+265;Store Pickup;26%;77.74;Cash
+266;Two Day Shipping;28%;58.72;Bank Transfer
+267;Express;27%;74.73;Credit Card
+268;Two Day Shipping;28%;53.72;Venmo
+269;Store Pickup;30%;15.7;Cash
+270;Next Day Air;29%;43.71;Cash
+271;Free Shipping;20%;51.8;Bank Transfer
+272;Express;6%;68.94;Credit Card
+273;Two Day Shipping;15%;25.85;Debit Card
+274;Express;30%;32.7;Debit Card
+275;Express;25%;31.75;Cash
+276;Express;5%;84.95;Credit Card
+277;Express;40%;29.6;Bank Transfer
+278;Store Pickup;10%;28.9;Bank Transfer
+279;Express;7%;94.93;Debit Card
+280;Standard;9%;68.91;Bank Transfer
+281;Two Day Shipping;8%;68.92;Cash
+282;Standard;11%;60.89;Debit Card
+283;Two Day Shipping;12%;93.88;Cash
+284;Next Day Air;14%;29.86;Venmo
+285;Standard;13%;9.87;PayPal
+286;Express;4%;38.96;Debit Card
+287;Store Pickup;16%;50.84;Debit Card
+288;Two Day Shipping;18%;36.82;Venmo
+289;Two Day Shipping;17%;61.83;Venmo
+290;Two Day Shipping;19%;84.81;Credit Card
+291;Standard;25%;32.75;PayPal
+292;Next Day Air;26%;25.74;Bank Transfer
+293;Free Shipping;28%;98.72;Cash
+294;Express;27%;38.73;PayPal
+295;Store Pickup;28%;19.72;Credit Card
+296;Store Pickup;30%;15.7;Credit Card
+297;Two Day Shipping;29%;73.71;Credit Card
+298;Standard;20%;25.8;Credit Card
+299;Standard;6%;52.94;Venmo
+300;Next Day Air;15%;79.85;PayPal
+301;Store Pickup;30%;97.7;PayPal
+302;Standard;25%;94.75;Credit Card
+303;Express;5%;43.95;Bank Transfer
+304;Next Day Air;40%;59.6;Venmo
+305;Next Day Air;10%;83.9;Credit Card
+306;Two Day Shipping;7%;58.93;PayPal
+307;Express;9%;9.91;Cash
+308;Free Shipping;8%;31.92;Credit Card
+309;Standard;11%;28.89;Venmo
+310;Standard;12%;21.88;Cash
+311;Standard;14%;84.86;Cash
+312;Store Pickup;13%;51.87;Bank Transfer
+313;Next Day Air;4%;88.96;PayPal
+314;Express;16%;76.84;Credit Card
+315;Store Pickup;18%;23.82;Debit Card
+316;Express;17%;23.83;Debit Card
+317;Free Shipping;19%;21.81;Venmo
+318;Standard;25%;81.75;Cash
+319;Standard;26%;66.74;Cash
+320;Standard;28%;73.72;Cash
+321;Standard;27%;71.73;Debit Card
+322;Free Shipping;28%;35.72;Debit Card
+323;Standard;30%;94.7;Credit Card
+324;Next Day Air;29%;77.71;PayPal
+325;Standard;20%;81.8;Venmo
+326;Free Shipping;6%;69.94;Debit Card
+327;Store Pickup;15%;14.85;Bank Transfer
+328;Free Shipping;30%;15.7;PayPal
+329;Free Shipping;25%;49.75;Credit Card
+330;Two Day Shipping;5%;30.95;Bank Transfer
+331;Express;40%;50.6;Venmo
+332;Store Pickup;10%;97.9;PayPal
+333;Two Day Shipping;7%;85.93;Credit Card
+334;Standard;9%;63.91;Bank Transfer
+335;Next Day Air;8%;45.92;Credit Card
+336;Standard;11%;84.89;Venmo
+337;Express;12%;80.88;PayPal
+338;Two Day Shipping;14%;58.86;Bank Transfer
+339;Express;13%;78.87;Cash
+340;Two Day Shipping;4%;32.96;Credit Card
+341;Express;16%;46.84;Venmo
+342;Store Pickup;18%;19.82;Debit Card
+343;Next Day Air;17%;35.83;Credit Card
+344;Next Day Air;19%;38.81;Venmo
+345;Standard;25%;70.75;Debit Card
+346;Next Day Air;26%;58.74;Bank Transfer
+347;Next Day Air;28%;49.72;Cash
+348;Store Pickup;27%;14.73;PayPal
+349;Free Shipping;28%;58.72;PayPal
+350;Two Day Shipping;30%;86.7;Bank Transfer
+351;Two Day Shipping;29%;67.71;Bank Transfer
+352;Standard;20%;89.8;Debit Card
+353;Next Day Air;6%;70.94;Cash
+354;Store Pickup;15%;63.85;Debit Card
+355;Free Shipping;30%;75.7;Venmo
+356;Two Day Shipping;25%;15.75;PayPal
+357;Standard;5%;79.95;Cash
+358;Standard;40%;55.6;Credit Card
+359;Express;10%;24.9;Credit Card
+360;Store Pickup;7%;73.93;Credit Card
+361;Standard;9%;29.91;Debit Card
+362;Free Shipping;8%;95.92;Cash
+363;Free Shipping;11%;63.89;Venmo
+364;Free Shipping;12%;87.88;Bank Transfer
+365;Free Shipping;14%;87.86;Venmo
+366;Standard;13%;87.87;PayPal
+367;Store Pickup;4%;35.96;Venmo
+368;Store Pickup;16%;13.84;Bank Transfer
+369;Standard;18%;38.82;Cash
+370;Store Pickup;17%;13.83;PayPal
+371;Express;19%;33.81;PayPal
+372;Two Day Shipping;25%;82.75;PayPal
+373;Standard;26%;84.74;Debit Card
+374;Express;28%;26.72;Venmo
+375;Store Pickup;27%;77.73;Bank Transfer
+376;Standard;28%;31.72;Debit Card
+377;Express;30%;50.7;Venmo
+378;Standard;29%;31.71;Credit Card
+379;Next Day Air;20%;61.8;Credit Card
+380;Two Day Shipping;6%;28.94;Debit Card
+381;Store Pickup;15%;68.85;Bank Transfer
+382;Store Pickup;30%;24.7;Credit Card
+383;Store Pickup;25%;75.75;PayPal
+384;Standard;5%;76.95;PayPal
+385;Two Day Shipping;40%;32.6;Venmo
+386;Next Day Air;10%;92.9;Credit Card
+387;Express;7%;38.93;PayPal
+388;Store Pickup;9%;92.91;PayPal
+389;Store Pickup;8%;81.92;PayPal
+390;Standard;11%;15.89;Bank Transfer
+391;Two Day Shipping;12%;70.88;PayPal
+392;Standard;14%;85.86;Cash
+393;Next Day Air;13%;81.87;Credit Card
+394;Standard;4%;64.96;PayPal
+395;Store Pickup;16%;28.84;Debit Card
+396;Store Pickup;18%;64.82;PayPal
+397;Standard;17%;87.83;Bank Transfer
+398;Free Shipping;19%;45.81;Cash
+399;Free Shipping;25%;66.75;Debit Card
+400;Two Day Shipping;26%;34.74;Debit Card
+401;Free Shipping;28%;65.72;PayPal
+402;Standard;27%;90.73;Cash
+403;Express;28%;77.72;PayPal
+404;Next Day Air;30%;9.7;Bank Transfer
+405;Store Pickup;29%;92.71;Credit Card
+406;Standard;20%;73.8;Cash
+407;Express;6%;54.94;Cash
+408;Next Day Air;15%;75.85;Credit Card
+409;Express;30%;65.7;Cash
+410;Two Day Shipping;25%;50.75;Bank Transfer
+411;Two Day Shipping;5%;25.95;Credit Card
+412;Express;40%;28.6;PayPal
+413;Store Pickup;10%;73.9;Bank Transfer
+414;Free Shipping;7%;98.93;Cash
+415;Store Pickup;9%;87.91;Debit Card
+416;Express;8%;30.92;Bank Transfer
+417;Free Shipping;11%;54.89;Bank Transfer
+418;Free Shipping;12%;80.88;Debit Card
+419;Standard;14%;72.86;Venmo
+420;Free Shipping;13%;90.87;Credit Card
+421;Free Shipping;4%;53.96;Debit Card
+422;Standard;16%;13.84;Cash
+423;Store Pickup;18%;58.82;Debit Card
+424;Store Pickup;17%;25.83;Credit Card
+425;Standard;19%;22.81;PayPal
+426;Store Pickup;25%;86.75;Credit Card
+427;Express;26%;70.74;Credit Card
+428;Store Pickup;28%;90.72;Credit Card
+429;Free Shipping;27%;63.73;Debit Card
+430;Two Day Shipping;28%;93.72;Cash
+431;Store Pickup;30%;13.7;Debit Card
+432;Store Pickup;29%;75.71;Cash
+433;Free Shipping;20%;85.8;Venmo
+434;Store Pickup;6%;91.94;Credit Card
+435;Store Pickup;15%;51.85;PayPal
+436;Next Day Air;30%;27.7;Bank Transfer
+437;Free Shipping;25%;45.75;Bank Transfer
+438;Next Day Air;5%;49.95;PayPal
+439;Express;40%;22.6;Credit Card
+440;Free Shipping;10%;49.9;Cash
+441;Store Pickup;7%;88.93;Debit Card
+442;Standard;9%;80.91;Credit Card
+443;Store Pickup;8%;68.92;Credit Card
+444;Free Shipping;11%;66.89;PayPal
+445;Store Pickup;12%;19.88;Debit Card
+446;Standard;14%;28.86;Venmo
+447;Store Pickup;13%;73.87;Venmo
+448;Standard;4%;81.96;Bank Transfer
+449;Next Day Air;16%;22.84;Bank Transfer
+450;Two Day Shipping;18%;9.82;Bank Transfer
+451;Store Pickup;17%;20.83;Credit Card
+452;Express;19%;30.81;Credit Card
+453;Express;25%;9.75;PayPal
+454;Next Day Air;26%;55.74;Credit Card
+455;Next Day Air;28%;96.72;Cash
+456;Store Pickup;27%;99.73;Debit Card
+457;Two Day Shipping;28%;95.72;Credit Card
+458;Next Day Air;30%;98.7;Debit Card
+459;Two Day Shipping;29%;90.71;PayPal
+460;Standard;20%;29.8;PayPal
+461;Store Pickup;6%;64.94;Bank Transfer
+462;Express;15%;92.85;Venmo
+463;Express;30%;80.7;Venmo
+464;Standard;25%;80.75;Venmo
+465;Next Day Air;5%;51.95;PayPal
+466;Next Day Air;40%;87.6;Cash
+467;Free Shipping;10%;23.9;PayPal
+468;Two Day Shipping;7%;50.93;Debit Card
+469;Free Shipping;9%;37.91;Cash
+470;Two Day Shipping;8%;45.92;Debit Card
+471;Express;11%;62.89;Cash
+472;Two Day Shipping;12%;71.88;Bank Transfer
+473;Free Shipping;14%;38.86;Bank Transfer
+474;Store Pickup;13%;15.87;PayPal
+475;Two Day Shipping;4%;75.96;Cash
+476;Free Shipping;16%;65.84;Debit Card
+477;Free Shipping;18%;89.82;Debit Card
+478;Free Shipping;17%;55.83;Debit Card
+479;Free Shipping;19%;42.81;Venmo
+480;Store Pickup;25%;83.75;Venmo
+481;Standard;26%;87.74;Debit Card
+482;Two Day Shipping;28%;87.72;PayPal
+483;Two Day Shipping;27%;15.73;Venmo
+484;Store Pickup;28%;72.72;Debit Card
+485;Free Shipping;30%;72.7;Bank Transfer
+486;Next Day Air;29%;43.71;Debit Card
+487;Store Pickup;20%;62.8;Venmo
+488;Store Pickup;6%;67.94;Credit Card
+489;Standard;15%;28.85;Venmo
+490;Standard;30%;84.7;PayPal
+491;Two Day Shipping;25%;15.75;Cash
+492;Two Day Shipping;5%;68.95;Credit Card
+493;Standard;40%;61.6;Debit Card
+494;Store Pickup;10%;19.9;Cash
+495;Express;7%;67.93;Debit Card
+496;Free Shipping;9%;35.91;Debit Card
+497;Express;8%;62.92;Venmo
+498;Free Shipping;11%;38.89;Cash
+499;Free Shipping;12%;77.88;Bank Transfer
+500;Express;14%;98.86;PayPal
+501;Next Day Air;13%;30.87;Venmo
+502;Next Day Air;4%;9.96;Venmo
+503;Express;16%;29.84;PayPal
+504;Next Day Air;18%;23.82;Bank Transfer
+505;Free Shipping;17%;21.83;PayPal
+506;Express;19%;62.81;Cash
+507;Two Day Shipping;25%;13.75;Debit Card
+508;Store Pickup;26%;19.74;Debit Card
+509;Store Pickup;28%;19.72;PayPal
+510;Free Shipping;27%;79.73;Debit Card
+511;Two Day Shipping;28%;86.72;Venmo
+512;Free Shipping;30%;45.7;PayPal
+513;Next Day Air;29%;9.71;Bank Transfer
+514;Store Pickup;20%;64.8;Venmo
+515;Standard;6%;61.94;PayPal
+516;Next Day Air;15%;66.85;Cash
+517;Two Day Shipping;30%;14.7;Debit Card
+518;Free Shipping;25%;9.75;Cash
+519;Next Day Air;5%;99.95;Venmo
+520;Two Day Shipping;40%;53.6;Bank Transfer
+521;Free Shipping;10%;83.9;Debit Card
+522;Standard;7%;14.93;Bank Transfer
+523;Store Pickup;9%;87.91;Cash
+524;Express;8%;13.92;PayPal
+525;Free Shipping;11%;38.89;PayPal
+526;Next Day Air;12%;36.88;Debit Card
+527;Standard;14%;51.86;Cash
+528;Next Day Air;13%;22.87;Bank Transfer
+529;Express;4%;87.96;Cash
+530;Standard;16%;83.84;Credit Card
+531;Store Pickup;18%;36.82;Credit Card
+532;Next Day Air;17%;50.83;Cash
+533;Express;19%;75.81;Bank Transfer
+534;Next Day Air;25%;59.75;Debit Card
+535;Next Day Air;26%;71.74;PayPal
+536;Free Shipping;28%;9.72;Bank Transfer
+537;Store Pickup;27%;83.73;Debit Card
+538;Store Pickup;28%;9.72;Debit Card
+539;Free Shipping;30%;21.7;Cash
+540;Store Pickup;29%;19.71;Debit Card
+541;Next Day Air;20%;36.8;Cash
+542;Next Day Air;6%;26.94;Cash
+543;Next Day Air;15%;78.85;Cash
+544;Express;30%;97.7;Credit Card
+545;Standard;25%;63.75;Bank Transfer
+546;Two Day Shipping;5%;31.95;Debit Card
+547;Free Shipping;40%;73.6;Venmo
+548;Free Shipping;10%;49.9;Venmo
+549;Store Pickup;7%;63.93;Debit Card
+550;Express;9%;28.91;Venmo
+551;Store Pickup;8%;61.92;PayPal
+552;Two Day Shipping;11%;77.89;Cash
+553;Express;12%;93.88;Bank Transfer
+554;Express;14%;58.86;Credit Card
+555;Express;13%;46.87;Bank Transfer
+556;Express;4%;56.96;Venmo
+557;Store Pickup;16%;89.84;Cash
+558;Free Shipping;18%;59.82;Debit Card
+559;Express;17%;76.83;Debit Card
+560;Store Pickup;19%;14.81;Bank Transfer
+561;Free Shipping;25%;19.75;Debit Card
+562;Next Day Air;26%;64.74;PayPal
+563;Standard;28%;61.72;Debit Card
+564;Standard;27%;98.73;Debit Card
+565;Next Day Air;28%;57.72;Bank Transfer
+566;Store Pickup;30%;42.7;Venmo
+567;Store Pickup;29%;92.71;Debit Card
+568;Next Day Air;20%;49.8;Venmo
+569;Free Shipping;6%;87.94;PayPal
+570;Express;15%;32.85;Credit Card
+571;Standard;30%;98.7;Cash
+572;Free Shipping;25%;75.75;Venmo
+573;Next Day Air;5%;96.95;Bank Transfer
+574;Two Day Shipping;40%;67.6;Credit Card
+575;Free Shipping;10%;78.9;Bank Transfer
+576;Express;7%;85.93;PayPal
+577;Two Day Shipping;9%;67.91;Credit Card
+578;Store Pickup;8%;51.92;Venmo
+579;Next Day Air;11%;89.89;Credit Card
+580;Free Shipping;12%;14.88;Credit Card
+581;Free Shipping;14%;79.86;PayPal
+582;Store Pickup;13%;99.87;Bank Transfer
+583;Store Pickup;4%;76.96;Bank Transfer
+584;Store Pickup;16%;77.84;PayPal
+585;Free Shipping;18%;93.82;Debit Card
+586;Next Day Air;17%;22.83;Cash
+587;Two Day Shipping;19%;19.81;Venmo
+588;Express;25%;85.75;Debit Card
+589;Standard;26%;59.74;Debit Card
+590;Two Day Shipping;28%;69.72;PayPal
+591;Standard;27%;38.73;Venmo
+592;Store Pickup;28%;36.72;Debit Card
+593;Free Shipping;30%;28.7;Venmo
+594;Store Pickup;29%;34.71;PayPal
+595;Next Day Air;20%;82.8;Debit Card
+596;Next Day Air;6%;76.94;PayPal
+597;Store Pickup;15%;36.85;Venmo
+598;Standard;30%;68.7;Bank Transfer
+599;Two Day Shipping;25%;65.75;Cash
+600;Standard;5%;25.95;Debit Card
+601;Two Day Shipping;40%;62.6;Venmo
+602;Store Pickup;10%;37.9;Cash
+603;Next Day Air;7%;57.93;Cash
+604;Two Day Shipping;9%;45.91;PayPal
+605;Store Pickup;8%;91.92;Credit Card
+606;Standard;11%;31.89;Bank Transfer
+607;Standard;12%;89.88;PayPal
+608;Next Day Air;14%;22.86;Cash
+609;Next Day Air;13%;24.87;Venmo
+610;Next Day Air;4%;53.96;Credit Card
+611;Free Shipping;16%;71.84;Bank Transfer
+612;Store Pickup;18%;32.82;Cash
+613;Express;17%;42.83;Credit Card
+614;Standard;19%;50.81;Cash
+615;Standard;25%;84.75;Credit Card
+616;Next Day Air;26%;99.74;Venmo
+617;Free Shipping;28%;71.72;Credit Card
+618;Standard;27%;56.73;Bank Transfer
+619;Express;28%;93.72;Debit Card
+620;Store Pickup;30%;33.7;Debit Card
+621;Two Day Shipping;29%;88.71;Venmo
+622;Store Pickup;20%;26.8;Credit Card
+623;Next Day Air;6%;62.94;Bank Transfer
+624;Standard;15%;69.85;PayPal
+625;Express;30%;86.7;PayPal
+626;Next Day Air;25%;78.75;Venmo
+627;Standard;5%;78.95;Venmo
+628;Express;40%;43.6;PayPal
+629;Two Day Shipping;10%;84.9;Credit Card
+630;Standard;7%;89.93;Debit Card
+631;Two Day Shipping;9%;93.91;Debit Card
+632;Store Pickup;8%;67.92;Cash
+633;Next Day Air;11%;50.89;Venmo
+634;Express;12%;32.88;Debit Card
+635;Standard;14%;59.86;PayPal
+636;Two Day Shipping;13%;58.87;Cash
+637;Store Pickup;4%;29.96;Bank Transfer
+638;Two Day Shipping;16%;19.84;Cash
+639;Express;18%;19.82;PayPal
+640;Two Day Shipping;17%;23.83;Credit Card
+641;Store Pickup;19%;87.81;Debit Card
+642;Two Day Shipping;25%;77.75;Credit Card
+643;Two Day Shipping;26%;24.74;Debit Card
+644;Next Day Air;28%;56.72;Bank Transfer
+645;Next Day Air;27%;92.73;Cash
+646;Express;28%;15.72;Venmo
+647;Standard;30%;53.7;Venmo
+648;Express;29%;69.71;Credit Card
+649;Store Pickup;20%;30.8;Credit Card
+650;Store Pickup;6%;92.94;PayPal
+651;Next Day Air;15%;13.85;Bank Transfer
+652;Next Day Air;30%;31.7;Venmo
+653;Free Shipping;25%;26.75;Venmo
+654;Two Day Shipping;5%;67.95;Cash
+655;Two Day Shipping;40%;58.6;Venmo
+656;Free Shipping;10%;35.9;Venmo
+657;Standard;7%;22.93;PayPal
+658;Free Shipping;9%;79.91;PayPal
+659;Store Pickup;8%;36.92;Venmo
+660;Two Day Shipping;11%;51.89;Cash
+661;Two Day Shipping;12%;78.88;Credit Card
+662;Store Pickup;14%;67.86;Credit Card
+663;Express;13%;97.87;Venmo
+664;Express;4%;82.96;Credit Card
+665;Express;16%;82.84;PayPal
+666;Two Day Shipping;18%;54.82;Credit Card
+667;Free Shipping;17%;25.83;Debit Card
+668;Standard;19%;75.81;Bank Transfer
+669;Express;25%;84.75;Bank Transfer
+670;Free Shipping;26%;88.74;Venmo
+671;Next Day Air;28%;14.72;Cash
+672;Express;27%;29.73;Cash
+673;Two Day Shipping;28%;52.72;Cash
+674;Free Shipping;30%;65.7;Venmo
+675;Store Pickup;29%;32.71;Bank Transfer
+676;Two Day Shipping;20%;85.8;Cash
+677;Two Day Shipping;6%;59.94;Venmo
+678;Express;15%;61.85;PayPal
+679;Store Pickup;30%;73.7;Debit Card
+680;Express;25%;94.75;Venmo
+681;Express;5%;24.95;PayPal
+682;Two Day Shipping;40%;58.6;Credit Card
+683;Standard;10%;28.9;Credit Card
+684;Free Shipping;7%;35.93;Bank Transfer
+685;Express;9%;81.91;Debit Card
+686;Standard;8%;70.92;Cash
+687;Two Day Shipping;11%;34.89;Venmo
+688;Free Shipping;12%;37.88;Bank Transfer
+689;Store Pickup;14%;58.86;Venmo
+690;Express;13%;90.87;Credit Card
+691;Standard;4%;67.96;Bank Transfer
+692;Standard;16%;20.84;PayPal
+693;Two Day Shipping;18%;94.82;Debit Card
+694;Free Shipping;17%;51.83;Cash
+695;Two Day Shipping;19%;20.81;Venmo
+696;Next Day Air;25%;66.75;Debit Card
+697;Standard;26%;15.74;Cash
+698;Free Shipping;28%;62.72;Debit Card
+699;Standard;27%;14.73;Debit Card
+700;Two Day Shipping;28%;45.72;PayPal
+701;Standard;30%;78.7;PayPal
+702;Next Day Air;29%;89.71;Debit Card
+703;Store Pickup;20%;70.8;Cash
+704;Standard;6%;86.94;Venmo
+705;Express;15%;65.85;PayPal
+706;Free Shipping;30%;89.7;Cash
+707;Express;25%;46.75;Debit Card
+708;Next Day Air;5%;37.95;Venmo
+709;Store Pickup;40%;49.6;Cash
+710;Standard;10%;78.9;Debit Card
+711;Standard;7%;90.93;PayPal
+712;Two Day Shipping;9%;59.91;Bank Transfer
+713;Next Day Air;8%;80.92;Bank Transfer
+714;Express;11%;89.89;Bank Transfer
+715;Store Pickup;12%;69.88;Debit Card
+716;Express;14%;62.86;Debit Card
+717;Express;13%;28.87;Venmo
+718;Express;4%;89.96;Venmo
+719;Standard;16%;21.84;Bank Transfer
+720;Next Day Air;18%;21.82;Venmo
+721;Free Shipping;17%;61.83;Debit Card
+722;Next Day Air;19%;56.81;Debit Card
+723;Store Pickup;25%;31.75;Cash
+724;Express;26%;52.74;PayPal
+725;Store Pickup;28%;78.72;Venmo
+726;Standard;27%;60.73;Debit Card
+727;Next Day Air;28%;77.72;Bank Transfer
+728;Next Day Air;30%;96.7;Venmo
+729;Next Day Air;29%;77.71;PayPal
+730;Express;20%;55.8;PayPal
+731;Standard;6%;24.94;Venmo
+732;Free Shipping;15%;27.85;PayPal
+733;Express;30%;56.7;Cash
+734;Two Day Shipping;25%;35.75;Debit Card
+735;Express;5%;68.95;Bank Transfer
+736;Two Day Shipping;40%;19.6;Cash
+737;Two Day Shipping;10%;57.9;Credit Card
+738;Store Pickup;7%;23.93;PayPal
+739;Two Day Shipping;9%;30.91;Venmo
+740;Free Shipping;8%;28.92;Venmo
+741;Next Day Air;11%;68.89;Credit Card
+742;Free Shipping;12%;78.88;Bank Transfer
+743;Express;14%;38.86;Debit Card
+744;Free Shipping;13%;83.87;Cash
+745;Next Day Air;4%;65.96;Debit Card
+746;Standard;16%;91.84;Venmo
+747;Free Shipping;18%;9.82;Credit Card
+748;Next Day Air;17%;73.83;Bank Transfer
+749;Free Shipping;19%;38.81;Bank Transfer
+750;Standard;25%;70.75;Debit Card
+751;Free Shipping;26%;94.74;Venmo
+752;Free Shipping;28%;71.72;Credit Card
+753;Two Day Shipping;27%;84.73;PayPal
+754;Store Pickup;28%;53.72;Venmo
+755;Store Pickup;30%;14.7;Debit Card
+756;Free Shipping;29%;23.71;PayPal
+757;Standard;20%;98.8;Cash
+758;Store Pickup;6%;31.94;Debit Card
+759;Two Day Shipping;15%;70.85;Bank Transfer
+760;Next Day Air;30%;9.7;Credit Card
+761;Free Shipping;25%;49.75;Cash
+762;Express;5%;90.95;Bank Transfer
+763;Standard;40%;45.6;Debit Card
+764;Two Day Shipping;10%;49.9;Credit Card
+765;Free Shipping;7%;38.93;Debit Card
+766;Store Pickup;9%;98.91;Cash
+767;Next Day Air;8%;19.92;PayPal
+768;Next Day Air;11%;76.89;Cash
+769;Express;12%;94.88;Venmo
+770;Store Pickup;14%;99.86;PayPal
+771;Express;13%;53.87;Credit Card
+772;Next Day Air;4%;67.96;Bank Transfer
+773;Free Shipping;16%;21.84;Debit Card
+774;Express;18%;83.82;Debit Card
+775;Standard;17%;45.83;Credit Card
+776;Store Pickup;19%;52.81;PayPal
+777;Standard;25%;59.75;Venmo
+778;Express;26%;31.74;Venmo
+779;Store Pickup;28%;49.72;Debit Card
+780;Express;27%;93.73;Cash
+781;Free Shipping;28%;25.72;Cash
+782;Store Pickup;30%;43.7;Credit Card
+783;Standard;29%;56.71;Cash
+784;Next Day Air;20%;64.8;PayPal
+785;Store Pickup;6%;71.94;Bank Transfer
+786;Next Day Air;15%;61.85;PayPal
+787;Express;30%;20.7;Bank Transfer
+788;Free Shipping;25%;84.75;Venmo
+789;Store Pickup;5%;50.95;Bank Transfer
+790;Standard;40%;83.6;Credit Card
+791;Store Pickup;10%;36.9;Bank Transfer
+792;Two Day Shipping;7%;43.93;PayPal
+793;Next Day Air;9%;9.91;Venmo
+794;Free Shipping;8%;34.92;Credit Card
+795;Store Pickup;11%;49.89;Debit Card
+796;Store Pickup;12%;25.88;Venmo
+797;Two Day Shipping;14%;77.86;Credit Card
+798;Two Day Shipping;13%;81.87;Debit Card
+799;Two Day Shipping;4%;38.96;PayPal
+800;Free Shipping;16%;54.84;PayPal
+801;Free Shipping;18%;19.82;Cash
+802;Express;17%;28.83;Credit Card
+803;Next Day Air;19%;14.81;Bank Transfer
+804;Express;25%;37.75;Venmo
+805;Store Pickup;26%;46.74;Venmo
+806;Next Day Air;28%;29.72;Debit Card
+807;Standard;27%;55.73;PayPal
+808;Express;28%;88.72;Credit Card
+809;Next Day Air;30%;95.7;Cash
+810;Next Day Air;29%;80.71;PayPal
+811;Store Pickup;20%;82.8;Debit Card
+812;Free Shipping;6%;34.94;Venmo
+813;Standard;15%;55.85;Credit Card
+814;Store Pickup;30%;9.7;Debit Card
+815;Express;25%;61.75;PayPal
+816;Next Day Air;5%;83.95;Venmo
+817;Store Pickup;40%;23.6;Debit Card
+818;Store Pickup;10%;20.9;PayPal
+819;Store Pickup;7%;90.93;Debit Card
+820;Next Day Air;9%;35.91;Debit Card
+821;Two Day Shipping;8%;38.92;Debit Card
+822;Standard;11%;38.89;Credit Card
+823;Standard;12%;58.88;Bank Transfer
+824;Free Shipping;14%;26.86;Credit Card
+825;Store Pickup;13%;93.87;Cash
+826;Next Day Air;4%;93.96;Cash
+827;Standard;16%;93.84;PayPal
+828;Free Shipping;18%;50.82;Bank Transfer
+829;Two Day Shipping;17%;61.83;PayPal
+830;Two Day Shipping;19%;56.81;Credit Card
+831;Express;25%;75.75;Credit Card
+832;Express;26%;62.74;Cash
+833;Express;28%;79.72;Cash
+834;Standard;27%;67.73;Credit Card
+835;Free Shipping;28%;88.72;Credit Card
+836;Next Day Air;30%;25.7;Debit Card
+837;Store Pickup;29%;89.71;Cash
+838;Express;20%;27.8;Cash
+839;Express;6%;28.94;Credit Card
+840;Free Shipping;15%;30.85;Debit Card
+841;Two Day Shipping;30%;23.7;PayPal
+842;Store Pickup;25%;87.75;PayPal
+843;Express;5%;86.95;PayPal
+844;Express;40%;79.6;PayPal
+845;Express;10%;19.9;Venmo
+846;Standard;7%;20.93;Venmo
+847;Express;9%;71.91;Debit Card
+848;Standard;8%;43.92;PayPal
+849;Store Pickup;11%;72.89;Credit Card
+850;Express;12%;60.88;PayPal
+851;Store Pickup;14%;19.86;Venmo
+852;Express;13%;85.87;Debit Card
+853;Next Day Air;4%;59.96;Debit Card
+854;Free Shipping;16%;42.84;Cash
+855;Free Shipping;18%;43.82;Venmo
+856;Two Day Shipping;17%;75.83;Credit Card
+857;Express;19%;32.81;Debit Card
+858;Standard;25%;59.75;Debit Card
+859;Free Shipping;26%;25.74;PayPal
+860;Next Day Air;28%;72.72;Debit Card
+861;Standard;27%;86.73;Cash
+862;Two Day Shipping;28%;99.72;Credit Card
+863;Standard;30%;83.7;PayPal
+864;Standard;29%;14.71;PayPal
+865;Next Day Air;20%;58.8;PayPal
+866;Store Pickup;6%;25.94;Venmo
+867;Free Shipping;15%;68.85;PayPal
+868;Free Shipping;30%;19.7;Bank Transfer
+869;Next Day Air;25%;82.75;Credit Card
+870;Two Day Shipping;5%;53.95;PayPal
+871;Standard;40%;65.6;Bank Transfer
+872;Next Day Air;10%;15.9;Debit Card
+873;Standard;7%;32.93;Cash
+874;Free Shipping;9%;76.91;Venmo
+875;Free Shipping;8%;64.92;Venmo
+876;Free Shipping;11%;38.89;Bank Transfer
+877;Two Day Shipping;12%;50.88;Debit Card
+878;Next Day Air;14%;64.86;Venmo
+879;Express;13%;88.87;Debit Card
+880;Free Shipping;4%;75.96;PayPal
+881;Express;16%;74.84;Debit Card
+882;Next Day Air;18%;60.82;Venmo
+883;Next Day Air;17%;34.83;Cash
+884;Free Shipping;19%;36.81;Bank Transfer
+885;Express;25%;90.75;Bank Transfer
+886;Free Shipping;26%;98.74;Debit Card
+887;Express;28%;53.72;Bank Transfer
+888;Two Day Shipping;27%;46.73;PayPal
+889;Express;28%;76.72;Cash
+890;Free Shipping;30%;83.7;Venmo
+891;Two Day Shipping;29%;50.71;Credit Card
+892;Store Pickup;20%;25.8;PayPal
+893;Free Shipping;6%;63.94;Debit Card
+894;Express;15%;50.85;Venmo
+895;Free Shipping;30%;59.7;Debit Card
+896;Next Day Air;25%;68.75;Debit Card
+897;Express;5%;28.95;Cash
+898;Express;40%;90.6;Venmo
+899;Two Day Shipping;10%;69.9;Bank Transfer
+900;Standard;7%;57.93;PayPal
+901;Free Shipping;9%;97.91;Bank Transfer
+902;Two Day Shipping;8%;67.92;Cash
+903;Next Day Air;11%;43.89;Cash
+904;Express;12%;9.88;PayPal
+905;Free Shipping;14%;98.86;PayPal
+906;Standard;13%;67.87;Venmo
+907;Standard;4%;55.96;Debit Card
+908;Express;16%;42.84;Credit Card
+909;Free Shipping;18%;98.82;PayPal
+910;Express;17%;55.83;PayPal
+911;Express;19%;24.81;Credit Card
+912;Two Day Shipping;25%;73.75;Bank Transfer
+913;Next Day Air;26%;55.74;Bank Transfer
+914;Next Day Air;28%;46.72;Cash
+915;Standard;27%;66.73;Venmo
+916;Store Pickup;28%;21.72;Credit Card
+917;Standard;30%;33.7;Venmo
+918;Standard;29%;63.71;Bank Transfer
+919;Two Day Shipping;20%;15.8;Cash
+920;Two Day Shipping;6%;81.94;Debit Card
+921;Free Shipping;15%;80.85;Cash
+922;Express;30%;23.7;PayPal
+923;Standard;25%;59.75;Credit Card
+924;Two Day Shipping;5%;23.95;PayPal
+925;Standard;40%;77.6;Cash
+926;Express;10%;87.9;Cash
+927;Express;7%;62.93;Cash
+928;Standard;9%;77.91;Venmo
+929;Store Pickup;8%;36.92;Cash
+930;Two Day Shipping;11%;93.89;Debit Card
+931;Store Pickup;12%;77.88;Credit Card
+932;Standard;14%;35.86;Bank Transfer
+933;Standard;13%;23.87;Debit Card
+934;Store Pickup;4%;83.96;Debit Card
+935;Express;16%;46.84;Bank Transfer
+936;Store Pickup;18%;50.82;Bank Transfer
+937;Free Shipping;17%;83.83;Cash
+938;Express;19%;23.81;Venmo
+939;Free Shipping;25%;96.75;Debit Card
+940;Next Day Air;26%;88.74;Credit Card
+941;Store Pickup;28%;43.72;PayPal
+942;Two Day Shipping;27%;34.73;PayPal
+943;Express;28%;90.72;PayPal
+944;Next Day Air;30%;62.7;Venmo
+945;Express;29%;96.71;Cash
+946;Store Pickup;20%;37.8;Venmo
+947;Next Day Air;6%;23.94;PayPal
+948;Store Pickup;15%;31.85;Cash
+949;Express;30%;89.7;Venmo
+950;Standard;25%;35.75;Venmo
+951;Free Shipping;5%;36.95;PayPal
+952;Express;40%;50.6;Bank Transfer
+953;Two Day Shipping;10%;70.9;PayPal
+954;Two Day Shipping;7%;49.93;Venmo
+955;Standard;9%;73.91;Credit Card
+956;Free Shipping;8%;74.92;PayPal
+957;Two Day Shipping;11%;98.89;Debit Card
+958;Store Pickup;12%;22.88;Cash
+959;Free Shipping;14%;52.86;Credit Card
+960;Standard;13%;98.87;Cash
+961;Standard;4%;19.96;Venmo
+962;Next Day Air;16%;71.84;Debit Card
+963;Standard;18%;63.82;Debit Card
+964;Two Day Shipping;17%;62.83;Credit Card
+965;Next Day Air;19%;50.81;Venmo
+966;Store Pickup;25%;54.75;Credit Card
+967;Express;26%;54.74;Cash
+968;Store Pickup;28%;25.72;Cash
+969;Next Day Air;27%;66.73;Bank Transfer
+970;Express;28%;30.72;PayPal
+971;Free Shipping;30%;65.7;Cash
+972;Next Day Air;29%;66.71;Credit Card
+973;Standard;20%;60.8;Credit Card
+974;Two Day Shipping;6%;74.94;Bank Transfer
+975;Two Day Shipping;15%;89.85;Bank Transfer
+976;Two Day Shipping;30%;13.7;Bank Transfer
+977;Express;25%;89.75;Credit Card
+978;Express;5%;19.95;Cash
+979;Standard;40%;13.6;Credit Card
+980;Store Pickup;10%;32.9;Debit Card
+981;Free Shipping;7%;97.93;PayPal
+982;Next Day Air;9%;15.91;Credit Card
+983;Standard;8%;61.92;PayPal
+984;Free Shipping;11%;9.89;Venmo
+985;Free Shipping;12%;77.88;Credit Card
+986;Express;14%;79.86;Bank Transfer
+987;Store Pickup;13%;95.87;Bank Transfer
+988;Express;4%;46.96;PayPal
+989;Two Day Shipping;16%;83.84;PayPal
+990;Store Pickup;18%;30.82;Bank Transfer
+991;Store Pickup;17%;62.83;Cash
+992;Standard;19%;96.81;Bank Transfer
+993;Express;25%;98.75;Debit Card
+994;Store Pickup;26%;89.74;Cash
+995;Express;28%;67.72;Debit Card
+996;Two Day Shipping;27%;79.73;Venmo
+997;Standard;28%;90.72;Bank Transfer
+998;Express;30%;29.7;Cash
+999;Next Day Air;29%;89.71;Bank Transfer
+1000;Standard;20%;27.8;Debit Card
+1001;Express;6%;45.94;Bank Transfer
+1002;Standard;15%;59.85;Debit Card
+1003;Store Pickup;30%;58.7;Bank Transfer
+1004;Store Pickup;25%;67.75;Cash
+1005;Two Day Shipping;5%;78.95;Cash
+1006;Store Pickup;40%;93.6;Debit Card
+1007;Next Day Air;10%;82.9;Venmo
+1008;Standard;7%;61.93;Credit Card
+1009;Store Pickup;9%;84.91;PayPal
+1010;Express;8%;29.92;Venmo
+1011;Two Day Shipping;11%;23.89;Credit Card
+1012;Next Day Air;12%;24.88;Debit Card
+1013;Express;14%;36.86;Credit Card
+1014;Two Day Shipping;13%;68.87;Venmo
+1015;Standard;4%;96.96;Debit Card
+1016;Standard;16%;23.84;Cash
+1017;Express;18%;29.82;Bank Transfer
+1018;Express;17%;52.83;Credit Card
+1019;Next Day Air;19%;69.81;Cash
+1020;Standard;25%;75.75;Venmo
+1021;Express;26%;94.74;Debit Card
+1022;Two Day Shipping;28%;50.72;PayPal
+1023;Store Pickup;27%;14.73;Cash
+1024;Free Shipping;28%;70.72;Bank Transfer
+1025;Free Shipping;30%;65.7;Venmo
+1026;Free Shipping;29%;83.71;Credit Card
+1027;Express;20%;94.8;PayPal
+1028;Next Day Air;6%;89.94;Cash
+1029;Standard;15%;35.85;Cash
+1030;Two Day Shipping;30%;21.7;Venmo
+1031;Next Day Air;25%;88.75;Debit Card
+1032;Free Shipping;5%;49.95;Cash
+1033;Free Shipping;40%;35.6;Credit Card
+1034;Free Shipping;10%;51.9;Bank Transfer
+1035;Next Day Air;7%;28.93;Bank Transfer
+1036;Express;9%;88.91;Venmo
+1037;Two Day Shipping;8%;46.92;Bank Transfer
+1038;Standard;11%;24.89;Debit Card
+1039;Express;12%;73.88;Bank Transfer
+1040;Standard;14%;45.86;Venmo
+1041;Next Day Air;13%;21.87;Cash
+1042;Next Day Air;4%;24.96;Cash
+1043;Next Day Air;16%;79.84;Credit Card
+1044;Two Day Shipping;18%;75.82;Debit Card
+1045;Next Day Air;17%;29.83;Bank Transfer
+1046;Two Day Shipping;19%;78.81;PayPal
+1047;Standard;25%;21.75;Venmo
+1048;Standard;26%;35.74;Credit Card
+1049;Standard;28%;76.72;Venmo
+1050;Store Pickup;27%;32.73;Cash
+1051;Next Day Air;28%;63.72;Venmo
+1052;Free Shipping;30%;52.7;PayPal
+1053;Two Day Shipping;29%;35.71;Credit Card
+1054;Two Day Shipping;20%;69.8;Debit Card
+1055;Express;6%;95.94;PayPal
+1056;Next Day Air;15%;26.85;Debit Card
+1057;Two Day Shipping;30%;63.7;Venmo
+1058;Two Day Shipping;25%;22.75;Credit Card
+1059;Next Day Air;5%;32.95;Bank Transfer
+1060;Standard;40%;33.6;Debit Card
+1061;Next Day Air;10%;34.9;Debit Card
+1062;Free Shipping;7%;61.93;Venmo
+1063;Next Day Air;9%;74.91;Debit Card
+1064;Free Shipping;8%;28.92;Cash
+1065;Express;11%;27.89;Credit Card
+1066;Store Pickup;12%;19.88;PayPal
+1067;Store Pickup;14%;95.86;PayPal
+1068;Two Day Shipping;13%;42.87;PayPal
+1069;Standard;4%;93.96;Credit Card
+1070;Next Day Air;16%;80.84;Venmo
+1071;Free Shipping;18%;74.82;Debit Card
+1072;Express;17%;80.83;Credit Card
+1073;Express;19%;91.81;Debit Card
+1074;Store Pickup;25%;95.75;Credit Card
+1075;Standard;26%;70.74;Bank Transfer
+1076;Next Day Air;28%;49.72;Debit Card
+1077;Standard;27%;71.73;Venmo
+1078;Standard;28%;27.72;PayPal
+1079;Express;30%;58.7;Credit Card
+1080;Free Shipping;29%;32.71;Bank Transfer
+1081;Express;20%;58.8;Cash
+1082;Standard;6%;29.94;Credit Card
+1083;Next Day Air;15%;84.85;Venmo
+1084;Store Pickup;30%;96.7;Cash
+1085;Next Day Air;25%;35.75;Cash
+1086;Store Pickup;5%;84.95;Venmo
+1087;Free Shipping;40%;61.6;PayPal
+1088;Next Day Air;10%;70.9;Bank Transfer
+1089;Free Shipping;7%;20.93;PayPal
+1090;Next Day Air;9%;60.91;PayPal
+1091;Store Pickup;8%;57.92;Cash
+1092;Store Pickup;11%;79.89;Credit Card
+1093;Two Day Shipping;12%;49.88;Venmo
+1094;Two Day Shipping;14%;19.86;Venmo
+1095;Next Day Air;13%;13.87;Cash
+1096;Free Shipping;4%;33.96;Bank Transfer
+1097;Standard;16%;45.84;Credit Card
+1098;Store Pickup;18%;26.82;Bank Transfer
+1099;Next Day Air;17%;97.83;Credit Card
+1100;Next Day Air;19%;72.81;Bank Transfer
+1101;Express;25%;27.75;Credit Card
+1102;Free Shipping;26%;75.74;Cash
+1103;Express;28%;82.72;Cash
+1104;Free Shipping;27%;22.73;Debit Card
+1105;Express;28%;27.72;Bank Transfer
+1106;Next Day Air;30%;82.7;Venmo
+1107;Store Pickup;29%;95.71;Venmo
+1108;Store Pickup;20%;61.8;Bank Transfer
+1109;Standard;6%;24.94;Cash
+1110;Next Day Air;15%;96.85;Venmo
+1111;Standard;30%;60.7;Cash
+1112;Next Day Air;25%;65.75;Credit Card
+1113;Free Shipping;5%;66.95;PayPal
+1114;Next Day Air;40%;79.6;PayPal
+1115;Next Day Air;10%;24.9;Bank Transfer
+1116;Two Day Shipping;7%;57.93;Cash
+1117;Express;9%;95.91;PayPal
+1118;Store Pickup;8%;76.92;Credit Card
+1119;Standard;11%;64.89;PayPal
+1120;Standard;12%;35.88;Credit Card
+1121;Next Day Air;14%;83.86;Debit Card
+1122;Express;13%;57.87;Cash
+1123;Two Day Shipping;4%;61.96;Credit Card
+1124;Store Pickup;16%;66.84;Cash
+1125;Express;18%;19.82;Cash
+1126;Two Day Shipping;17%;89.83;Bank Transfer
+1127;Standard;19%;57.81;Venmo
+1128;Store Pickup;25%;52.75;Debit Card
+1129;Next Day Air;26%;29.74;Debit Card
+1130;Express;28%;64.72;Venmo
+1131;Standard;27%;14.73;PayPal
+1132;Express;28%;72.72;Bank Transfer
+1133;Store Pickup;30%;97.7;Cash
+1134;Two Day Shipping;29%;35.71;Cash
+1135;Express;20%;80.8;Venmo
+1136;Two Day Shipping;6%;89.94;Bank Transfer
+1137;Free Shipping;15%;82.85;Cash
+1138;Two Day Shipping;30%;90.7;Bank Transfer
+1139;Express;25%;35.75;Venmo
+1140;Standard;5%;52.95;Debit Card
+1141;Store Pickup;40%;38.6;Credit Card
+1142;Next Day Air;10%;32.9;PayPal
+1143;Store Pickup;7%;75.93;Venmo
+1144;Standard;9%;22.91;PayPal
+1145;Two Day Shipping;8%;53.92;Bank Transfer
+1146;Express;11%;88.89;Cash
+1147;Standard;12%;37.88;Bank Transfer
+1148;Next Day Air;14%;35.86;Debit Card
+1149;Store Pickup;13%;65.87;PayPal
+1150;Store Pickup;4%;15.96;Venmo
+1151;Next Day Air;16%;35.84;Venmo
+1152;Express;18%;85.82;Credit Card
+1153;Standard;17%;9.83;PayPal
+1154;Free Shipping;19%;14.81;Bank Transfer
+1155;Two Day Shipping;25%;81.75;Credit Card
+1156;Express;26%;52.74;PayPal
+1157;Express;28%;20.72;Venmo
+1158;Standard;27%;65.73;Cash
+1159;Two Day Shipping;28%;88.72;Bank Transfer
+1160;Two Day Shipping;30%;54.7;Venmo
+1161;Next Day Air;29%;15.71;Venmo
+1162;Two Day Shipping;20%;51.8;PayPal
+1163;Express;6%;91.94;PayPal
+1164;Two Day Shipping;15%;55.85;Debit Card
+1165;Standard;30%;95.7;PayPal
+1166;Next Day Air;25%;63.75;Venmo
+1167;Store Pickup;5%;19.95;Venmo
+1168;Free Shipping;40%;82.6;PayPal
+1169;Standard;10%;90.9;Debit Card
+1170;Two Day Shipping;7%;93.93;Cash
+1171;Express;9%;61.91;Cash
+1172;Next Day Air;8%;54.92;Debit Card
+1173;Store Pickup;11%;67.89;Bank Transfer
+1174;Express;12%;75.88;Cash
+1175;Express;14%;30.86;Bank Transfer
+1176;Store Pickup;13%;80.87;PayPal
+1177;Free Shipping;4%;82.96;PayPal
+1178;Standard;16%;20.84;Debit Card
+1179;Express;18%;21.82;Debit Card
+1180;Free Shipping;17%;32.83;Bank Transfer
+1181;Standard;19%;22.81;Cash
+1182;Free Shipping;25%;95.75;Bank Transfer
+1183;Express;26%;20.74;PayPal
+1184;Two Day Shipping;28%;38.72;Credit Card
+1185;Express;27%;72.73;Credit Card
+1186;Standard;28%;63.72;Credit Card
+1187;Two Day Shipping;30%;67.7;Credit Card
+1188;Express;29%;88.71;Credit Card
+1189;Next Day Air;20%;28.8;Credit Card
+1190;Free Shipping;6%;96.94;Debit Card
+1191;Next Day Air;15%;9.85;Credit Card
+1192;Free Shipping;30%;69.7;Venmo
+1193;Two Day Shipping;25%;55.75;Venmo
+1194;Two Day Shipping;5%;54.95;Credit Card
+1195;Two Day Shipping;40%;45.6;Credit Card
+1196;Two Day Shipping;10%;94.9;Venmo
+1197;Two Day Shipping;7%;87.93;Bank Transfer
+1198;Standard;9%;91.91;PayPal
+1199;Two Day Shipping;8%;9.92;Cash
+1200;Free Shipping;11%;88.89;Debit Card
+1201;Store Pickup;12%;21.88;PayPal
+1202;Two Day Shipping;14%;60.86;Venmo
+1203;Standard;13%;28.87;Venmo
+1204;Free Shipping;4%;81.96;Bank Transfer
+1205;Two Day Shipping;16%;93.84;Credit Card
+1206;Standard;18%;98.82;Bank Transfer
+1207;Free Shipping;17%;58.83;Venmo
+1208;Next Day Air;19%;89.81;Credit Card
+1209;Two Day Shipping;25%;99.75;Debit Card
+1210;Next Day Air;26%;61.74;Bank Transfer
+1211;Next Day Air;28%;77.72;Cash
+1212;Store Pickup;27%;93.73;Venmo
+1213;Free Shipping;28%;73.72;Credit Card
+1214;Express;30%;51.7;Debit Card
+1215;Free Shipping;29%;80.71;Cash
+1216;Two Day Shipping;20%;19.8;Credit Card
+1217;Free Shipping;6%;31.94;Venmo
+1218;Free Shipping;15%;62.85;Cash
+1219;Store Pickup;30%;78.7;Cash
+1220;Next Day Air;25%;22.75;Credit Card
+1221;Express;5%;63.95;Bank Transfer
+1222;Standard;40%;68.6;Cash
+1223;Store Pickup;10%;68.9;Bank Transfer
+1224;Free Shipping;7%;23.93;Bank Transfer
+1225;Store Pickup;9%;49.91;Venmo
+1226;Free Shipping;8%;96.92;Debit Card
+1227;Store Pickup;11%;90.89;Venmo
+1228;Store Pickup;12%;36.88;Bank Transfer
+1229;Express;14%;54.86;Cash
+1230;Express;13%;51.87;Bank Transfer
+1231;Standard;4%;79.96;Venmo
+1232;Two Day Shipping;16%;78.84;Credit Card
+1233;Free Shipping;18%;22.82;Debit Card
+1234;Next Day Air;17%;72.83;Venmo
+1235;Store Pickup;19%;98.81;Bank Transfer
+1236;Store Pickup;25%;21.75;PayPal
+1237;Store Pickup;26%;67.74;Debit Card
+1238;Two Day Shipping;28%;91.72;Credit Card
+1239;Express;27%;76.73;Venmo
+1240;Standard;28%;36.72;Debit Card
+1241;Store Pickup;30%;78.7;Debit Card
+1242;Express;29%;50.71;Credit Card
+1243;Next Day Air;20%;26.8;Bank Transfer
+1244;Store Pickup;6%;22.94;Debit Card
+1245;Two Day Shipping;15%;75.85;Cash
+1246;Standard;30%;30.7;Bank Transfer
+1247;Standard;25%;59.75;Cash
+1248;Express;5%;98.95;Venmo
+1249;Free Shipping;40%;36.6;Credit Card
+1250;Express;10%;49.9;Venmo
+1251;Free Shipping;7%;25.93;Cash
+1252;Next Day Air;9%;85.91;Credit Card
+1253;Standard;8%;14.92;Cash
+1254;Express;11%;22.89;PayPal
+1255;Two Day Shipping;12%;55.88;Credit Card
+1256;Standard;14%;67.86;Cash
+1257;Express;13%;19.87;Cash
+1258;Free Shipping;4%;66.96;Cash
+1259;Two Day Shipping;16%;86.84;Debit Card
+1260;Standard;18%;63.82;Credit Card
+1261;Store Pickup;17%;92.83;Debit Card
+1262;Next Day Air;19%;28.81;Credit Card
+1263;Store Pickup;25%;61.75;Venmo
+1264;Two Day Shipping;26%;69.74;Credit Card
+1265;Next Day Air;28%;91.72;Venmo
+1266;Next Day Air;27%;78.73;Bank Transfer
+1267;Standard;28%;30.72;Debit Card
+1268;Standard;30%;82.7;Cash
+1269;Next Day Air;29%;87.71;Debit Card
+1270;Standard;20%;52.8;PayPal
+1271;Standard;6%;97.94;Cash
+1272;Store Pickup;15%;56.85;PayPal
+1273;Express;30%;79.7;Bank Transfer
+1274;Next Day Air;25%;28.75;Credit Card
+1275;Two Day Shipping;5%;72.95;PayPal
+1276;Standard;40%;31.6;PayPal
+1277;Next Day Air;10%;67.9;Bank Transfer
+1278;Express;7%;96.93;Venmo
+1279;Next Day Air;9%;97.91;Venmo
+1280;Express;8%;55.92;Debit Card
+1281;Two Day Shipping;11%;77.89;Venmo
+1282;Store Pickup;12%;80.88;Venmo
+1283;Free Shipping;14%;67.86;Venmo
+1284;Two Day Shipping;13%;93.87;Debit Card
+1285;Express;4%;92.96;PayPal
+1286;Next Day Air;16%;98.84;Bank Transfer
+1287;Next Day Air;18%;9.82;Debit Card
+1288;Standard;17%;27.83;PayPal
+1289;Standard;19%;92.81;PayPal
+1290;Next Day Air;25%;23.75;PayPal
+1291;Free Shipping;26%;34.74;PayPal
+1292;Two Day Shipping;28%;67.72;Debit Card
+1293;Free Shipping;27%;60.73;Bank Transfer
+1294;Standard;28%;73.72;Debit Card
+1295;Standard;30%;63.7;Cash
+1296;Standard;29%;59.71;PayPal
+1297;Express;20%;28.8;Cash
+1298;Standard;6%;84.94;Venmo
+1299;Free Shipping;15%;80.85;Bank Transfer
+1300;Two Day Shipping;30%;22.7;Venmo
+1301;Next Day Air;25%;99.75;Credit Card
+1302;Express;5%;53.95;Debit Card
+1303;Next Day Air;40%;24.6;Credit Card
+1304;Next Day Air;10%;31.9;Credit Card
+1305;Two Day Shipping;7%;62.93;PayPal
+1306;Express;9%;55.91;PayPal
+1307;Next Day Air;8%;32.92;PayPal
+1308;Express;11%;31.89;PayPal
+1309;Next Day Air;12%;37.88;Credit Card
+1310;Store Pickup;14%;20.86;Cash
+1311;Store Pickup;13%;58.87;Credit Card
+1312;Express;4%;86.96;Venmo
+1313;Store Pickup;16%;78.84;Bank Transfer
+1314;Free Shipping;18%;27.82;Credit Card
+1315;Free Shipping;17%;66.83;Debit Card
+1316;Two Day Shipping;19%;74.81;Debit Card
+1317;Standard;25%;31.75;Debit Card
+1318;Free Shipping;26%;42.74;Cash
+1319;Express;28%;92.72;Credit Card
+1320;Standard;27%;23.73;Bank Transfer
+1321;Free Shipping;28%;30.72;Debit Card
+1322;Express;30%;83.7;Bank Transfer
+1323;Next Day Air;29%;73.71;Bank Transfer
+1324;Standard;20%;61.8;Debit Card
+1325;Free Shipping;6%;76.94;Credit Card
+1326;Express;15%;72.85;Cash
+1327;Free Shipping;30%;49.7;Cash
+1328;Standard;25%;13.75;Cash
+1329;Standard;5%;96.95;Bank Transfer
+1330;Express;40%;62.6;PayPal
+1331;Standard;10%;64.9;PayPal
+1332;Standard;7%;90.93;PayPal
+1333;Store Pickup;9%;59.91;Bank Transfer
+1334;Next Day Air;8%;68.92;Bank Transfer
+1335;Store Pickup;11%;51.89;Venmo
+1336;Two Day Shipping;12%;9.88;Credit Card
+1337;Store Pickup;14%;84.86;Debit Card
+1338;Express;13%;85.87;Credit Card
+1339;Standard;4%;50.96;PayPal
+1340;Next Day Air;16%;55.84;Bank Transfer
+1341;Next Day Air;18%;71.82;Debit Card
+1342;Standard;17%;26.83;Bank Transfer
+1343;Two Day Shipping;19%;42.81;Bank Transfer
+1344;Standard;25%;55.75;Bank Transfer
+1345;Next Day Air;26%;36.74;Cash
+1346;Standard;28%;20.72;Venmo
+1347;Free Shipping;27%;90.73;Venmo
+1348;Two Day Shipping;28%;94.72;Bank Transfer
+1349;Standard;30%;53.7;Credit Card
+1350;Next Day Air;29%;35.71;Cash
+1351;Next Day Air;20%;70.8;Cash
+1352;Two Day Shipping;6%;30.94;Bank Transfer
+1353;Next Day Air;15%;88.85;Credit Card
+1354;Next Day Air;30%;82.7;Cash
+1355;Two Day Shipping;25%;15.75;Bank Transfer
+1356;Two Day Shipping;5%;90.95;PayPal
+1357;Free Shipping;40%;60.6;Bank Transfer
+1358;Next Day Air;10%;65.9;Cash
+1359;Store Pickup;7%;21.93;Venmo
+1360;Store Pickup;9%;67.91;Bank Transfer
+1361;Express;8%;42.92;Bank Transfer
+1362;Next Day Air;11%;31.89;Debit Card
+1363;Express;12%;45.88;Cash
+1364;Express;14%;89.86;PayPal
+1365;Express;13%;74.87;Cash
+1366;Store Pickup;4%;68.96;Bank Transfer
+1367;Free Shipping;16%;13.84;Credit Card
+1368;Express;18%;62.82;Cash
+1369;Express;17%;35.83;Cash
+1370;Standard;19%;74.81;Venmo
+1371;Two Day Shipping;25%;66.75;Bank Transfer
+1372;Store Pickup;26%;63.74;Credit Card
+1373;Two Day Shipping;28%;60.72;PayPal
+1374;Store Pickup;27%;13.73;Cash
+1375;Free Shipping;28%;96.72;Bank Transfer
+1376;Two Day Shipping;30%;30.7;Credit Card
+1377;Free Shipping;29%;64.71;PayPal
+1378;Next Day Air;20%;53.8;Venmo
+1379;Free Shipping;6%;9.94;Venmo
+1380;Two Day Shipping;15%;63.85;Venmo
+1381;Standard;30%;34.7;Cash
+1382;Standard;25%;85.75;Venmo
+1383;Express;5%;54.95;Bank Transfer
+1384;Express;40%;57.6;Venmo
+1385;Standard;10%;95.9;Bank Transfer
+1386;Store Pickup;7%;63.93;Bank Transfer
+1387;Next Day Air;9%;55.91;Debit Card
+1388;Standard;8%;84.92;Credit Card
+1389;Express;11%;22.89;Cash
+1390;Store Pickup;12%;71.88;Debit Card
+1391;Standard;14%;37.86;Debit Card
+1392;Express;13%;28.87;Credit Card
+1393;Express;4%;45.96;Venmo
+1394;Express;16%;57.84;PayPal
+1395;Next Day Air;18%;42.82;Cash
+1396;Next Day Air;17%;31.83;PayPal
+1397;Next Day Air;19%;29.81;Debit Card
+1398;Store Pickup;25%;66.75;PayPal
+1399;Free Shipping;26%;9.74;Credit Card
+1400;Store Pickup;28%;80.72;Venmo
+1401;Next Day Air;27%;22.73;Credit Card
+1402;Two Day Shipping;28%;58.72;PayPal
+1403;Express;30%;20.7;PayPal
+1404;Store Pickup;29%;19.71;Credit Card
+1405;Next Day Air;20%;27.8;Debit Card
+1406;Store Pickup;6%;99.94;Credit Card
+1407;Express;15%;45.85;Debit Card
+1408;Express;30%;60.7;Credit Card
+1409;Free Shipping;25%;57.75;Venmo
+1410;Standard;5%;49.95;Cash
+1411;Store Pickup;40%;92.6;Debit Card
+1412;Store Pickup;10%;23.9;Venmo
+1413;Two Day Shipping;7%;99.93;Venmo
+1414;Store Pickup;9%;78.91;Bank Transfer
+1415;Store Pickup;8%;50.92;Credit Card
+1416;Free Shipping;11%;89.89;Credit Card
+1417;Free Shipping;12%;55.88;Cash
+1418;Standard;14%;24.86;Debit Card
+1419;Two Day Shipping;13%;74.87;Venmo
+1420;Free Shipping;4%;74.96;Debit Card
+1421;Store Pickup;16%;52.84;PayPal
+1422;Standard;18%;99.82;Bank Transfer
+1423;Free Shipping;17%;26.83;PayPal
+1424;Free Shipping;19%;59.81;Venmo
+1425;Standard;25%;22.75;Bank Transfer
+1426;Next Day Air;26%;13.74;Credit Card
+1427;Free Shipping;28%;37.72;PayPal
+1428;Store Pickup;27%;89.73;Credit Card
+1429;Express;28%;96.72;PayPal
+1430;Standard;30%;37.7;Credit Card
+1431;Free Shipping;29%;29.71;Credit Card
+1432;Express;20%;87.8;Venmo
+1433;Express;6%;32.94;Debit Card
+1434;Next Day Air;15%;59.85;Debit Card
+1435;Free Shipping;30%;63.7;Debit Card
+1436;Standard;25%;94.75;Cash
+1437;Free Shipping;5%;82.95;PayPal
+1438;Free Shipping;40%;96.6;Cash
+1439;Standard;10%;37.9;Debit Card
+1440;Next Day Air;7%;19.93;Cash
+1441;Standard;9%;75.91;Venmo
+1442;Free Shipping;8%;24.92;Venmo
+1443;Two Day Shipping;11%;91.89;Credit Card
+1444;Next Day Air;12%;46.88;Cash
+1445;Express;14%;35.86;Cash
+1446;Two Day Shipping;13%;50.87;Credit Card
+1447;Express;4%;34.96;Credit Card
+1448;Next Day Air;16%;56.84;PayPal
+1449;Free Shipping;18%;94.82;Credit Card
+1450;Store Pickup;17%;14.83;Cash
+1451;Free Shipping;19%;43.81;Cash
+1452;Next Day Air;25%;33.75;PayPal
+1453;Two Day Shipping;26%;24.74;Bank Transfer
+1454;Two Day Shipping;28%;92.72;Bank Transfer
+1455;Free Shipping;27%;49.73;Credit Card
+1456;Express;28%;78.72;PayPal
+1457;Store Pickup;30%;99.7;PayPal
+1458;Express;29%;56.71;Venmo
+1459;Two Day Shipping;20%;27.8;Venmo
+1460;Express;6%;34.94;Venmo
+1461;Standard;15%;84.85;Venmo
+1462;Two Day Shipping;30%;94.7;Venmo
+1463;Two Day Shipping;25%;89.75;Venmo
+1464;Store Pickup;5%;9.95;Bank Transfer
+1465;Two Day Shipping;40%;91.6;Bank Transfer
+1466;Store Pickup;10%;71.9;Cash
+1467;Store Pickup;7%;70.93;PayPal
+1468;Store Pickup;9%;26.91;Debit Card
+1469;Express;8%;38.92;Cash
+1470;Standard;11%;97.89;PayPal
+1471;Next Day Air;12%;26.88;Cash
+1472;Two Day Shipping;14%;70.86;Venmo
+1473;Store Pickup;13%;23.87;Cash
+1474;Express;4%;62.96;Credit Card
+1475;Next Day Air;16%;71.84;Credit Card
+1476;Express;18%;60.82;Cash
+1477;Next Day Air;17%;55.83;Credit Card
+1478;Standard;19%;31.81;PayPal
+1479;Free Shipping;25%;22.75;Venmo
+1480;Standard;26%;99.74;Bank Transfer
+1481;Express;28%;73.72;Cash
+1482;Standard;27%;32.73;PayPal
+1483;Two Day Shipping;28%;66.72;Bank Transfer
+1484;Next Day Air;30%;60.7;Debit Card
+1485;Store Pickup;29%;45.71;Venmo
+1486;Standard;20%;55.8;Cash
+1487;Free Shipping;6%;72.94;Venmo
+1488;Store Pickup;15%;43.85;PayPal
+1489;Standard;30%;43.7;Credit Card
+1490;Next Day Air;25%;25.75;Venmo
+1491;Express;5%;51.95;Venmo
+1492;Free Shipping;40%;53.6;Bank Transfer
+1493;Free Shipping;10%;37.9;Venmo
+1494;Standard;7%;43.93;Credit Card
+1495;Next Day Air;9%;75.91;Bank Transfer
+1496;Next Day Air;8%;22.92;PayPal
+1497;Standard;11%;97.89;Venmo
+1498;Two Day Shipping;12%;32.88;Debit Card
+1499;Standard;14%;31.86;Venmo
+1500;Free Shipping;13%;84.87;Credit Card
+1501;Next Day Air;4%;68.96;Debit Card
+1502;Standard;16%;54.84;Debit Card
+1503;Store Pickup;18%;65.82;Cash
+1504;Two Day Shipping;17%;29.83;Cash
+1505;Next Day Air;19%;79.81;Bank Transfer
+1506;Express;25%;19.75;Cash
+1507;Two Day Shipping;26%;29.74;PayPal
+1508;Two Day Shipping;28%;85.72;Venmo
+1509;Store Pickup;27%;83.73;Cash
+1510;Free Shipping;28%;53.72;Debit Card
+1511;Free Shipping;30%;29.7;Venmo
+1512;Express;29%;90.71;Credit Card
+1513;Standard;20%;22.8;PayPal
+1514;Free Shipping;6%;34.94;Cash
+1515;Two Day Shipping;15%;89.85;Venmo
+1516;Two Day Shipping;30%;92.7;Cash
+1517;Express;25%;67.75;Bank Transfer
+1518;Standard;5%;14.95;Cash
+1519;Next Day Air;40%;72.6;Venmo
+1520;Next Day Air;10%;72.9;PayPal
+1521;Two Day Shipping;7%;65.93;Cash
+1522;Two Day Shipping;9%;58.91;Bank Transfer
+1523;Free Shipping;8%;71.92;Debit Card
+1524;Two Day Shipping;11%;87.89;Debit Card
+1525;Free Shipping;12%;75.88;Cash
+1526;Two Day Shipping;14%;30.86;Cash
+1527;Next Day Air;13%;21.87;PayPal
+1528;Two Day Shipping;4%;74.96;Debit Card
+1529;Store Pickup;16%;74.84;Venmo
+1530;Free Shipping;18%;62.82;Credit Card
+1531;Next Day Air;17%;20.83;Bank Transfer
+1532;Next Day Air;19%;82.81;PayPal
+1533;Next Day Air;25%;45.75;PayPal
+1534;Two Day Shipping;26%;58.74;Bank Transfer
+1535;Free Shipping;28%;65.72;Venmo
+1536;Two Day Shipping;27%;73.73;Venmo
+1537;Store Pickup;28%;81.72;Cash
+1538;Next Day Air;30%;88.7;Venmo
+1539;Standard;29%;64.71;Venmo
+1540;Two Day Shipping;20%;54.8;Cash
+1541;Next Day Air;6%;94.94;Bank Transfer
+1542;Store Pickup;15%;76.85;Cash
+1543;Next Day Air;30%;43.7;PayPal
+1544;Standard;25%;88.75;Venmo
+1545;Standard;5%;23.95;Debit Card
+1546;Store Pickup;40%;42.6;Bank Transfer
+1547;Express;10%;50.9;Bank Transfer
+1548;Standard;7%;45.93;Cash
+1549;Store Pickup;9%;31.91;Bank Transfer
+1550;Two Day Shipping;8%;54.92;Debit Card
+1551;Free Shipping;11%;25.89;Bank Transfer
+1552;Two Day Shipping;12%;28.88;Credit Card
+1553;Express;14%;9.86;Credit Card
+1554;Free Shipping;13%;9.87;Debit Card
+1555;Standard;4%;19.96;Cash
+1556;Free Shipping;16%;46.84;Cash
+1557;Standard;18%;56.82;Credit Card
+1558;Next Day Air;17%;33.83;PayPal
+1559;Express;19%;74.81;Credit Card
+1560;Store Pickup;25%;93.75;PayPal
+1561;Free Shipping;26%;83.74;Debit Card
+1562;Standard;28%;37.72;Bank Transfer
+1563;Next Day Air;27%;74.73;Venmo
+1564;Next Day Air;28%;43.72;Cash
+1565;Next Day Air;30%;32.7;Debit Card
+1566;Free Shipping;29%;92.71;PayPal
+1567;Free Shipping;20%;98.8;Cash
+1568;Standard;6%;32.94;Cash
+1569;Store Pickup;15%;75.85;Debit Card
+1570;Standard;30%;62.7;Debit Card
+1571;Next Day Air;25%;14.75;Bank Transfer
+1572;Next Day Air;5%;87.95;Bank Transfer
+1573;Two Day Shipping;40%;91.6;Debit Card
+1574;Two Day Shipping;10%;30.9;Debit Card
+1575;Free Shipping;7%;24.93;PayPal
+1576;Next Day Air;9%;27.91;Cash
+1577;Two Day Shipping;8%;74.92;PayPal
+1578;Standard;11%;33.89;Venmo
+1579;Two Day Shipping;12%;96.88;PayPal
+1580;Free Shipping;14%;79.86;Bank Transfer
+1581;Standard;13%;70.87;Cash
+1582;Free Shipping;4%;76.96;Cash
+1583;Next Day Air;16%;14.84;Cash
+1584;Next Day Air;18%;91.82;Venmo
+1585;Store Pickup;17%;94.83;Credit Card
+1586;Next Day Air;19%;24.81;Debit Card
+1587;Express;25%;76.75;Bank Transfer
+1588;Free Shipping;26%;98.74;Credit Card
+1589;Next Day Air;28%;23.72;Venmo
+1590;Store Pickup;27%;71.73;Cash
+1591;Free Shipping;28%;79.72;PayPal
+1592;Next Day Air;30%;99.7;PayPal
+1593;Free Shipping;29%;82.71;Bank Transfer
+1594;Two Day Shipping;20%;94.8;Bank Transfer
+1595;Store Pickup;6%;14.94;Cash
+1596;Standard;15%;34.85;Debit Card
+1597;Store Pickup;30%;29.7;Debit Card
+1598;Store Pickup;25%;20.75;Bank Transfer
+1599;Express;5%;84.95;Venmo
+1600;Two Day Shipping;40%;53.6;Debit Card
+1601;Next Day Air;10%;25.9;PayPal
+1602;Store Pickup;7%;58.93;Credit Card
+1603;Free Shipping;9%;19.91;Venmo
+1604;Next Day Air;8%;97.92;Debit Card
+1605;Two Day Shipping;11%;91.89;Credit Card
+1606;Next Day Air;12%;45.88;Credit Card
+1607;Standard;14%;20.86;PayPal
+1608;Free Shipping;13%;71.87;Debit Card
+1609;Next Day Air;4%;57.96;Bank Transfer
+1610;Standard;16%;92.84;Venmo
+1611;Two Day Shipping;18%;30.82;PayPal
+1612;Next Day Air;17%;25.83;Debit Card
+1613;Standard;19%;67.81;Venmo
+1614;Next Day Air;25%;30.75;Credit Card
+1615;Free Shipping;26%;14.74;Cash
+1616;Standard;28%;61.72;Cash
+1617;Standard;27%;14.73;Cash
+1618;Standard;28%;63.72;Credit Card
+1619;Standard;30%;71.7;Debit Card
+1620;Store Pickup;29%;77.71;Venmo
+1621;Two Day Shipping;20%;46.8;PayPal
+1622;Two Day Shipping;6%;45.94;Debit Card
+1623;Store Pickup;15%;42.85;Bank Transfer
+1624;Next Day Air;30%;57.7;Debit Card
+1625;Free Shipping;25%;31.75;PayPal
+1626;Next Day Air;5%;9.95;PayPal
+1627;Next Day Air;40%;34.6;Credit Card
+1628;Next Day Air;10%;20.9;Credit Card
+1629;Next Day Air;7%;63.93;Cash
+1630;Next Day Air;9%;87.91;Venmo
+1631;Store Pickup;8%;19.92;Venmo
+1632;Two Day Shipping;11%;35.89;Bank Transfer
+1633;Two Day Shipping;12%;27.88;Debit Card
+1634;Two Day Shipping;14%;79.86;Debit Card
+1635;Store Pickup;13%;22.87;Cash
+1636;Standard;4%;23.96;Cash
+1637;Free Shipping;16%;21.84;Cash
+1638;Next Day Air;18%;20.82;Venmo
+1639;Free Shipping;17%;50.83;Venmo
+1640;Free Shipping;19%;64.81;PayPal
+1641;Two Day Shipping;25%;50.75;PayPal
+1642;Free Shipping;26%;31.74;Bank Transfer
+1643;Store Pickup;28%;69.72;PayPal
+1644;Two Day Shipping;27%;76.73;PayPal
+1645;Next Day Air;28%;89.72;Debit Card
+1646;Standard;30%;35.7;Venmo
+1647;Standard;29%;76.71;Bank Transfer
+1648;Store Pickup;20%;77.8;Debit Card
+1649;Express;6%;68.94;Credit Card
+1650;Free Shipping;15%;62.85;Credit Card
+1651;Next Day Air;30%;35.7;Credit Card
+1652;Standard;25%;79.75;Debit Card
+1653;Next Day Air;5%;34.95;Bank Transfer
+1654;Two Day Shipping;40%;92.6;Debit Card
+1655;Store Pickup;10%;24.9;Credit Card
+1656;Next Day Air;7%;80.93;PayPal
+1657;Two Day Shipping;9%;15.91;PayPal
+1658;Store Pickup;8%;35.92;Debit Card
+1659;Store Pickup;11%;65.89;Cash
+1660;Next Day Air;12%;36.88;Venmo
+1661;Standard;14%;9.86;Venmo
+1662;Two Day Shipping;13%;85.87;Debit Card
+1663;Free Shipping;4%;23.96;Debit Card
+1664;Standard;16%;21.84;Cash
+1665;Next Day Air;18%;52.82;PayPal
+1666;Next Day Air;17%;14.83;Venmo
+1667;Store Pickup;19%;63.81;PayPal
+1668;Two Day Shipping;25%;13.75;Bank Transfer
+1669;Standard;26%;32.74;Debit Card
+1670;Store Pickup;28%;58.72;Bank Transfer
+1671;Free Shipping;27%;72.73;Cash
+1672;Free Shipping;28%;21.72;Bank Transfer
+1673;Free Shipping;30%;72.7;Venmo
+1674;Next Day Air;29%;61.71;Venmo
+1675;Free Shipping;20%;55.8;Debit Card
+1676;Next Day Air;6%;89.94;Credit Card
+1677;Next Day Air;15%;43.85;Bank Transfer
+1678;Next Day Air;30%;34.7;Debit Card
+1679;Two Day Shipping;25%;70.75;Venmo
+1680;Next Day Air;5%;51.95;Debit Card
+1681;Store Pickup;40%;36.6;Credit Card
+1682;Two Day Shipping;10%;94.9;Credit Card
+1683;Two Day Shipping;7%;96.93;Credit Card
+1684;Next Day Air;9%;56.91;Venmo
+1685;Standard;8%;92.92;PayPal
+1686;Standard;11%;19.89;PayPal
+1687;Store Pickup;12%;74.88;Cash
+1688;Free Shipping;14%;69.86;PayPal
+1689;Next Day Air;13%;25.87;Venmo
+1690;Store Pickup;4%;72.96;Bank Transfer
+1691;Free Shipping;16%;29.84;Cash
+1692;Next Day Air;18%;60.82;Cash
+1693;Standard;17%;74.83;Cash
+1694;Standard;19%;87.81;Bank Transfer
+1695;Express;25%;66.75;Debit Card
+1696;Two Day Shipping;26%;94.74;PayPal
+1697;Free Shipping;28%;68.72;Credit Card
+1698;Next Day Air;27%;86.73;Credit Card
+1699;Standard;28%;14.72;Bank Transfer
+1700;Free Shipping;30%;66.7;Debit Card
+1701;Express;29%;69.71;Bank Transfer
+1702;Next Day Air;20%;14.8;Debit Card
+1703;Express;6%;82.94;Bank Transfer
+1704;Next Day Air;15%;21.85;Bank Transfer
+1705;Store Pickup;30%;19.7;Cash
+1706;Two Day Shipping;25%;28.75;Venmo
+1707;Standard;5%;86.95;Venmo
+1708;Two Day Shipping;40%;80.6;Cash
+1709;Express;10%;57.9;Credit Card
+1710;Standard;7%;82.93;Bank Transfer
+1711;Store Pickup;9%;58.91;Credit Card
+1712;Express;8%;92.92;Credit Card
+1713;Two Day Shipping;11%;86.89;Cash
+1714;Free Shipping;12%;21.88;PayPal
+1715;Standard;14%;70.86;Cash
+1716;Two Day Shipping;13%;68.87;PayPal
+1717;Standard;4%;46.96;Cash
+1718;Express;16%;49.84;Debit Card
+1719;Two Day Shipping;18%;95.82;PayPal
+1720;Free Shipping;17%;38.83;Venmo
+1721;Express;19%;83.81;Debit Card
+1722;Free Shipping;25%;27.75;Credit Card
+1723;Standard;26%;50.74;Cash
+1724;Standard;28%;19.72;PayPal
+1725;Free Shipping;27%;71.73;PayPal
+1726;Next Day Air;28%;32.72;Venmo
+1727;Express;30%;27.7;Debit Card
+1728;Express;29%;52.71;PayPal
+1729;Express;20%;19.8;Debit Card
+1730;Store Pickup;6%;20.94;Venmo
+1731;Free Shipping;15%;21.85;Credit Card
+1732;Next Day Air;30%;86.7;Cash
+1733;Free Shipping;25%;49.75;Cash
+1734;Express;5%;84.95;Credit Card
+1735;Next Day Air;40%;97.6;PayPal
+1736;Express;10%;33.9;Venmo
+1737;Two Day Shipping;7%;60.93;Cash
+1738;Store Pickup;9%;97.91;Venmo
+1739;Two Day Shipping;8%;60.92;Credit Card
+1740;Express;11%;97.89;Cash
+1741;Next Day Air;12%;20.88;Bank Transfer
+1742;Next Day Air;14%;50.86;Bank Transfer
+1743;Express;13%;79.87;Venmo
+1744;Standard;4%;71.96;Bank Transfer
+1745;Standard;16%;62.84;PayPal
+1746;Store Pickup;18%;26.82;Cash
+1747;Store Pickup;17%;43.83;Bank Transfer
+1748;Express;19%;22.81;Venmo
+1749;Two Day Shipping;25%;92.75;Bank Transfer
+1750;Two Day Shipping;26%;69.74;Debit Card
+1751;Express;28%;84.72;Venmo
+1752;Two Day Shipping;27%;13.73;Cash
+1753;Store Pickup;28%;28.72;Venmo
+1754;Next Day Air;30%;26.7;Credit Card
+1755;Two Day Shipping;29%;92.71;Credit Card
+1756;Next Day Air;20%;19.8;Cash
+1757;Free Shipping;6%;54.94;Bank Transfer
+1758;Standard;15%;93.85;Debit Card
+1759;Free Shipping;30%;55.7;Venmo
+1760;Next Day Air;25%;57.75;PayPal
+1761;Standard;5%;43.95;PayPal
+1762;Two Day Shipping;40%;94.6;Cash
+1763;Express;10%;15.9;Bank Transfer
+1764;Store Pickup;7%;92.93;PayPal
+1765;Store Pickup;9%;55.91;Venmo
+1766;Two Day Shipping;8%;87.92;Venmo
+1767;Two Day Shipping;11%;53.89;Cash
+1768;Two Day Shipping;12%;88.88;Debit Card
+1769;Two Day Shipping;14%;9.86;PayPal
+1770;Free Shipping;13%;74.87;Cash
+1771;Express;4%;21.96;Bank Transfer
+1772;Store Pickup;16%;81.84;Credit Card
+1773;Two Day Shipping;18%;33.82;Bank Transfer
+1774;Free Shipping;17%;91.83;PayPal
+1775;Express;19%;77.81;PayPal
+1776;Two Day Shipping;25%;46.75;Cash
+1777;Free Shipping;26%;63.74;Venmo
+1778;Free Shipping;28%;43.72;Cash
+1779;Store Pickup;27%;93.73;Debit Card
+1780;Free Shipping;28%;61.72;Venmo
+1781;Next Day Air;30%;80.7;Credit Card
+1782;Express;29%;32.71;Bank Transfer
+1783;Next Day Air;20%;87.8;Bank Transfer
+1784;Free Shipping;6%;9.94;Credit Card
+1785;Standard;15%;30.85;Debit Card
+1786;Next Day Air;30%;28.7;Venmo
+1787;Two Day Shipping;25%;33.75;Venmo
+1788;Two Day Shipping;5%;37.95;Bank Transfer
+1789;Store Pickup;40%;14.6;Cash
+1790;Two Day Shipping;10%;33.9;Debit Card
+1791;Store Pickup;7%;25.93;PayPal
+1792;Store Pickup;9%;97.91;Cash
+1793;Express;8%;58.92;Debit Card
+1794;Store Pickup;11%;91.89;Cash
+1795;Express;12%;13.88;Debit Card
+1796;Two Day Shipping;14%;19.86;Debit Card
+1797;Store Pickup;13%;34.87;Venmo
+1798;Two Day Shipping;4%;34.96;Venmo
+1799;Express;16%;81.84;Cash
+1800;Express;18%;19.82;Venmo
+1801;Express;17%;57.83;Credit Card
+1802;Express;19%;56.81;Debit Card
+1803;Store Pickup;25%;95.75;Venmo
+1804;Free Shipping;26%;96.74;Venmo
+1805;Next Day Air;28%;15.72;Credit Card
+1806;Store Pickup;27%;61.73;Debit Card
+1807;Standard;28%;66.72;Venmo
+1808;Standard;30%;45.7;Venmo
+1809;Next Day Air;29%;70.71;Debit Card
+1810;Free Shipping;20%;98.8;Debit Card
+1811;Standard;6%;27.94;Cash
+1812;Standard;15%;76.85;Bank Transfer
+1813;Express;30%;62.7;PayPal
+1814;Free Shipping;25%;61.75;PayPal
+1815;Free Shipping;5%;91.95;Cash
+1816;Two Day Shipping;40%;71.6;Credit Card
+1817;Express;10%;78.9;Cash
+1818;Free Shipping;7%;26.93;Cash
+1819;Express;9%;38.91;Debit Card
+1820;Next Day Air;8%;85.92;Cash
+1821;Express;11%;93.89;PayPal
+1822;Express;12%;52.88;PayPal
+1823;Standard;14%;84.86;Cash
+1824;Free Shipping;13%;49.87;Bank Transfer
+1825;Express;4%;46.96;Cash
+1826;Next Day Air;16%;74.84;Credit Card
+1827;Express;18%;59.82;Debit Card
+1828;Two Day Shipping;17%;35.83;Bank Transfer
+1829;Express;19%;79.81;Cash
+1830;Two Day Shipping;25%;95.75;Credit Card
+1831;Express;26%;79.74;Venmo
+1832;Free Shipping;28%;70.72;Bank Transfer
+1833;Free Shipping;27%;28.73;Cash
+1834;Two Day Shipping;28%;52.72;PayPal
+1835;Two Day Shipping;30%;34.7;Venmo
+1836;Two Day Shipping;29%;74.71;Credit Card
+1837;Two Day Shipping;20%;51.8;Credit Card
+1838;Free Shipping;6%;76.94;Venmo
+1839;Next Day Air;15%;23.85;Credit Card
+1840;Store Pickup;30%;77.7;Cash
+1841;Store Pickup;25%;97.75;Bank Transfer
+1842;Standard;5%;56.95;PayPal
+1843;Express;40%;77.6;Debit Card
+1844;Next Day Air;10%;75.9;Credit Card
+1845;Two Day Shipping;7%;25.93;Credit Card
+1846;Two Day Shipping;9%;77.91;Bank Transfer
+1847;Standard;8%;52.92;Venmo
+1848;Free Shipping;11%;99.89;Credit Card
+1849;Express;12%;72.88;Cash
+1850;Store Pickup;14%;13.86;Bank Transfer
+1851;Store Pickup;13%;75.87;Debit Card
+1852;Free Shipping;4%;79.96;Bank Transfer
+1853;Store Pickup;16%;79.84;Cash
+1854;Express;18%;66.82;PayPal
+1855;Express;17%;60.83;Credit Card
+1856;Standard;19%;75.81;Cash
+1857;Free Shipping;25%;54.75;PayPal
+1858;Next Day Air;26%;84.74;Cash
+1859;Two Day Shipping;28%;68.72;Debit Card
+1860;Store Pickup;27%;25.73;Debit Card
+1861;Next Day Air;28%;63.72;Credit Card
+1862;Standard;30%;59.7;Debit Card
+1863;Express;29%;35.71;PayPal
+1864;Two Day Shipping;20%;20.8;Debit Card
+1865;Two Day Shipping;6%;71.94;Venmo
+1866;Store Pickup;15%;61.85;Bank Transfer
+1867;Standard;30%;43.7;Credit Card
+1868;Two Day Shipping;25%;51.75;Venmo
+1869;Next Day Air;5%;57.95;Cash
+1870;Two Day Shipping;40%;76.6;Debit Card
+1871;Store Pickup;10%;98.9;Debit Card
+1872;Standard;7%;95.93;Cash
+1873;Standard;9%;63.91;Credit Card
+1874;Express;8%;43.92;Bank Transfer
+1875;Free Shipping;11%;32.89;Cash
+1876;Next Day Air;12%;70.88;Credit Card
+1877;Standard;14%;35.86;Venmo
+1878;Express;13%;61.87;Credit Card
+1879;Store Pickup;4%;28.96;Credit Card
+1880;Express;16%;32.84;Cash
+1881;Two Day Shipping;18%;32.82;Debit Card
+1882;Standard;17%;14.83;Cash
+1883;Store Pickup;19%;53.81;Bank Transfer
+1884;Store Pickup;25%;57.75;Debit Card
+1885;Next Day Air;26%;29.74;Bank Transfer
+1886;Standard;28%;52.72;Cash
+1887;Next Day Air;27%;90.73;Cash
+1888;Express;28%;43.72;PayPal
+1889;Free Shipping;30%;88.7;Credit Card
+1890;Next Day Air;29%;56.71;Bank Transfer
+1891;Store Pickup;20%;56.8;Credit Card
+1892;Next Day Air;6%;73.94;Debit Card
+1893;Two Day Shipping;15%;29.85;Venmo
+1894;Express;30%;19.7;PayPal
+1895;Free Shipping;25%;89.75;Debit Card
+1896;Express;5%;60.95;Debit Card
+1897;Standard;40%;50.6;Venmo
+1898;Free Shipping;10%;96.9;Debit Card
+1899;Next Day Air;7%;96.93;Venmo
+1900;Store Pickup;9%;13.91;PayPal
+1901;Free Shipping;8%;84.92;Cash
+1902;Store Pickup;11%;75.89;Cash
+1903;Store Pickup;12%;21.88;Venmo
+1904;Standard;14%;62.86;Bank Transfer
+1905;Free Shipping;13%;70.87;Cash
+1906;Two Day Shipping;4%;34.96;Bank Transfer
+1907;Two Day Shipping;16%;29.84;PayPal
+1908;Store Pickup;18%;73.82;Credit Card
+1909;Next Day Air;17%;70.83;Debit Card
+1910;Store Pickup;19%;83.81;Credit Card
+1911;Express;25%;37.75;Debit Card
+1912;Express;26%;80.74;Debit Card
+1913;Two Day Shipping;28%;55.72;Credit Card
+1914;Express;27%;19.73;Cash
+1915;Standard;28%;96.72;Credit Card
+1916;Two Day Shipping;30%;73.7;Cash
+1917;Next Day Air;29%;49.71;Debit Card
+1918;Free Shipping;20%;70.8;PayPal
+1919;Standard;6%;32.94;Debit Card
+1920;Express;15%;55.85;PayPal
+1921;Standard;30%;83.7;Cash
+1922;Store Pickup;25%;35.75;Venmo
+1923;Standard;5%;62.95;PayPal
+1924;Standard;40%;35.6;Cash
+1925;Free Shipping;10%;62.9;PayPal
+1926;Express;7%;31.93;Credit Card
+1927;Express;9%;92.91;PayPal
+1928;Standard;8%;28.92;Cash
+1929;Standard;11%;91.89;PayPal
+1930;Standard;12%;32.88;Venmo
+1931;Store Pickup;14%;51.86;Cash
+1932;Store Pickup;13%;15.87;Debit Card
+1933;Free Shipping;4%;35.96;Credit Card
+1934;Next Day Air;16%;66.84;Venmo
+1935;Free Shipping;18%;42.82;Bank Transfer
+1936;Free Shipping;17%;67.83;Cash
+1937;Two Day Shipping;19%;59.81;PayPal
+1938;Two Day Shipping;25%;52.75;Bank Transfer
+1939;Standard;26%;22.74;Debit Card
+1940;Store Pickup;28%;56.72;PayPal
+1941;Two Day Shipping;27%;88.73;PayPal
+1942;Standard;28%;98.72;Credit Card
+1943;Express;30%;27.7;PayPal
+1944;Next Day Air;29%;52.71;Cash
+1945;Free Shipping;20%;9.8;Cash
+1946;Two Day Shipping;6%;37.94;Credit Card
+1947;Standard;15%;9.85;Credit Card
+1948;Store Pickup;30%;31.7;PayPal
+1949;Next Day Air;25%;36.75;PayPal
+1950;Store Pickup;5%;79.95;PayPal
+1951;Free Shipping;40%;77.6;PayPal
+1952;Next Day Air;10%;52.9;Bank Transfer
+1953;Two Day Shipping;7%;81.93;Cash
+1954;Standard;9%;32.91;PayPal
+1955;Free Shipping;8%;76.92;Venmo
+1956;Express;11%;55.89;Cash
+1957;Express;12%;36.88;Credit Card
+1958;Store Pickup;14%;53.86;Cash
+1959;Store Pickup;13%;66.87;Cash
+1960;Store Pickup;4%;89.96;Credit Card
+1961;Two Day Shipping;16%;71.84;Credit Card
+1962;Free Shipping;18%;58.82;Debit Card
+1963;Standard;17%;9.83;PayPal
+1964;Standard;19%;29.81;Credit Card
+1965;Express;25%;50.75;Debit Card
+1966;Express;26%;89.74;Debit Card
+1967;Express;28%;94.72;Credit Card
+1968;Standard;27%;80.73;Venmo
+1969;Standard;28%;69.72;Credit Card
+1970;Next Day Air;30%;31.7;Bank Transfer
+1971;Next Day Air;29%;93.71;Credit Card
+1972;Next Day Air;20%;28.8;Venmo
+1973;Express;6%;30.94;PayPal
+1974;Standard;15%;19.85;Venmo
+1975;Two Day Shipping;30%;43.7;PayPal
+1976;Express;25%;76.75;Cash
+1977;Next Day Air;5%;50.95;PayPal
+1978;Free Shipping;40%;9.6;Bank Transfer
+1979;Store Pickup;10%;77.9;Cash
+1980;Store Pickup;7%;97.93;Debit Card
+1981;Store Pickup;9%;93.91;PayPal
+1982;Express;8%;90.92;PayPal
+1983;Two Day Shipping;11%;76.89;PayPal
+1984;Next Day Air;12%;96.88;Debit Card
+1985;Two Day Shipping;14%;57.86;PayPal
+1986;Two Day Shipping;13%;96.87;Credit Card
+1987;Two Day Shipping;4%;19.96;Venmo
+1988;Express;16%;22.84;Cash
+1989;Free Shipping;18%;78.82;Bank Transfer
+1990;Express;17%;15.83;PayPal
+1991;Two Day Shipping;19%;94.81;PayPal
+1992;Next Day Air;25%;28.75;Venmo
+1993;Two Day Shipping;26%;97.74;Venmo
+1994;Express;28%;95.72;Cash
+1995;Next Day Air;27%;65.73;Credit Card
+1996;Standard;28%;79.72;Debit Card
+1997;Next Day Air;30%;26.7;Cash
+1998;Express;29%;24.71;Debit Card
+1999;Two Day Shipping;20%;9.8;Cash
+2000;Two Day Shipping;6%;88.94;Debit Card
+2001;Two Day Shipping;15%;26.85;Cash
+2002;Free Shipping;30%;89.7;Debit Card
+2003;Express;25%;64.75;PayPal
+2004;Express;5%;71.95;Cash
+2005;Two Day Shipping;40%;69.6;Cash
+2006;Store Pickup;10%;81.9;PayPal
+2007;Express;7%;96.93;Credit Card
+2008;Two Day Shipping;9%;24.91;PayPal
+2009;Free Shipping;8%;19.92;PayPal
+2010;Next Day Air;11%;98.89;Venmo
+2011;Two Day Shipping;12%;20.88;Debit Card
+2012;Express;14%;93.86;Bank Transfer
+2013;Store Pickup;13%;52.87;Cash
+2014;Standard;4%;69.96;Debit Card
+2015;Standard;16%;25.84;PayPal
+2016;Next Day Air;18%;81.82;Credit Card
+2017;Standard;17%;46.83;Debit Card
+2018;Next Day Air;19%;31.81;Bank Transfer
+2019;Store Pickup;25%;96.75;Bank Transfer
+2020;Store Pickup;26%;67.74;Cash
+2021;Next Day Air;28%;22.72;Cash
+2022;Standard;27%;32.73;Venmo
+2023;Store Pickup;28%;37.72;Cash
+2024;Store Pickup;30%;67.7;Cash
+2025;Express;29%;22.71;PayPal
+2026;Express;20%;28.8;Debit Card
+2027;Express;6%;34.94;Bank Transfer
+2028;Standard;15%;72.85;Credit Card
+2029;Two Day Shipping;30%;83.7;Venmo
+2030;Next Day Air;25%;22.75;PayPal
+2031;Standard;5%;66.95;Credit Card
+2032;Standard;40%;50.6;Credit Card
+2033;Next Day Air;10%;35.9;Cash
+2034;Express;7%;54.93;Venmo
+2035;Store Pickup;9%;29.91;PayPal
+2036;Express;8%;69.92;Bank Transfer
+2037;Next Day Air;11%;62.89;Cash
+2038;Express;12%;86.88;Venmo
+2039;Next Day Air;14%;69.86;Credit Card
+2040;Next Day Air;13%;50.87;Debit Card
+2041;Free Shipping;4%;24.96;Venmo
+2042;Next Day Air;16%;31.84;PayPal
+2043;Two Day Shipping;18%;51.82;Venmo
+2044;Standard;17%;32.83;PayPal
+2045;Free Shipping;19%;67.81;PayPal
+2046;Express;25%;19.75;PayPal
+2047;Free Shipping;26%;31.74;Cash
+2048;Store Pickup;28%;81.72;Cash
+2049;Express;27%;63.73;Bank Transfer
+2050;Standard;28%;23.72;Venmo
+2051;Store Pickup;30%;95.7;Debit Card
+2052;Free Shipping;29%;93.71;Credit Card
+2053;Two Day Shipping;20%;19.8;Bank Transfer
+2054;Two Day Shipping;6%;59.94;Credit Card
+2055;Express;15%;55.85;PayPal
+2056;Two Day Shipping;30%;32.7;Bank Transfer
+2057;Two Day Shipping;25%;45.75;PayPal
+2058;Standard;5%;36.95;PayPal
+2059;Store Pickup;40%;97.6;Bank Transfer
+2060;Express;10%;49.9;PayPal
+2061;Next Day Air;7%;62.93;Bank Transfer
+2062;Store Pickup;9%;69.91;Debit Card
+2063;Standard;8%;62.92;Cash
+2064;Standard;11%;85.89;Cash
+2065;Two Day Shipping;12%;98.88;Bank Transfer
+2066;Free Shipping;14%;13.86;Bank Transfer
+2067;Store Pickup;13%;91.87;Debit Card
+2068;Two Day Shipping;4%;20.96;Cash
+2069;Store Pickup;16%;80.84;Venmo
+2070;Free Shipping;18%;81.82;Debit Card
+2071;Express;17%;87.83;Cash
+2072;Store Pickup;19%;99.81;PayPal
+2073;Next Day Air;25%;65.75;Bank Transfer
+2074;Next Day Air;26%;24.74;PayPal
+2075;Free Shipping;28%;52.72;Debit Card
+2076;Express;27%;27.73;Debit Card
+2077;Free Shipping;28%;22.72;Debit Card
+2078;Free Shipping;30%;33.7;Bank Transfer
+2079;Next Day Air;29%;15.71;Debit Card
+2080;Next Day Air;20%;23.8;PayPal
+2081;Free Shipping;6%;46.94;Debit Card
+2082;Standard;15%;77.85;Bank Transfer
+2083;Free Shipping;30%;88.7;Venmo
+2084;Store Pickup;25%;58.75;Credit Card
+2085;Standard;5%;93.95;Bank Transfer
+2086;Free Shipping;40%;9.6;Debit Card
+2087;Two Day Shipping;10%;88.9;Cash
+2088;Standard;7%;90.93;Credit Card
+2089;Standard;9%;88.91;Debit Card
+2090;Free Shipping;8%;56.92;Credit Card
+2091;Free Shipping;11%;70.89;Debit Card
+2092;Next Day Air;12%;96.88;Bank Transfer
+2093;Next Day Air;14%;9.86;Bank Transfer
+2094;Store Pickup;13%;90.87;Debit Card
+2095;Standard;4%;24.96;Venmo
+2096;Store Pickup;16%;62.84;Bank Transfer
+2097;Free Shipping;18%;51.82;Debit Card
+2098;Next Day Air;17%;42.83;Credit Card
+2099;Two Day Shipping;19%;27.81;Venmo
+2100;Express;25%;77.75;PayPal
+2101;Free Shipping;26%;30.74;Cash
+2102;Next Day Air;28%;22.72;Bank Transfer
+2103;Store Pickup;27%;24.73;Cash
+2104;Store Pickup;28%;85.72;Venmo
+2105;Free Shipping;30%;87.7;Venmo
+2106;Free Shipping;29%;34.71;Venmo
+2107;Standard;20%;33.8;Credit Card
+2108;Standard;6%;74.94;PayPal
+2109;Express;15%;45.85;Credit Card
+2110;Free Shipping;30%;30.7;Venmo
+2111;Store Pickup;25%;92.75;Debit Card
+2112;Free Shipping;5%;84.95;Bank Transfer
+2113;Two Day Shipping;40%;67.6;Cash
+2114;Store Pickup;10%;13.9;PayPal
+2115;Standard;7%;50.93;Debit Card
+2116;Store Pickup;9%;84.91;Bank Transfer
+2117;Express;8%;22.92;Debit Card
+2118;Free Shipping;11%;27.89;Debit Card
+2119;Two Day Shipping;12%;43.88;Debit Card
+2120;Store Pickup;14%;56.86;Venmo
+2121;Next Day Air;13%;97.87;PayPal
+2122;Two Day Shipping;4%;67.96;Bank Transfer
+2123;Express;16%;35.84;Debit Card
+2124;Express;18%;70.82;Debit Card
+2125;Next Day Air;17%;59.83;Venmo
+2126;Store Pickup;19%;86.81;PayPal
+2127;Express;25%;37.75;Credit Card
+2128;Two Day Shipping;26%;9.74;Debit Card
+2129;Two Day Shipping;28%;46.72;PayPal
+2130;Store Pickup;27%;56.73;PayPal
+2131;Free Shipping;28%;67.72;Credit Card
+2132;Express;30%;51.7;Bank Transfer
+2133;Two Day Shipping;29%;86.71;Debit Card
+2134;Standard;20%;33.8;Bank Transfer
+2135;Standard;6%;14.94;Credit Card
+2136;Next Day Air;15%;93.85;Debit Card
+2137;Standard;30%;92.7;Bank Transfer
+2138;Two Day Shipping;25%;50.75;Credit Card
+2139;Next Day Air;5%;15.95;Venmo
+2140;Free Shipping;40%;94.6;Cash
+2141;Standard;10%;89.9;Cash
+2142;Two Day Shipping;7%;97.93;PayPal
+2143;Next Day Air;9%;38.91;Venmo
+2144;Next Day Air;8%;65.92;Venmo
+2145;Free Shipping;11%;22.89;PayPal
+2146;Standard;12%;72.88;PayPal
+2147;Standard;14%;22.86;PayPal
+2148;Standard;13%;42.87;Cash
+2149;Two Day Shipping;4%;9.96;PayPal
+2150;Standard;16%;20.84;Bank Transfer
+2151;Two Day Shipping;18%;13.82;Cash
+2152;Two Day Shipping;17%;57.83;Venmo
+2153;Next Day Air;19%;19.81;Bank Transfer
+2154;Free Shipping;25%;93.75;PayPal
+2155;Store Pickup;26%;73.74;Cash
+2156;Store Pickup;28%;50.72;PayPal
+2157;Next Day Air;27%;82.73;Debit Card
+2158;Next Day Air;28%;67.72;Venmo
+2159;Standard;30%;83.7;Bank Transfer
+2160;Free Shipping;29%;57.71;Cash
+2161;Express;20%;91.8;PayPal
+2162;Express;6%;68.94;Debit Card
+2163;Free Shipping;15%;19.85;PayPal
+2164;Express;30%;59.7;Bank Transfer
+2165;Next Day Air;25%;19.75;PayPal
+2166;Express;5%;54.95;Credit Card
+2167;Express;40%;87.6;Credit Card
+2168;Standard;10%;19.9;Venmo
+2169;Next Day Air;7%;73.93;Cash
+2170;Next Day Air;9%;15.91;Bank Transfer
+2171;Next Day Air;8%;31.92;Venmo
+2172;Store Pickup;11%;97.89;Cash
+2173;Store Pickup;12%;88.88;PayPal
+2174;Two Day Shipping;14%;96.86;Venmo
+2175;Store Pickup;13%;9.87;Cash
+2176;Free Shipping;4%;49.96;Credit Card
+2177;Two Day Shipping;16%;90.84;Debit Card
+2178;Express;18%;92.82;PayPal
+2179;Standard;17%;97.83;Venmo
+2180;Next Day Air;19%;81.81;PayPal
+2181;Store Pickup;25%;36.75;Cash
+2182;Free Shipping;26%;62.74;Bank Transfer
+2183;Store Pickup;28%;98.72;Venmo
+2184;Store Pickup;27%;36.73;Cash
+2185;Free Shipping;28%;33.72;PayPal
+2186;Express;30%;31.7;Debit Card
+2187;Next Day Air;29%;22.71;PayPal
+2188;Free Shipping;20%;77.8;PayPal
+2189;Next Day Air;6%;53.94;Credit Card
+2190;Express;15%;93.85;Credit Card
+2191;Express;30%;74.7;Credit Card
+2192;Next Day Air;25%;68.75;Cash
+2193;Next Day Air;5%;34.95;Credit Card
+2194;Express;40%;77.6;PayPal
+2195;Standard;10%;28.9;Bank Transfer
+2196;Next Day Air;7%;61.93;Cash
+2197;Next Day Air;9%;57.91;PayPal
+2198;Two Day Shipping;8%;87.92;Venmo
+2199;Free Shipping;11%;79.89;Venmo
+2200;Store Pickup;12%;46.88;Debit Card
+2201;Next Day Air;14%;50.86;Debit Card
+2202;Two Day Shipping;13%;24.87;Venmo
+2203;Next Day Air;4%;35.96;Credit Card
+2204;Free Shipping;16%;78.84;Cash
+2205;Two Day Shipping;18%;14.82;Debit Card
+2206;Express;17%;67.83;PayPal
+2207;Store Pickup;19%;50.81;Bank Transfer
+2208;Next Day Air;25%;37.75;Credit Card
+2209;Two Day Shipping;26%;45.74;PayPal
+2210;Two Day Shipping;28%;19.72;Bank Transfer
+2211;Store Pickup;27%;24.73;PayPal
+2212;Free Shipping;28%;88.72;Debit Card
+2213;Next Day Air;30%;76.7;Bank Transfer
+2214;Express;29%;93.71;Debit Card
+2215;Standard;20%;99.8;Debit Card
+2216;Express;6%;95.94;Credit Card
+2217;Store Pickup;15%;35.85;Venmo
+2218;Store Pickup;30%;26.7;Bank Transfer
+2219;Store Pickup;25%;66.75;Debit Card
+2220;Store Pickup;5%;90.95;Bank Transfer
+2221;Store Pickup;40%;61.6;Cash
+2222;Free Shipping;10%;87.9;Credit Card
+2223;Store Pickup;7%;65.93;Credit Card
+2224;Next Day Air;9%;64.91;PayPal
+2225;Standard;8%;24.92;Cash
+2226;Free Shipping;11%;63.89;Credit Card
+2227;Store Pickup;12%;71.88;Cash
+2228;Next Day Air;14%;73.86;Credit Card
+2229;Free Shipping;13%;49.87;Credit Card
+2230;Express;4%;96.96;Venmo
+2231;Express;16%;35.84;Venmo
+2232;Store Pickup;18%;9.82;Credit Card
+2233;Store Pickup;17%;63.83;Cash
+2234;Express;19%;30.81;Credit Card
+2235;Express;25%;65.75;Cash
+2236;Two Day Shipping;26%;81.74;Credit Card
+2237;Standard;28%;87.72;Debit Card
+2238;Next Day Air;27%;33.73;Venmo
+2239;Standard;28%;83.72;Debit Card
+2240;Two Day Shipping;30%;95.7;Credit Card
+2241;Next Day Air;29%;70.71;Debit Card
+2242;Free Shipping;20%;76.8;Bank Transfer
+2243;Next Day Air;6%;65.94;Credit Card
+2244;Two Day Shipping;15%;20.85;Debit Card
+2245;Two Day Shipping;30%;36.7;PayPal
+2246;Free Shipping;25%;89.75;PayPal
+2247;Store Pickup;5%;95.95;PayPal
+2248;Next Day Air;40%;36.6;Venmo
+2249;Free Shipping;10%;65.9;PayPal
+2250;Next Day Air;7%;9.93;Debit Card
+2251;Store Pickup;9%;88.91;Credit Card
+2252;Free Shipping;8%;93.92;Debit Card
+2253;Express;11%;95.89;Bank Transfer
+2254;Store Pickup;12%;30.88;PayPal
+2255;Store Pickup;14%;78.86;PayPal
+2256;Store Pickup;13%;38.87;Bank Transfer
+2257;Standard;4%;21.96;Credit Card
+2258;Standard;16%;31.84;Bank Transfer
+2259;Store Pickup;18%;70.82;Credit Card
+2260;Free Shipping;17%;95.83;Cash
+2261;Express;19%;81.81;PayPal
+2262;Standard;25%;75.75;Bank Transfer
+2263;Two Day Shipping;26%;21.74;PayPal
+2264;Store Pickup;28%;13.72;Cash
+2265;Two Day Shipping;27%;91.73;PayPal
+2266;Store Pickup;28%;93.72;PayPal
+2267;Store Pickup;30%;43.7;Debit Card
+2268;Express;29%;9.71;Venmo
+2269;Two Day Shipping;20%;25.8;Bank Transfer
+2270;Store Pickup;6%;37.94;Credit Card
+2271;Express;15%;71.85;Venmo
+2272;Free Shipping;30%;98.7;PayPal
+2273;Standard;25%;37.75;PayPal
+2274;Express;5%;95.95;PayPal
+2275;Next Day Air;40%;26.6;PayPal
+2276;Standard;10%;23.9;Debit Card
+2277;Two Day Shipping;7%;81.93;Debit Card
+2278;Next Day Air;9%;55.91;Credit Card
+2279;Store Pickup;8%;24.92;Cash
+2280;Free Shipping;11%;66.89;Bank Transfer
+2281;Standard;12%;20.88;Credit Card
+2282;Store Pickup;14%;26.86;Bank Transfer
+2283;Two Day Shipping;13%;96.87;Credit Card
+2284;Free Shipping;4%;9.96;Credit Card
+2285;Express;16%;62.84;Venmo
+2286;Two Day Shipping;18%;99.82;PayPal
+2287;Store Pickup;17%;37.83;Venmo
+2288;Store Pickup;19%;9.81;Debit Card
+2289;Next Day Air;25%;90.75;PayPal
+2290;Free Shipping;26%;81.74;Venmo
+2291;Standard;28%;19.72;PayPal
+2292;Two Day Shipping;27%;29.73;Credit Card
+2293;Next Day Air;28%;33.72;Debit Card
+2294;Express;30%;67.7;Debit Card
+2295;Express;29%;94.71;Debit Card
+2296;Two Day Shipping;20%;21.8;PayPal
+2297;Next Day Air;6%;87.94;Venmo
+2298;Standard;15%;82.85;Bank Transfer
+2299;Two Day Shipping;30%;86.7;Cash
+2300;Store Pickup;25%;56.75;Credit Card
+2301;Two Day Shipping;5%;87.95;Credit Card
+2302;Next Day Air;40%;19.6;Debit Card
+2303;Store Pickup;10%;38.9;Venmo
+2304;Two Day Shipping;7%;70.93;Credit Card
+2305;Free Shipping;9%;72.91;Debit Card
+2306;Free Shipping;8%;62.92;Cash
+2307;Standard;11%;77.89;Cash
+2308;Next Day Air;12%;95.88;Debit Card
+2309;Two Day Shipping;14%;80.86;Bank Transfer
+2310;Two Day Shipping;13%;94.87;Bank Transfer
+2311;Standard;4%;67.96;PayPal
+2312;Two Day Shipping;16%;27.84;Bank Transfer
+2313;Free Shipping;18%;29.82;Cash
+2314;Next Day Air;17%;30.83;Bank Transfer
+2315;Express;19%;94.81;Bank Transfer
+2316;Two Day Shipping;25%;78.75;Debit Card
+2317;Standard;26%;38.74;Debit Card
+2318;Next Day Air;28%;33.72;Bank Transfer
+2319;Store Pickup;27%;27.73;Credit Card
+2320;Free Shipping;28%;37.72;PayPal
+2321;Free Shipping;30%;54.7;Debit Card
+2322;Next Day Air;29%;30.71;Debit Card
+2323;Store Pickup;20%;83.8;Venmo
+2324;Express;6%;92.94;Credit Card
+2325;Free Shipping;15%;27.85;Debit Card
+2326;Two Day Shipping;30%;54.7;Cash
+2327;Standard;25%;62.75;Bank Transfer
+2328;Two Day Shipping;5%;93.95;Venmo
+2329;Express;40%;35.6;Venmo
+2330;Free Shipping;10%;96.9;Bank Transfer
+2331;Store Pickup;7%;62.93;PayPal
+2332;Two Day Shipping;9%;76.91;Credit Card
+2333;Store Pickup;8%;52.92;Venmo
+2334;Next Day Air;11%;76.89;PayPal
+2335;Standard;12%;78.88;Credit Card
+2336;Store Pickup;14%;36.86;Venmo
+2337;Free Shipping;13%;93.87;Credit Card
+2338;Store Pickup;4%;75.96;Cash
+2339;Express;16%;67.84;PayPal
+2340;Next Day Air;18%;64.82;Bank Transfer
+2341;Standard;17%;23.83;Credit Card
+2342;Express;19%;30.81;Venmo
+2343;Standard;25%;88.75;Debit Card
+2344;Two Day Shipping;26%;9.74;PayPal
+2345;Express;28%;91.72;Venmo
+2346;Express;27%;31.73;Bank Transfer
+2347;Standard;28%;66.72;Debit Card
+2348;Express;30%;63.7;Cash
+2349;Next Day Air;29%;83.71;PayPal
+2350;Standard;20%;33.8;Credit Card
+2351;Free Shipping;6%;25.94;Cash
+2352;Store Pickup;15%;49.85;PayPal
+2353;Store Pickup;30%;45.7;Bank Transfer
+2354;Standard;25%;70.75;Debit Card
+2355;Next Day Air;5%;77.95;Venmo
+2356;Next Day Air;40%;34.6;Cash
+2357;Free Shipping;10%;57.9;Debit Card
+2358;Two Day Shipping;7%;66.93;Credit Card
+2359;Standard;9%;92.91;Credit Card
+2360;Two Day Shipping;8%;80.92;Bank Transfer
+2361;Two Day Shipping;11%;79.89;Venmo
+2362;Two Day Shipping;12%;63.88;Credit Card
+2363;Standard;14%;14.86;Credit Card
+2364;Express;13%;78.87;Cash
+2365;Free Shipping;4%;59.96;PayPal
+2366;Next Day Air;16%;90.84;Venmo
+2367;Express;18%;65.82;Credit Card
+2368;Standard;17%;84.83;Bank Transfer
+2369;Standard;19%;37.81;Debit Card
+2370;Standard;25%;22.75;PayPal
+2371;Store Pickup;26%;70.74;Venmo
+2372;Next Day Air;28%;24.72;Debit Card
+2373;Express;27%;38.73;PayPal
+2374;Express;28%;19.72;Debit Card
+2375;Standard;30%;72.7;Debit Card
+2376;Next Day Air;29%;62.71;Credit Card
+2377;Express;20%;93.8;Cash
+2378;Next Day Air;6%;93.94;Cash
+2379;Store Pickup;15%;70.85;PayPal
+2380;Two Day Shipping;30%;76.7;Debit Card
+2381;Next Day Air;25%;65.75;PayPal
+2382;Free Shipping;5%;22.95;PayPal
+2383;Express;40%;59.6;Debit Card
+2384;Two Day Shipping;10%;71.9;Bank Transfer
+2385;Two Day Shipping;7%;34.93;PayPal
+2386;Express;9%;30.91;PayPal
+2387;Standard;8%;32.92;Venmo
+2388;Two Day Shipping;11%;94.89;Debit Card
+2389;Store Pickup;12%;67.88;Debit Card
+2390;Store Pickup;14%;86.86;Bank Transfer
+2391;Express;13%;63.87;Debit Card
+2392;Next Day Air;4%;73.96;Bank Transfer
+2393;Two Day Shipping;16%;61.84;Cash
+2394;Two Day Shipping;18%;96.82;PayPal
+2395;Two Day Shipping;17%;46.83;Debit Card
+2396;Two Day Shipping;19%;82.81;PayPal
+2397;Two Day Shipping;25%;81.75;Venmo
+2398;Store Pickup;26%;25.74;Venmo
+2399;Free Shipping;28%;80.72;Bank Transfer
+2400;Store Pickup;27%;43.73;Cash
+2401;Next Day Air;28%;87.72;Credit Card
+2402;Standard;30%;75.7;PayPal
+2403;Free Shipping;29%;88.71;Cash
+2404;Standard;20%;21.8;Debit Card

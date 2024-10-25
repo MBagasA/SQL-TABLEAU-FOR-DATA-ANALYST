@@ -1,0 +1,2405 @@
+price_id;sell_price;Region;rating;subscription_status
+1;53;Kentucky;4.5;Yes
+2;64;Maine;4.9;Yes
+3;73;Massachusetts;3.6;Yes
+4;90;Rhode Island;4.9;Yes
+5;10;Oregon;4.75;Yes
+6;20;Wyoming;4.85;Yes
+7;85;Montana;3.78;Yes
+8;34;Louisiana;4.5;Yes
+9;97;West Virginia;4.9;Yes
+10;31;Missouri;3.6;Yes
+11;34;Arkansas;4.9;Yes
+12;68;Hawaii;4.75;Yes
+13;72;Delaware;4.85;Yes
+14;51;New Hampshire;3.78;Yes
+15;53;New York;4.6;Yes
+16;81;Rhode Island;4.9;Yes
+17;36;Alabama;3.6;Yes
+18;38;Mississippi;4.9;Yes
+19;20;Montana;4.75;Yes
+20;90;Rhode Island;4.85;Yes
+21;51;Louisiana;3.78;Yes
+22;62;North Carolina;4.5;Yes
+23;37;California;4.9;Yes
+24;88;Oklahoma;3.6;Yes
+25;22;Florida;4.9;Yes
+26;25;Texas;4.75;Yes
+27;20;Nevada;4.85;Yes
+28;56;Kentucky;3.78;Yes
+29;94;North Carolina;4.5;Yes
+30;20;Wyoming;4.9;Yes
+31;31;North Carolina;3.6;Yes
+32;79;West Virginia;4.9;Yes
+33;67;Kansas;4.75;Yes
+34;38;Colorado;4.85;Yes
+35;91;North Dakota;3.78;Yes
+36;33;Massachusetts;4.5;Yes
+37;69;Illinois;4.9;Yes
+38;10;Indiana;3.6;Yes
+39;37;Florida;4.9;Yes
+40;60;Arizona;4.75;Yes
+41;76;Louisiana;4.85;Yes
+42;39;Alaska;3.78;Yes
+43;100;Tennessee;4.5;Yes
+44;69;Ohio;4.9;Yes
+45;53;Kentucky;3.6;Yes
+46;21;Tennessee;4.9;Yes
+47;43;California;4.75;Yes
+48;54;Montana;4.85;Yes
+49;55;Nevada;3.78;Yes
+50;30;New Jersey;4.5;Yes
+51;28;Maryland;4.9;Yes
+52;59;Vermont;3.6;Yes
+53;20;Alaska;4.9;Yes
+54;24;Mississippi;4.75;Yes
+55;94;New Mexico;4.85;Yes
+56;28;South Carolina;3.78;Yes
+57;73;Mississippi;4.5;Yes
+58;64;West Virginia;4.9;Yes
+59;54;Missouri;3.6;Yes
+60;79;Louisiana;4.9;Yes
+61;37;Idaho;4.75;Yes
+62;68;Texas;4.85;Yes
+63;21;Mississippi;3.78;Yes
+64;79;Arizona;4.5;Yes
+65;83;Alabama;4.9;Yes
+66;36;New Jersey;3.6;Yes
+67;94;Pennsylvania;4.9;Yes
+68;33;Connecticut;4.75;Yes
+69;46;Utah;4.85;Yes
+70;70;Tennessee;3.78;Yes
+71;29;Alabama;4.5;Yes
+72;20;Virginia;4.9;Yes
+73;26;Georgia;3.6;Yes
+74;85;Hawaii;4.9;Yes
+75;58;Indiana;4.75;Yes
+76;85;Utah;4.85;Yes
+77;43;Delaware;3.78;Yes
+78;53;Delaware;4.5;Yes
+79;91;Nebraska;4.9;Yes
+80;96;Iowa;3.6;Yes
+81;72;New York;4.9;Yes
+82;96;Virginia;4.75;Yes
+83;28;Georgia;4.85;Yes
+84;100;Texas;3.78;Yes
+85;32;Arizona;4.5;Yes
+86;95;New Mexico;4.9;Yes
+87;15;Nevada;3.6;Yes
+88;53;Ohio;4.9;Yes
+89;47;Wyoming;4.75;Yes
+90;83;California;4.85;Yes
+91;200;South Carolina;3.78;Yes
+92;99;South Carolina;4.5;Yes
+93;87;Texas;4.9;Yes
+94;62;Florida;3.6;Yes
+95;76;Nevada;4.9;Yes
+96;100;Missouri;4.75;Yes
+97;73;Delaware;4.85;Yes
+98;92;Virginia;3.78;Yes
+99;67;New York;4.5;Yes
+100;14;Missouri;4.9;Yes
+101;98;South Dakota;3.6;Yes
+102;85;North Dakota;4.9;Yes
+103;67;Oklahoma;4.75;Yes
+104;89;West Virginia;4.85;Yes
+105;24;New Hampshire;3.78;Yes
+106;96;New York;4.5;Yes
+107;35;Minnesota;4.9;Yes
+108;67;Maryland;3.6;Yes
+109;79;Montana;4.9;Yes
+110;85;Alabama;4.75;Yes
+111;26;New York;4.85;Yes
+112;75;Massachusetts;3.78;Yes
+113;65;Florida;4.5;Yes
+114;54;New Jersey;4.9;Yes
+115;95;Massachusetts;3.6;Yes
+116;94;Wyoming;4.9;Yes
+117;86;Virginia;4.75;Yes
+118;32;South Dakota;4.85;Yes
+119;50;Kentucky;3.78;Yes
+120;76;Wyoming;4.5;Yes
+121;84;West Virginia;4.9;Yes
+122;72;Virginia;3.6;Yes
+123;99;Washington;4.9;Yes
+124;89;Louisiana;4.75;Yes
+125;86;Nevada;4.85;Yes
+126;54;California;3.78;Yes
+127;36;Mississippi;4.5;Yes
+128;89;Mississippi;4.9;Yes
+129;32;California;3.6;Yes
+130;67;Pennsylvania;4.9;Yes
+131;39;Kentucky;4.75;Yes
+132;29;Maine;4.85;Yes
+133;58;New Mexico;3.78;Yes
+134;65;Montana;4.5;Yes
+135;94;Texas;4.9;Yes
+136;81;Kansas;3.6;Yes
+137;86;South Carolina;4.9;Yes
+138;43;Colorado;4.75;Yes
+139;29;Georgia;4.85;Yes
+140;95;Florida;3.78;Yes
+141;28;North Carolina;4.5;Yes
+142;46;Virginia;4.9;Yes
+143;58;Nebraska;3.6;Yes
+144;20;Missouri;4.9;Yes
+145;43;New Jersey;4.75;Yes
+146;95;Missouri;4.85;Yes
+147;30;Colorado;3.78;Yes
+148;64;Idaho;4.5;Yes
+149;90;Wyoming;4.9;Yes
+150;76;Delaware;3.6;Yes
+151;96;California;4.9;Yes
+152;47;North Dakota;4.75;Yes
+153;85;South Carolina;4.85;Yes
+154;55;North Carolina;3.78;Yes
+155;98;Oklahoma;4.5;Yes
+156;77;Maine;4.9;Yes
+157;26;Missouri;3.6;Yes
+158;68;Vermont;4.9;Yes
+159;73;Connecticut;4.75;Yes
+160;27;New Hampshire;4.85;Yes
+161;23;Texas;3.78;Yes
+162;20;North Dakota;4.5;Yes
+163;74;California;4.9;Yes
+164;67;Virginia;3.6;Yes
+165;65;Delaware;4.9;Yes
+166;60;Kentucky;4.75;Yes
+167;31;Delaware;4.85;Yes
+168;27;Arkansas;3.78;Yes
+169;80;Louisiana;4.5;Yes
+170;30;Nevada;4.9;Yes
+171;25;Wyoming;3.6;Yes
+172;35;Virginia;4.9;Yes
+173;67;Nebraska;4.75;Yes
+174;46;Hawaii;4.85;Yes
+175;35;Vermont;3.78;Yes
+176;86;Oklahoma;4.5;Yes
+177;81;New Hampshire;4.9;Yes
+178;16;Kansas;3.6;Yes
+179;43;Idaho;4.9;Yes
+180;31;Illinois;4.75;Yes
+181;81;South Dakota;4.85;Yes
+182;61;Massachusetts;3.78;Yes
+183;96;Alabama;4.5;Yes
+184;129;Ohio;4.9;Yes
+185;33;Hawaii;3.6;Yes
+186;32;Wisconsin;4.9;Yes
+187;56;Minnesota;4.75;Yes
+188;140;Georgia;4.85;Yes
+189;53;Arkansas;3.78;Yes
+190;82;West Virginia;4.5;Yes
+191;70;Indiana;4.9;Yes
+192;76;Utah;3.6;Yes
+193;29;Nebraska;4.9;Yes
+194;100;North Dakota;4.75;Yes
+195;94;Missouri;4.85;Yes
+196;25;New York;3.78;Yes
+197;88;Washington;4.5;Yes
+198;78;South Carolina;4.9;Yes
+199;10;Utah;3.6;Yes
+200;73;Idaho;4.9;Yes
+201;61;Pennsylvania;4.75;Yes
+202;22;Missouri;4.85;Yes
+203;38;Nebraska;3.78;Yes
+204;38;Indiana;4.5;Yes
+205;100;Arizona;4.9;Yes
+206;64;Hawaii;3.6;Yes
+207;55;Wisconsin;4.9;Yes
+208;91;Rhode Island;4.75;Yes
+209;38;Wisconsin;4.85;Yes
+210;97;Minnesota;3.78;Yes
+211;22;Vermont;4.5;Yes
+212;92;South Dakota;4.9;Yes
+213;84;Virginia;3.6;Yes
+214;93;Nevada;4.9;Yes
+215;50;Hawaii;4.75;Yes
+216;64;New Jersey;4.85;Yes
+217;61;Massachusetts;3.78;Yes
+218;20;Oklahoma;4.5;Yes
+219;10;California;4.9;Yes
+220;88;Nevada;3.6;Yes
+221;57;Arizona;4.9;Yes
+222;68;North Carolina;4.75;Yes
+223;94;New York;4.85;Yes
+224;24;Wyoming;3.78;Yes
+225;83;South Dakota;4.5;Yes
+226;22;Arkansas;4.9;Yes
+227;74;Texas;3.6;Yes
+228;90;Rhode Island;4.9;Yes
+229;79;New Hampshire;4.75;Yes
+230;28;Ohio;4.85;Yes
+231;88;Utah;3.78;Yes
+232;26;Tennessee;4.5;Yes
+233;27;Hawaii;4.9;Yes
+234;83;Arizona;3.6;Yes
+235;39;South Dakota;4.9;Yes
+236;89;New Jersey;4.75;Yes
+237;68;North Dakota;4.85;Yes
+238;90;Iowa;3.78;Yes
+239;34;Ohio;4.5;Yes
+240;51;Vermont;4.9;Yes
+241;10;Montana;3.6;Yes
+242;88;Delaware;4.9;Yes
+243;85;New York;4.75;Yes
+244;100;Kentucky;4.85;Yes
+245;16;Oregon;3.78;Yes
+246;53;Rhode Island;4.5;Yes
+247;86;Nevada;4.9;Yes
+248;66;Montana;3.6;Yes
+249;100;Pennsylvania;4.9;Yes
+250;47;Alaska;4.75;Yes
+251;25;Mississippi;4.85;Yes
+252;51;Wyoming;3.78;Yes
+253;15;Delaware;4.5;Yes
+254;73;Oklahoma;4.9;Yes
+255;16;Indiana;3.6;Yes
+256;20;Maryland;4.9;Yes
+257;30;South Dakota;4.75;Yes
+258;53;West Virginia;4.85;Yes
+259;74;Alabama;3.78;Yes
+260;57;Louisiana;4.5;Yes
+261;57;Montana;4.9;Yes
+262;77;California;3.6;Yes
+263;14;Hawaii;4.9;Yes
+264;46;Iowa;4.75;Yes
+265;78;Colorado;4.85;Yes
+266;59;Michigan;3.78;Yes
+267;75;Louisiana;4.5;Yes
+268;54;Maryland;4.9;Yes
+269;16;Georgia;3.6;Yes
+270;44;Georgia;4.9;Yes
+271;52;North Dakota;4.75;Yes
+272;69;Maryland;4.85;Yes
+273;26;Oregon;3.78;Yes
+274;33;North Dakota;4.5;Yes
+275;32;Maryland;4.9;Yes
+276;85;Virginia;3.6;Yes
+277;30;South Dakota;4.9;Yes
+278;29;Georgia;4.75;Yes
+279;95;Hawaii;4.85;Yes
+280;69;Arkansas;3.78;Yes
+281;69;Montana;4.5;Yes
+282;61;Oklahoma;4.9;Yes
+283;94;Minnesota;3.6;Yes
+284;30;Montana;4.9;Yes
+285;10;Ohio;4.75;Yes
+286;39;Kentucky;4.85;Yes
+287;51;Nebraska;3.78;Yes
+288;37;Delaware;4.5;Yes
+289;62;North Carolina;4.9;Yes
+290;85;New York;3.6;Yes
+291;33;Colorado;4.9;Yes
+292;26;Delaware;4.75;Yes
+293;99;Utah;4.85;Yes
+294;39;Connecticut;3.78;Yes
+295;20;New Jersey;4.5;Yes
+296;16;West Virginia;4.9;Yes
+297;74;Indiana;3.6;Yes
+298;26;Delaware;4.9;Yes
+299;53;Maryland;4.75;Yes
+300;80;Pennsylvania;4.85;Yes
+301;98;Iowa;3.78;Yes
+302;95;Pennsylvania;4.5;Yes
+303;44;Delaware;4.9;Yes
+304;60;Oregon;3.6;Yes
+305;84;Oregon;4.9;Yes
+306;59;Utah;4.75;Yes
+307;10;North Dakota;4.85;Yes
+308;32;Florida;3.78;Yes
+309;29;Maryland;4.5;Yes
+310;22;Minnesota;4.9;Yes
+311;85;Montana;3.6;Yes
+312;52;Rhode Island;4.9;Yes
+313;89;Massachusetts;4.75;Yes
+314;77;Vermont;4.85;Yes
+315;24;New Jersey;3.78;Yes
+316;24;Wisconsin;4.5;Yes
+317;22;California;4.9;Yes
+318;82;West Virginia;3.6;Yes
+319;67;South Dakota;4.9;Yes
+320;74;Maine;4.75;Yes
+321;72;Kansas;4.85;Yes
+322;36;Vermont;3.78;Yes
+323;95;Tennessee;4.5;Yes
+324;78;Tennessee;4.9;Yes
+325;82;Wyoming;3.6;Yes
+326;70;Vermont;4.9;Yes
+327;15;New Jersey;4.75;Yes
+328;16;Iowa;4.85;Yes
+329;50;Florida;3.78;Yes
+330;31;Nevada;4.5;Yes
+331;51;North Dakota;4.9;Yes
+332;98;Florida;3.6;Yes
+333;86;New York;4.9;Yes
+334;64;Alaska;4.75;Yes
+335;46;Kansas;4.85;Yes
+336;85;Oregon;3.78;Yes
+337;81;Rhode Island;4.5;Yes
+338;59;New Mexico;4.9;Yes
+339;79;Massachusetts;3.6;Yes
+340;33;Pennsylvania;4.9;Yes
+341;47;New Jersey;4.75;Yes
+342;20;Utah;4.85;Yes
+343;36;Kentucky;3.78;Yes
+344;39;Nebraska;4.5;Yes
+345;71;Virginia;4.9;Yes
+346;59;Wyoming;3.6;Yes
+347;50;New Mexico;4.9;Yes
+348;15;Oregon;4.75;Yes
+349;59;South Carolina;4.85;Yes
+350;87;Arizona;3.78;Yes
+351;68;Kentucky;4.5;Yes
+352;90;New York;4.9;Yes
+353;71;Texas;3.6;Yes
+354;64;Missouri;4.9;Yes
+355;76;Pennsylvania;4.75;Yes
+356;16;Oregon;4.85;Yes
+357;80;Nevada;3.78;Yes
+358;56;Arkansas;4.5;Yes
+359;25;Minnesota;4.9;Yes
+360;74;Georgia;3.6;Yes
+361;30;Rhode Island;4.9;Yes
+362;96;Nevada;4.75;Yes
+363;64;Texas;4.85;Yes
+364;88;Florida;3.78;Yes
+365;88;North Dakota;4.5;Yes
+366;88;West Virginia;4.9;Yes
+367;36;Nebraska;3.6;Yes
+368;14;Tennessee;4.9;Yes
+369;39;Oklahoma;4.75;Yes
+370;14;Wisconsin;4.85;Yes
+371;34;Oregon;3.78;Yes
+372;83;North Carolina;4.5;Yes
+373;85;Pennsylvania;4.9;Yes
+374;27;North Dakota;3.6;Yes
+375;78;Ohio;4.9;Yes
+376;32;Oklahoma;4.75;Yes
+377;51;South Carolina;4.85;Yes
+378;32;Maine;3.78;Yes
+379;62;Nevada;4.5;Yes
+380;29;Montana;4.9;Yes
+381;69;New Hampshire;3.6;Yes
+382;25;Maine;4.9;Yes
+383;76;California;4.75;Yes
+384;77;West Virginia;4.85;Yes
+385;33;California;3.78;Yes
+386;93;West Virginia;4.5;Yes
+387;39;Louisiana;4.9;Yes
+388;93;Georgia;3.6;Yes
+389;82;Washington;4.9;Yes
+390;16;Virginia;4.75;Yes
+391;71;Indiana;4.85;Yes
+392;86;Minnesota;3.78;Yes
+393;82;Idaho;4.5;Yes
+394;65;Vermont;4.9;Yes
+395;29;North Dakota;3.6;Yes
+396;65;Rhode Island;4.9;Yes
+397;88;South Carolina;4.75;Yes
+398;46;Mississippi;4.85;Yes
+399;67;Montana;3.78;Yes
+400;35;Idaho;4.5;Yes
+401;66;Utah;4.9;Yes
+402;91;Oklahoma;3.6;Yes
+403;78;California;4.9;Yes
+404;10;Nevada;4.75;Yes
+405;93;Delaware;4.85;Yes
+406;74;South Carolina;3.78;Yes
+407;55;Maryland;4.5;Yes
+408;76;North Carolina;4.9;Yes
+409;66;Alabama;3.6;Yes
+410;51;Minnesota;4.9;Yes
+411;26;Virginia;4.75;Yes
+412;29;Michigan;4.85;Yes
+413;74;Maine;3.78;Yes
+414;99;Nevada;4.5;Yes
+415;88;Wyoming;4.9;Yes
+416;31;Connecticut;3.6;Yes
+417;55;Oregon;4.9;Yes
+418;81;Mississippi;4.75;Yes
+419;73;Illinois;4.85;Yes
+420;91;Utah;3.78;Yes
+421;54;North Carolina;4.5;Yes
+422;14;Kentucky;4.9;Yes
+423;59;Minnesota;3.6;Yes
+424;26;New York;4.9;Yes
+425;23;Illinois;4.75;Yes
+426;87;North Dakota;4.85;Yes
+427;71;Louisiana;3.78;Yes
+428;91;Illinois;4.5;Yes
+429;64;Wyoming;4.9;Yes
+430;94;Washington;3.6;Yes
+431;14;Texas;4.9;Yes
+432;76;New Hampshire;4.75;Yes
+433;86;Indiana;4.85;Yes
+434;92;Alabama;3.78;Yes
+435;52;Oklahoma;4.5;Yes
+436;28;Montana;4.9;Yes
+437;46;Tennessee;3.6;Yes
+438;50;New Mexico;4.9;Yes
+439;23;Iowa;4.75;Yes
+440;50;Idaho;4.85;Yes
+441;89;Oklahoma;3.78;Yes
+442;81;Florida;4.5;Yes
+443;69;Michigan;4.9;Yes
+444;67;Hawaii;3.6;Yes
+445;20;California;4.9;Yes
+446;29;Iowa;4.75;Yes
+447;74;West Virginia;4.85;Yes
+448;82;Washington;3.78;Yes
+449;23;Missouri;4.5;Yes
+450;10;New York;4.9;Yes
+451;21;Connecticut;3.6;Yes
+452;31;Virginia;4.9;Yes
+453;10;Missouri;4.75;Yes
+454;56;Nebraska;4.85;Yes
+455;97;New Jersey;3.78;Yes
+456;100;Utah;4.5;Yes
+457;96;North Carolina;4.9;Yes
+458;99;Rhode Island;3.6;Yes
+459;91;Arkansas;4.9;Yes
+460;30;Maryland;4.75;Yes
+461;65;South Carolina;4.85;Yes
+462;93;Ohio;3.78;Yes
+463;81;Illinois;4.5;Yes
+464;81;Georgia;4.9;Yes
+465;52;Alabama;3.6;Yes
+466;88;Oklahoma;4.9;Yes
+467;24;Vermont;4.75;Yes
+468;51;Nebraska;4.85;Yes
+469;38;Georgia;3.78;Yes
+470;46;Alabama;4.5;Yes
+471;63;Minnesota;4.9;Yes
+472;72;Missouri;3.6;Yes
+473;39;Georgia;4.9;Yes
+474;16;West Virginia;4.75;Yes
+475;76;Arkansas;4.85;Yes
+476;66;Ohio;3.78;Yes
+477;90;Connecticut;4.5;Yes
+478;56;North Dakota;4.9;Yes
+479;43;Kansas;3.6;Yes
+480;84;Iowa;4.9;Yes
+481;88;Vermont;4.75;Yes
+482;88;Wisconsin;4.85;Yes
+483;16;Connecticut;3.78;Yes
+484;73;Oklahoma;4.5;Yes
+485;73;Missouri;4.9;Yes
+486;44;Tennessee;3.6;Yes
+487;63;New Mexico;4.9;Yes
+488;68;Iowa;4.75;Yes
+489;29;Maine;4.85;Yes
+490;85;South Dakota;3.78;Yes
+491;16;Colorado;4.5;Yes
+492;69;Vermont;4.9;Yes
+493;62;Michigan;3.6;Yes
+494;20;Nevada;4.9;Yes
+495;68;Indiana;4.75;Yes
+496;36;Michigan;4.85;Yes
+497;63;California;3.78;Yes
+498;39;Oklahoma;4.5;Yes
+499;78;Iowa;4.9;Yes
+500;99;Rhode Island;3.6;Yes
+501;31;Washington;4.9;Yes
+502;10;Florida;4.75;Yes
+503;30;South Carolina;4.85;Yes
+504;24;West Virginia;3.78;Yes
+505;22;Missouri;4.5;Yes
+506;63;Maine;4.9;Yes
+507;14;Georgia;3.6;Yes
+508;20;Maine;4.9;Yes
+509;20;Illinois;4.75;Yes
+510;80;Delaware;4.85;Yes
+511;87;West Virginia;3.78;Yes
+512;46;Hawaii;4.5;Yes
+513;10;New York;4.9;Yes
+514;65;New Mexico;3.6;Yes
+515;62;Indiana;4.9;Yes
+516;67;Kentucky;4.75;Yes
+517;15;West Virginia;4.85;Yes
+518;10;North Dakota;3.78;Yes
+519;100;Oregon;4.5;Yes
+520;54;Minnesota;4.9;Yes
+521;84;South Carolina;3.6;Yes
+522;15;Vermont;4.9;Yes
+523;88;Minnesota;4.75;Yes
+524;14;Delaware;4.85;Yes
+525;39;Pennsylvania;3.78;Yes
+526;37;Iowa;4.5;Yes
+527;52;New Jersey;4.9;Yes
+528;23;South Carolina;3.6;Yes
+529;88;Maryland;4.9;Yes
+530;84;California;4.75;Yes
+531;37;Montana;4.85;Yes
+532;51;Vermont;3.78;Yes
+533;76;Texas;4.5;Yes
+534;60;North Carolina;4.9;Yes
+535;72;Florida;3.6;Yes
+536;10;West Virginia;4.9;Yes
+537;84;Illinois;4.75;Yes
+538;10;Virginia;4.85;Yes
+539;22;Virginia;3.78;Yes
+540;20;Wyoming;4.5;Yes
+541;37;South Carolina;4.9;Yes
+542;27;Connecticut;3.6;Yes
+543;79;Illinois;4.9;Yes
+544;98;Alabama;4.75;Yes
+545;64;Washington;4.85;Yes
+546;32;Alabama;3.78;Yes
+547;74;New Mexico;4.5;Yes
+548;50;Nevada;4.9;Yes
+549;64;Nebraska;3.6;Yes
+550;29;Arizona;4.9;Yes
+551;62;Georgia;4.75;Yes
+552;78;Idaho;4.85;Yes
+553;94;Missouri;3.78;Yes
+554;59;Florida;4.5;Yes
+555;47;Minnesota;4.9;Yes
+556;57;Maine;3.6;Yes
+557;90;Montana;4.9;Yes
+558;60;Alaska;4.75;Yes
+559;77;Iowa;4.85;Yes
+560;15;Arizona;3.78;Yes
+561;20;Louisiana;4.5;Yes
+562;65;Alabama;4.9;Yes
+563;62;Missouri;3.6;Yes
+564;99;Idaho;4.9;Yes
+565;58;Florida;4.75;Yes
+566;43;Idaho;4.85;Yes
+567;93;Alabama;3.78;Yes
+568;50;New Hampshire;4.5;Yes
+569;88;Utah;4.9;Yes
+570;33;Alabama;3.6;Yes
+571;99;Iowa;4.9;Yes
+572;76;Kentucky;4.75;Yes
+573;97;South Carolina;4.85;Yes
+574;68;California;3.78;Yes
+575;79;Maine;4.5;Yes
+576;86;Nebraska;4.9;Yes
+577;68;Washington;3.6;Yes
+578;52;Alabama;4.9;Yes
+579;90;Maine;4.75;Yes
+580;15;California;4.85;Yes
+581;80;Iowa;3.78;Yes
+582;100;Iowa;4.5;Yes
+583;77;Colorado;4.9;Yes
+584;78;California;3.6;Yes
+585;94;Indiana;4.9;Yes
+586;23;South Carolina;4.75;Yes
+587;20;Wisconsin;4.85;Yes
+588;86;Washington;3.78;Yes
+589;60;South Dakota;4.5;Yes
+590;70;Minnesota;4.9;Yes
+591;39;Alaska;3.6;Yes
+592;37;Kentucky;4.9;Yes
+593;29;North Dakota;4.75;Yes
+594;35;Alaska;4.85;Yes
+595;83;Oklahoma;3.78;Yes
+596;77;Delaware;4.5;Yes
+597;37;Montana;4.9;Yes
+598;69;Alaska;3.6;Yes
+599;66;California;4.9;Yes
+600;26;Massachusetts;4.75;Yes
+601;63;South Carolina;4.85;Yes
+602;38;West Virginia;3.78;Yes
+603;58;Oregon;4.5;Yes
+604;46;Massachusetts;4.9;Yes
+605;92;West Virginia;3.6;Yes
+606;32;California;4.9;Yes
+607;90;Colorado;4.75;Yes
+608;23;Indiana;4.85;Yes
+609;25;Delaware;3.78;Yes
+610;54;Ohio;4.5;Yes
+611;72;Oklahoma;4.9;Yes
+612;33;California;3.6;Yes
+613;43;New Hampshire;4.9;Yes
+614;51;Pennsylvania;4.75;Yes
+615;85;Idaho;4.85;Yes
+616;100;Maryland;3.78;Yes
+617;72;Pennsylvania;4.5;Yes
+618;57;Colorado;4.9;Yes
+619;94;Indiana;3.6;Yes
+620;34;Nebraska;4.9;Yes
+621;89;Rhode Island;4.75;Yes
+622;27;Kansas;4.85;Yes
+623;63;Georgia;3.78;Yes
+624;70;Nevada;4.5;Yes
+625;87;South Carolina;4.9;Yes
+626;79;Delaware;3.6;Yes
+627;79;New Hampshire;4.9;Yes
+628;44;Oregon;4.75;Yes
+629;85;Massachusetts;4.85;Yes
+630;90;Vermont;3.78;Yes
+631;94;Mississippi;4.5;Yes
+632;68;Washington;4.9;Yes
+633;51;Wyoming;3.6;Yes
+634;33;Minnesota;4.9;Yes
+635;60;Ohio;4.75;Yes
+636;59;South Carolina;4.85;Yes
+637;30;Wisconsin;3.78;Yes
+638;20;Tennessee;4.5;Yes
+639;20;Maryland;4.9;Yes
+640;24;Mississippi;3.6;Yes
+641;88;Minnesota;4.9;Yes
+642;78;Alaska;4.75;Yes
+643;25;Arkansas;4.85;Yes
+644;57;Oregon;3.78;Yes
+645;93;Louisiana;4.5;Yes
+646;16;Oklahoma;4.9;Yes
+647;54;Indiana;3.6;Yes
+648;70;Mississippi;4.9;Yes
+649;31;Michigan;4.75;Yes
+650;93;Delaware;4.85;Yes
+651;14;Florida;3.78;Yes
+652;32;Arkansas;4.5;Yes
+653;27;Minnesota;4.9;Yes
+654;68;North Dakota;3.6;Yes
+655;59;California;4.9;Yes
+656;36;Mississippi;4.75;Yes
+657;23;Pennsylvania;4.85;Yes
+658;80;Arizona;3.78;Yes
+659;37;Louisiana;4.5;Yes
+660;52;Virginia;4.9;Yes
+661;79;Montana;3.6;Yes
+662;68;Iowa;4.9;Yes
+663;98;Illinois;4.75;Yes
+664;83;Alaska;4.85;Yes
+665;83;Colorado;3.78;Yes
+666;55;New Mexico;4.5;Yes
+667;26;Colorado;4.9;Yes
+668;76;Arizona;3.6;Yes
+669;85;Hawaii;4.9;Yes
+670;89;Illinois;4.75;Yes
+671;15;Louisiana;4.85;Yes
+672;30;Iowa;3.78;Yes
+673;53;Washington;4.5;Yes
+674;66;Oklahoma;4.9;Yes
+675;33;Washington;3.6;Yes
+676;86;Arkansas;4.9;Yes
+677;60;Connecticut;4.75;Yes
+678;62;Washington;4.85;Yes
+679;74;Maine;3.78;Yes
+680;95;Michigan;4.5;Yes
+681;25;Tennessee;4.9;Yes
+682;59;Louisiana;3.6;Yes
+683;29;Missouri;4.9;Yes
+684;36;Michigan;4.75;Yes
+685;82;Alabama;4.85;Yes
+686;71;Massachusetts;3.78;Yes
+687;35;Indiana;4.5;Yes
+688;38;West Virginia;4.9;Yes
+689;59;Michigan;3.6;Yes
+690;91;Pennsylvania;4.9;Yes
+691;68;Alaska;4.75;Yes
+692;21;Massachusetts;4.85;Yes
+693;95;North Dakota;3.78;Yes
+694;52;Vermont;4.5;Yes
+695;21;Kentucky;4.9;Yes
+696;67;Nevada;3.6;Yes
+697;16;Utah;4.9;Yes
+698;63;North Dakota;4.75;Yes
+699;15;Iowa;4.85;Yes
+700;46;Connecticut;3.78;Yes
+701;79;Wisconsin;4.5;Yes
+702;90;Idaho;4.9;Yes
+703;71;Montana;3.6;Yes
+704;87;Connecticut;4.9;Yes
+705;66;Idaho;4.75;Yes
+706;90;Arkansas;4.85;Yes
+707;47;Iowa;3.78;Yes
+708;38;Louisiana;4.5;Yes
+709;50;Kentucky;4.9;Yes
+710;79;Massachusetts;3.6;Yes
+711;91;Virginia;4.9;Yes
+712;60;New Hampshire;4.75;Yes
+713;81;New Hampshire;4.85;Yes
+714;90;Oregon;3.78;Yes
+715;70;South Dakota;4.5;Yes
+716;63;Delaware;4.9;Yes
+717;29;Missouri;3.6;Yes
+718;90;Alaska;4.9;Yes
+719;22;Florida;4.75;Yes
+720;22;Mississippi;4.85;Yes
+721;62;New Mexico;3.78;Yes
+722;57;California;4.5;Yes
+723;32;Wyoming;4.9;Yes
+724;53;Missouri;3.6;Yes
+725;79;New Hampshire;4.9;Yes
+726;61;Texas;4.75;Yes
+727;78;North Dakota;4.85;Yes
+728;97;Arkansas;3.78;Yes
+729;78;Nebraska;4.5;Yes
+730;56;Minnesota;4.9;Yes
+731;25;Massachusetts;3.6;Yes
+732;28;Arkansas;4.9;Yes
+733;57;New Hampshire;4.75;Yes
+734;36;Rhode Island;4.85;Yes
+735;69;New Jersey;3.78;Yes
+736;20;Montana;4.5;Yes
+737;58;Colorado;4.9;Yes
+738;24;Nebraska;3.6;Yes
+739;31;Minnesota;4.9;Yes
+740;29;Minnesota;4.75;Yes
+741;69;South Dakota;4.85;Yes
+742;79;West Virginia;3.78;Yes
+743;39;Nevada;4.5;Yes
+744;84;North Carolina;4.9;Yes
+745;66;Illinois;3.6;Yes
+746;92;Michigan;4.9;Yes
+747;10;Michigan;4.75;Yes
+748;74;Oklahoma;4.85;Yes
+749;39;South Dakota;3.78;Yes
+750;71;Oklahoma;4.5;Yes
+751;95;Maryland;4.9;Yes
+752;72;Ohio;3.6;Yes
+753;85;Ohio;4.9;Yes
+754;54;Massachusetts;4.75;Yes
+755;15;North Carolina;4.85;Yes
+756;24;Florida;3.78;Yes
+757;99;Montana;4.5;Yes
+758;32;Minnesota;4.9;Yes
+759;71;Massachusetts;3.6;Yes
+760;10;Rhode Island;4.9;Yes
+761;50;Minnesota;4.75;Yes
+762;91;Nevada;4.85;Yes
+763;46;New Mexico;3.78;Yes
+764;50;North Carolina;4.5;Yes
+765;39;Virginia;4.9;Yes
+766;99;Alaska;3.6;Yes
+767;20;Nevada;4.9;Yes
+768;77;Pennsylvania;4.75;Yes
+769;95;Illinois;4.85;Yes
+770;100;Delaware;3.78;Yes
+771;54;Vermont;4.5;Yes
+772;68;Hawaii;4.9;Yes
+773;22;Illinois;3.6;Yes
+774;84;California;4.9;Yes
+775;46;Nevada;4.75;Yes
+776;53;Kentucky;4.85;Yes
+777;60;Alabama;3.78;Yes
+778;32;Wyoming;4.5;Yes
+779;50;Massachusetts;4.9;Yes
+780;94;Utah;3.6;Yes
+781;26;New York;4.9;Yes
+782;44;Vermont;4.75;Yes
+783;57;Hawaii;4.85;Yes
+784;65;Louisiana;3.78;Yes
+785;72;Alabama;4.5;Yes
+786;62;Louisiana;4.9;Yes
+787;21;Indiana;3.6;Yes
+788;85;Michigan;4.9;Yes
+789;51;Rhode Island;4.75;Yes
+790;84;Idaho;4.85;Yes
+791;37;Louisiana;3.78;Yes
+792;44;North Carolina;4.5;Yes
+793;10;New Jersey;4.9;Yes
+794;35;Alabama;3.6;Yes
+795;50;Kentucky;4.9;Yes
+796;26;New York;4.75;Yes
+797;78;Arizona;4.85;Yes
+798;82;Maryland;3.78;Yes
+799;39;Alaska;4.5;Yes
+800;55;Nevada;4.9;Yes
+801;20;Utah;3.6;Yes
+802;29;New Mexico;4.9;Yes
+803;15;Delaware;4.75;Yes
+804;38;Connecticut;4.85;Yes
+805;47;Mississippi;3.78;Yes
+806;30;Connecticut;4.5;Yes
+807;56;Florida;4.9;Yes
+808;89;New York;3.6;Yes
+809;96;Wisconsin;4.9;Yes
+810;81;South Carolina;4.75;Yes
+811;83;South Dakota;4.85;Yes
+812;35;Illinois;3.78;Yes
+813;56;Alaska;4.5;Yes
+814;10;Montana;4.9;Yes
+815;62;Minnesota;3.6;Yes
+816;84;West Virginia;4.9;Yes
+817;24;Illinois;4.75;Yes
+818;21;Nevada;4.85;Yes
+819;91;Idaho;3.78;Yes
+820;36;Colorado;4.5;Yes
+821;39;Louisiana;4.9;Yes
+822;39;Vermont;3.6;Yes
+823;59;Mississippi;4.9;Yes
+824;27;Georgia;4.75;Yes
+825;94;Georgia;4.85;Yes
+826;94;Nebraska;3.78;Yes
+827;94;Massachusetts;4.5;Yes
+828;51;Colorado;4.9;Yes
+829;62;Nevada;3.6;Yes
+830;57;Idaho;4.9;Yes
+831;76;Wyoming;4.75;Yes
+832;63;Washington;4.85;Yes
+833;80;California;3.78;Yes
+834;68;Oklahoma;4.5;Yes
+835;89;Nevada;4.9;Yes
+836;26;Maryland;3.6;Yes
+837;90;West Virginia;4.9;Yes
+838;28;Illinois;4.75;Yes
+839;29;Kentucky;4.85;Yes
+840;31;Illinois;3.78;Yes
+841;24;Alabama;4.5;Yes
+842;88;Texas;4.9;Yes
+843;87;Missouri;3.6;Yes
+844;80;Pennsylvania;4.9;Yes
+845;20;Missouri;4.75;Yes
+846;21;Michigan;4.85;Yes
+847;72;Kentucky;3.78;Yes
+848;44;New Jersey;4.5;Yes
+849;73;Delaware;4.9;Yes
+850;61;Missouri;3.6;Yes
+851;20;Connecticut;4.9;Yes
+852;86;Massachusetts;4.75;Yes
+853;60;Florida;4.85;Yes
+854;43;Delaware;3.78;Yes
+855;44;California;4.5;Yes
+856;76;Oregon;4.9;Yes
+857;33;Alaska;3.6;Yes
+858;60;Missouri;4.9;Yes
+859;26;Oklahoma;4.75;Yes
+860;73;Wisconsin;4.85;Yes
+861;87;South Carolina;3.78;Yes
+862;100;Virginia;4.5;Yes
+863;84;Arkansas;4.9;Yes
+864;15;Vermont;3.6;Yes
+865;59;Kentucky;4.9;Yes
+866;26;Colorado;4.75;Yes
+867;69;New Mexico;4.85;Yes
+868;20;Colorado;3.78;Yes
+869;83;North Carolina;4.5;Yes
+870;54;New Hampshire;4.9;Yes
+871;66;West Virginia;3.6;Yes
+872;16;Hawaii;4.9;Yes
+873;33;North Dakota;4.75;Yes
+874;77;Mississippi;4.85;Yes
+875;65;Maine;3.78;Yes
+876;39;North Dakota;4.5;Yes
+877;51;Nebraska;4.9;Yes
+878;65;Nebraska;3.6;Yes
+879;89;Tennessee;4.9;Yes
+880;76;Wyoming;4.75;Yes
+881;75;Nevada;4.85;Yes
+882;61;South Carolina;3.78;Yes
+883;35;Virginia;4.5;Yes
+884;37;Pennsylvania;4.9;Yes
+885;91;Hawaii;3.6;Yes
+886;99;Ohio;4.9;Yes
+887;54;Utah;4.75;Yes
+888;47;Minnesota;4.85;Yes
+889;77;New Hampshire;3.78;Yes
+890;84;Arizona;4.5;Yes
+891;51;New York;4.9;Yes
+892;26;Pennsylvania;3.6;Yes
+893;64;New Mexico;4.9;Yes
+894;51;Nebraska;4.75;Yes
+895;60;Wyoming;4.85;Yes
+896;69;Mississippi;3.78;Yes
+897;29;Arkansas;4.5;Yes
+898;91;Illinois;4.9;Yes
+899;70;Nevada;3.6;Yes
+900;58;Rhode Island;4.9;Yes
+901;98;West Virginia;4.75;Yes
+902;68;Missouri;4.85;Yes
+903;44;Kentucky;3.78;Yes
+904;10;Washington;4.5;Yes
+905;99;Alaska;4.9;Yes
+906;68;Mississippi;3.6;Yes
+907;56;South Carolina;4.9;Yes
+908;43;Missouri;4.75;Yes
+909;99;New Jersey;4.85;Yes
+910;56;Louisiana;3.78;Yes
+911;25;South Carolina;4.5;Yes
+912;74;Vermont;4.9;Yes
+913;56;Arkansas;3.6;Yes
+914;47;Utah;4.9;Yes
+915;67;Washington;4.75;Yes
+916;22;Rhode Island;4.85;Yes
+917;34;Illinois;3.78;Yes
+918;64;Missouri;4.5;Yes
+919;16;North Carolina;4.9;Yes
+920;82;Massachusetts;3.6;Yes
+921;81;Arkansas;4.9;Yes
+922;24;South Dakota;4.75;Yes
+923;60;Georgia;4.85;Yes
+924;24;Arkansas;3.78;Yes
+925;78;Kansas;4.5;Yes
+926;88;Arizona;4.9;Yes
+927;63;Massachusetts;3.6;Yes
+928;78;New Mexico;4.9;Yes
+929;37;Arkansas;4.75;Yes
+930;94;Nebraska;4.85;Yes
+931;78;Hawaii;3.78;Yes
+932;36;Nebraska;4.5;Yes
+933;24;Indiana;4.9;Yes
+934;84;Colorado;3.6;Yes
+935;47;Oregon;4.9;Yes
+936;51;Ohio;4.75;Yes
+937;84;Maine;4.85;Yes
+938;24;Iowa;3.78;Yes
+939;97;Wisconsin;4.5;Yes
+940;89;New York;4.9;Yes
+941;44;Colorado;3.6;Yes
+942;35;Illinois;4.9;Yes
+943;91;Arizona;4.75;Yes
+944;63;Oklahoma;4.85;Yes
+945;97;Indiana;3.78;Yes
+946;38;Minnesota;4.5;Yes
+947;24;Pennsylvania;4.9;Yes
+948;32;Indiana;3.6;Yes
+949;90;Alabama;4.9;Yes
+950;36;Montana;4.75;Yes
+951;37;New Mexico;4.85;Yes
+952;51;Alaska;3.78;Yes
+953;71;Idaho;4.5;Yes
+954;50;Utah;4.9;Yes
+955;74;Louisiana;3.6;Yes
+956;75;Mississippi;4.9;Yes
+957;99;Mississippi;4.75;Yes
+958;23;Indiana;4.85;Yes
+959;53;Washington;3.78;Yes
+960;99;Nevada;4.5;Yes
+961;20;Louisiana;4.9;Yes
+962;72;Pennsylvania;3.6;Yes
+963;64;Michigan;4.9;Yes
+964;63;South Carolina;4.75;Yes
+965;51;Arizona;4.85;Yes
+966;55;Delaware;3.78;Yes
+967;55;Kentucky;4.5;Yes
+968;26;Georgia;4.9;Yes
+969;67;North Carolina;3.6;Yes
+970;31;California;4.9;Yes
+971;66;California;4.75;Yes
+972;67;Indiana;4.85;Yes
+973;61;Colorado;3.78;Yes
+974;75;Colorado;4.5;Yes
+975;90;North Carolina;4.9;Yes
+976;14;Washington;3.6;Yes
+977;90;Florida;4.9;Yes
+978;20;Washington;4.75;Yes
+979;14;Colorado;4.85;Yes
+980;33;New Hampshire;3.78;Yes
+981;98;Maryland;4.5;Yes
+982;16;Maryland;4.9;Yes
+983;62;Texas;3.6;Yes
+984;10;New Mexico;4.9;Yes
+985;78;Utah;4.75;Yes
+986;80;West Virginia;4.85;Yes
+987;96;Connecticut;3.78;Yes
+988;47;West Virginia;4.5;Yes
+989;84;Ohio;4.9;Yes
+990;31;Texas;3.6;Yes
+991;63;Washington;4.9;Yes
+992;97;Wisconsin;4.75;Yes
+993;99;Louisiana;4.85;Yes
+994;90;Iowa;3.78;Yes
+995;68;New York;4.5;Yes
+996;80;Idaho;4.9;Yes
+997;91;Delaware;3.6;Yes
+998;30;Kentucky;4.9;Yes
+999;90;Connecticut;4.75;Yes
+1000;28;New Mexico;4.85;Yes
+1001;46;Georgia;3.78;Yes
+1002;60;Washington;4.5;Yes
+1003;59;North Dakota;4.9;Yes
+1004;68;Ohio;3.6;Yes
+1005;79;Tennessee;4.9;Yes
+1006;94;New York;4.75;Yes
+1007;83;Michigan;4.85;Yes
+1008;62;Georgia;3.78;Yes
+1009;85;New Mexico;4.5;Yes
+1010;30;Louisiana;4.9;Yes
+1011;24;South Dakota;3.6;Yes
+1012;25;Montana;4.9;Yes
+1013;37;New Mexico;4.75;Yes
+1014;69;South Carolina;4.85;Yes
+1015;97;Ohio;3.78;Yes
+1016;24;North Carolina;4.5;Yes
+1017;30;Idaho;4.9;Yes
+1018;53;Oklahoma;3.6;Yes
+1019;70;Georgia;4.9;Yes
+1020;76;Kentucky;4.75;Yes
+1021;95;Delaware;4.85;Yes
+1022;51;Massachusetts;3.78;Yes
+1023;15;Nebraska;4.5;Yes
+1024;71;Maine;4.9;Yes
+1025;66;Pennsylvania;3.6;Yes
+1026;84;Nebraska;4.9;Yes
+1027;95;Virginia;4.75;Yes
+1028;90;Ohio;4.85;Yes
+1029;36;Nebraska;3.78;Yes
+1030;22;Ohio;4.5;Yes
+1031;89;Kentucky;4.9;Yes
+1032;50;Tennessee;3.6;Yes
+1033;36;Maine;4.9;Yes
+1034;52;Montana;4.75;Yes
+1035;29;Maryland;4.85;Yes
+1036;89;Georgia;3.78;Yes
+1037;47;Hawaii;4.5;Yes
+1038;25;Rhode Island;4.9;Yes
+1039;74;Nebraska;3.6;Yes
+1040;46;Michigan;4.9;Yes
+1041;22;North Carolina;4.75;Yes
+1042;25;Minnesota;4.85;Yes
+1043;80;Maryland;3.78;Yes
+1044;76;Hawaii;4.5;Yes
+1045;30;Oregon;4.9;Yes
+1046;79;New Mexico;3.6;Yes
+1047;22;Illinois;4.9;Yes
+1048;36;Utah;4.75;Yes
+1049;77;Maine;4.85;Yes
+1050;33;Virginia;3.78;Yes
+1051;64;Florida;4.5;Yes
+1052;53;Ohio;4.9;Yes
+1053;36;Virginia;3.6;Yes
+1054;70;Kansas;4.9;No
+1055;96;Arkansas;4.75;No
+1056;27;Massachusetts;4.85;No
+1057;64;Idaho;3.78;No
+1058;23;Wisconsin;4.5;No
+1059;33;New Mexico;4.9;No
+1060;34;North Carolina;3.6;No
+1061;35;Iowa;4.9;No
+1062;62;Idaho;4.75;No
+1063;75;Ohio;4.85;No
+1064;29;Alabama;3.78;No
+1065;28;Wyoming;4.5;No
+1066;20;Alabama;4.9;No
+1067;96;Mississippi;3.6;No
+1068;43;Pennsylvania;4.9;No
+1069;94;Wyoming;4.75;No
+1070;81;Maryland;4.85;No
+1071;75;North Carolina;3.78;No
+1072;81;Pennsylvania;4.5;No
+1073;92;Idaho;4.9;No
+1074;96;California;3.6;No
+1075;71;Tennessee;4.9;No
+1076;50;Missouri;4.75;No
+1077;72;North Dakota;4.85;No
+1078;28;West Virginia;3.78;No
+1079;59;Arizona;4.5;No
+1080;33;Oklahoma;4.9;No
+1081;59;Pennsylvania;3.6;No
+1082;30;Idaho;4.9;No
+1083;85;South Carolina;4.75;No
+1084;97;Washington;4.85;No
+1085;36;Arkansas;3.78;No
+1086;85;Utah;4.5;No
+1087;62;Alaska;4.9;No
+1088;71;West Virginia;3.6;No
+1089;21;Louisiana;4.9;No
+1090;61;Arizona;4.75;No
+1091;58;Connecticut;4.85;No
+1092;80;North Carolina;3.78;No
+1093;50;South Dakota;4.5;No
+1094;20;Delaware;4.9;No
+1095;14;Connecticut;3.6;No
+1096;34;Tennessee;4.9;No
+1097;46;New Hampshire;4.75;No
+1098;27;Vermont;4.85;No
+1099;98;Idaho;3.78;No
+1100;73;North Carolina;4.5;No
+1101;28;Nevada;4.9;No
+1102;76;Delaware;3.6;No
+1103;83;Texas;4.9;No
+1104;23;Tennessee;4.75;No
+1105;28;Delaware;4.85;No
+1106;83;Massachusetts;3.78;No
+1107;96;Minnesota;4.5;No
+1108;62;Texas;4.9;No
+1109;25;Nebraska;3.6;No
+1110;97;Oklahoma;4.9;No
+1111;61;Texas;4.75;No
+1112;66;New York;4.85;No
+1113;67;Washington;3.78;No
+1114;80;Maryland;4.5;No
+1115;25;New Hampshire;4.9;No
+1116;58;New York;3.6;No
+1117;96;Hawaii;4.9;No
+1118;77;California;4.75;No
+1119;65;Indiana;4.85;No
+1120;36;Louisiana;3.78;No
+1121;84;Pennsylvania;4.5;No
+1122;58;Florida;4.9;No
+1123;62;North Carolina;3.6;No
+1124;67;Massachusetts;4.9;No
+1125;20;Iowa;4.75;No
+1126;90;North Dakota;4.85;No
+1127;58;Iowa;3.78;No
+1128;53;Delaware;4.5;No
+1129;30;New York;4.9;No
+1130;65;New Hampshire;3.6;No
+1131;15;Kentucky;4.9;No
+1132;73;Illinois;4.75;No
+1133;98;North Carolina;4.85;No
+1134;36;Connecticut;3.78;No
+1135;81;Wisconsin;4.5;No
+1136;90;Massachusetts;4.9;No
+1137;83;Illinois;3.6;No
+1138;91;New Mexico;4.9;No
+1139;36;Iowa;4.75;No
+1140;53;Alabama;4.85;No
+1141;39;Maryland;3.78;No
+1142;33;Ohio;4.5;No
+1143;76;Ohio;4.9;No
+1144;23;Nevada;3.6;No
+1145;54;South Carolina;4.9;No
+1146;89;Nevada;4.75;No
+1147;38;Wisconsin;4.85;No
+1148;36;Tennessee;3.78;No
+1149;66;Florida;4.5;No
+1150;16;Georgia;4.9;No
+1151;36;Kentucky;3.6;No
+1152;86;Ohio;4.9;No
+1153;10;Connecticut;4.75;No
+1154;15;Idaho;4.85;No
+1155;82;Georgia;3.78;No
+1156;53;Tennessee;4.5;No
+1157;21;Hawaii;4.9;No
+1158;66;Maryland;3.6;No
+1159;89;Nevada;4.9;No
+1160;55;New Hampshire;4.75;No
+1161;16;North Dakota;4.85;No
+1162;52;Oklahoma;3.78;No
+1163;92;North Carolina;4.5;No
+1164;56;Tennessee;4.9;No
+1165;96;Montana;3.6;No
+1166;64;Wisconsin;4.9;No
+1167;20;Connecticut;4.75;No
+1168;83;New Jersey;4.85;No
+1169;91;Mississippi;3.78;No
+1170;94;Wyoming;4.5;No
+1171;62;Illinois;4.9;No
+1172;55;Louisiana;3.6;No
+1173;68;Oregon;4.9;No
+1174;76;South Dakota;4.75;No
+1175;31;Michigan;4.85;No
+1176;81;New Jersey;3.78;No
+1177;83;Oregon;4.5;No
+1178;21;Iowa;4.9;No
+1179;22;South Carolina;3.6;No
+1180;33;Indiana;4.9;No
+1181;23;Oregon;4.75;No
+1182;96;New York;4.85;No
+1183;21;New Mexico;3.78;No
+1184;39;Louisiana;4.5;No
+1185;73;South Carolina;4.9;No
+1186;64;Maine;3.6;No
+1187;68;Indiana;4.9;No
+1188;89;Iowa;4.75;No
+1189;29;Mississippi;4.85;No
+1190;97;Arkansas;3.78;No
+1191;10;South Carolina;4.5;No
+1192;70;Indiana;4.9;No
+1193;56;Florida;3.6;No
+1194;55;Alaska;4.9;No
+1195;46;New York;4.75;No
+1196;95;Texas;4.85;No
+1197;88;North Dakota;3.78;No
+1198;92;Vermont;4.5;No
+1199;10;New Jersey;4.9;No
+1200;89;Maryland;3.6;No
+1201;22;Connecticut;4.9;No
+1202;61;Illinois;4.75;No
+1203;29;Maryland;4.85;No
+1204;82;Minnesota;3.78;No
+1205;94;Florida;4.5;No
+1206;99;California;4.9;No
+1207;59;Mississippi;3.6;No
+1208;90;Washington;4.9;No
+1209;100;Wisconsin;4.75;No
+1210;62;Pennsylvania;4.85;No
+1211;78;Missouri;3.78;No
+1212;94;Oklahoma;4.5;No
+1213;74;Pennsylvania;4.9;No
+1214;52;Kentucky;3.6;No
+1215;81;Vermont;4.9;No
+1216;20;Oregon;4.75;No
+1217;32;Utah;4.85;No
+1218;63;Nebraska;3.78;No
+1219;79;Pennsylvania;4.5;No
+1220;23;Vermont;4.9;No
+1221;64;Kentucky;3.6;No
+1222;69;Iowa;4.9;No
+1223;69;Indiana;4.75;No
+1224;24;Kansas;4.85;No
+1225;50;Illinois;3.78;No
+1226;97;North Carolina;4.5;No
+1227;91;Ohio;4.9;No
+1228;37;Illinois;3.6;No
+1229;55;Indiana;4.9;No
+1230;52;Kansas;4.75;No
+1231;80;Illinois;4.85;No
+1232;79;Pennsylvania;3.78;No
+1233;23;New York;4.5;No
+1234;73;Utah;4.9;No
+1235;99;New Jersey;3.6;No
+1236;22;Idaho;4.9;No
+1237;68;New Mexico;4.75;No
+1238;92;Michigan;4.85;No
+1239;77;Wyoming;3.78;No
+1240;37;New Jersey;4.5;No
+1241;79;New Jersey;4.9;No
+1242;51;Hawaii;3.6;No
+1243;27;Nevada;4.9;No
+1244;23;New Hampshire;4.75;No
+1245;76;Indiana;4.85;No
+1246;31;New York;3.78;No
+1247;60;Louisiana;4.5;No
+1248;99;Virginia;4.9;No
+1249;37;Wisconsin;3.6;No
+1250;50;Oregon;4.9;No
+1251;26;New Hampshire;4.75;No
+1252;86;Indiana;4.85;No
+1253;15;Massachusetts;3.78;No
+1254;23;Montana;4.5;No
+1255;56;California;4.9;No
+1256;68;Indiana;3.6;No
+1257;20;West Virginia;4.9;No
+1258;67;Minnesota;4.75;No
+1259;87;Ohio;4.85;No
+1260;64;Minnesota;3.78;No
+1261;93;Virginia;4.5;No
+1262;29;Connecticut;4.9;No
+1263;62;Tennessee;3.6;No
+1264;70;Delaware;4.9;No
+1265;92;Vermont;4.75;No
+1266;79;Louisiana;4.85;No
+1267;31;North Dakota;3.78;No
+1268;83;Oregon;4.5;No
+1269;88;Idaho;4.9;No
+1270;53;Vermont;3.6;No
+1271;98;West Virginia;4.9;No
+1272;57;Kentucky;4.75;No
+1273;80;Wisconsin;4.85;No
+1274;29;Mississippi;3.78;No
+1275;73;Missouri;4.5;No
+1276;32;Arkansas;4.9;No
+1277;68;Wyoming;3.6;No
+1278;97;Rhode Island;4.9;No
+1279;98;Utah;4.75;No
+1280;56;Maryland;4.85;No
+1281;78;Georgia;3.78;No
+1282;81;New Jersey;4.5;No
+1283;68;New Hampshire;4.9;No
+1284;94;Oregon;3.6;No
+1285;93;Arkansas;4.9;No
+1286;99;North Carolina;4.75;No
+1287;10;West Virginia;4.85;No
+1288;28;Utah;3.78;No
+1289;93;South Dakota;4.5;No
+1290;24;New Hampshire;4.9;No
+1291;35;Maryland;3.6;No
+1292;68;South Dakota;4.9;No
+1293;61;Kentucky;4.75;No
+1294;74;Florida;4.85;No
+1295;64;Texas;3.78;No
+1296;60;New Mexico;4.5;No
+1297;29;South Dakota;4.9;No
+1298;85;New Jersey;3.6;No
+1299;81;Indiana;4.9;No
+1300;23;Louisiana;4.75;No
+1301;100;West Virginia;4.85;No
+1302;54;Maine;3.78;No
+1303;25;Idaho;4.5;No
+1304;32;New York;4.9;No
+1305;63;Montana;3.6;No
+1306;56;Mississippi;4.9;No
+1307;33;Alaska;4.75;No
+1308;32;Missouri;4.85;No
+1309;38;Rhode Island;3.78;No
+1310;21;Hawaii;4.5;No
+1311;59;South Carolina;4.9;No
+1312;87;Tennessee;3.6;No
+1313;79;Missouri;4.9;No
+1314;28;Missouri;4.75;No
+1315;67;Missouri;4.85;No
+1316;75;Mississippi;3.78;No
+1317;32;Arkansas;4.5;No
+1318;43;Kentucky;4.9;No
+1319;93;Connecticut;3.6;No
+1320;24;Oklahoma;4.9;No
+1321;31;California;4.75;No
+1322;84;Missouri;4.85;No
+1323;74;Washington;3.78;No
+1324;62;New York;4.5;No
+1325;77;Indiana;4.9;No
+1326;73;Oregon;3.6;No
+1327;50;Texas;4.9;No
+1328;14;Florida;4.75;No
+1329;97;Rhode Island;4.85;No
+1330;63;Texas;3.78;No
+1331;65;Vermont;4.5;No
+1332;91;Maryland;4.9;No
+1333;60;Alaska;3.6;No
+1334;69;Idaho;4.9;No
+1335;52;West Virginia;4.75;No
+1336;10;Nevada;4.85;No
+1337;85;Oregon;3.78;No
+1338;86;Tennessee;4.5;No
+1339;51;Alabama;4.9;No
+1340;56;Indiana;3.6;No
+1341;72;Idaho;4.9;No
+1342;27;Rhode Island;4.75;No
+1343;43;Arizona;4.85;No
+1344;56;Florida;3.78;No
+1345;37;New York;4.5;No
+1346;21;Nebraska;4.9;No
+1347;91;Mississippi;3.6;No
+1348;95;Vermont;4.9;No
+1349;54;Nebraska;4.75;No
+1350;36;South Carolina;4.85;No
+1351;71;Delaware;3.78;No
+1352;31;Vermont;4.5;No
+1353;89;Indiana;4.9;No
+1354;83;Oregon;3.6;No
+1355;16;Maryland;4.9;No
+1356;91;Florida;4.75;No
+1357;61;Indiana;4.85;No
+1358;66;Texas;3.78;No
+1359;22;Nebraska;4.5;No
+1360;68;North Carolina;4.9;No
+1361;43;Alabama;3.6;No
+1362;32;Alabama;4.9;No
+1363;46;Colorado;4.75;No
+1364;90;Wisconsin;4.85;No
+1365;75;Delaware;3.78;No
+1366;69;Indiana;4.5;No
+1367;14;Iowa;4.9;No
+1368;63;Iowa;3.6;No
+1369;36;Wisconsin;4.9;No
+1370;75;Iowa;4.75;No
+1371;67;Montana;4.85;No
+1372;64;Mississippi;3.78;No
+1373;61;Michigan;4.5;No
+1374;14;Virginia;4.9;No
+1375;97;New York;3.6;No
+1376;31;Maine;4.9;No
+1377;65;New Jersey;4.75;No
+1378;54;Maryland;4.85;No
+1379;10;Kentucky;3.78;No
+1380;64;Minnesota;4.5;No
+1381;35;Massachusetts;4.9;No
+1382;86;Illinois;3.6;No
+1383;55;Michigan;4.9;No
+1384;58;Wisconsin;4.75;No
+1385;96;Alaska;4.85;No
+1386;64;Mississippi;3.78;No
+1387;56;Oregon;4.5;No
+1388;85;Maryland;4.9;No
+1389;23;Arkansas;3.6;No
+1390;72;Illinois;4.9;No
+1391;38;Arkansas;4.75;No
+1392;29;Mississippi;4.85;No
+1393;46;Arkansas;3.78;No
+1394;58;Idaho;4.5;No
+1395;43;Iowa;4.9;No
+1396;32;West Virginia;3.6;No
+1397;30;Wisconsin;4.9;No
+1398;67;Massachusetts;4.75;No
+1399;10;Texas;4.85;No
+1400;81;Nebraska;3.78;No
+1401;23;Nevada;4.5;No
+1402;59;Indiana;4.9;No
+1403;21;North Dakota;3.6;No
+1404;20;Georgia;4.9;No
+1405;28;New Mexico;4.75;No
+1406;100;New Hampshire;4.85;No
+1407;46;Washington;3.78;No
+1408;61;Nevada;4.5;No
+1409;58;Maine;4.9;No
+1410;50;Idaho;3.6;No
+1411;93;Tennessee;4.9;No
+1412;24;Louisiana;4.75;No
+1413;100;Michigan;4.85;No
+1414;79;New Hampshire;3.78;No
+1415;51;Minnesota;4.5;No
+1416;90;Illinois;4.9;No
+1417;56;Idaho;3.6;No
+1418;25;Montana;4.9;No
+1419;75;Alabama;4.75;No
+1420;75;Montana;4.85;No
+1421;53;California;3.78;No
+1422;100;Pennsylvania;4.5;No
+1423;27;Texas;4.9;No
+1424;60;Michigan;3.6;No
+1425;23;Connecticut;4.9;No
+1426;14;Wyoming;4.75;No
+1427;38;Michigan;4.85;No
+1428;90;South Dakota;3.78;No
+1429;97;North Dakota;4.5;No
+1430;38;Maryland;4.9;No
+1431;30;Michigan;3.6;No
+1432;88;South Dakota;4.9;No
+1433;33;Florida;4.75;No
+1434;60;Minnesota;4.85;No
+1435;64;New York;3.78;No
+1436;95;Oregon;4.5;No
+1437;83;Minnesota;4.9;No
+1438;97;Montana;3.6;No
+1439;38;Washington;4.9;No
+1440;20;New Mexico;4.75;No
+1441;76;Arizona;4.85;No
+1442;25;Nebraska;3.78;No
+1443;92;Idaho;4.5;No
+1444;47;Idaho;4.9;No
+1445;36;Vermont;3.6;No
+1446;51;Arkansas;4.9;No
+1447;35;Wyoming;4.75;No
+1448;57;New Mexico;4.85;No
+1449;95;West Virginia;3.78;No
+1450;15;New York;4.5;No
+1451;44;Illinois;4.9;No
+1452;34;Utah;3.6;No
+1453;25;Colorado;4.9;No
+1454;93;Virginia;4.75;No
+1455;50;Georgia;4.85;No
+1456;79;Alabama;3.78;No
+1457;100;Montana;4.5;No
+1458;57;Pennsylvania;4.9;No
+1459;28;Missouri;3.6;No
+1460;35;Maine;4.9;No
+1461;85;Pennsylvania;4.75;No
+1462;95;Oregon;4.85;No
+1463;90;Utah;3.78;No
+1464;10;Oklahoma;4.5;No
+1465;92;Montana;4.9;No
+1466;72;Nebraska;3.6;No
+1467;71;Alabama;4.9;No
+1468;27;Ohio;4.75;No
+1469;39;Arkansas;4.85;No
+1470;98;Mississippi;3.78;No
+1471;27;California;4.5;No
+1472;71;Alaska;4.9;No
+1473;24;Indiana;3.6;No
+1474;63;Wisconsin;4.9;No
+1475;72;New Jersey;4.75;No
+1476;61;Rhode Island;4.85;No
+1477;56;Wyoming;3.78;No
+1478;32;Oregon;4.5;No
+1479;23;Washington;4.9;No
+1480;100;Washington;3.6;No
+1481;74;New Hampshire;4.9;No
+1482;33;Maryland;4.75;No
+1483;67;Wisconsin;4.85;No
+1484;61;Massachusetts;3.78;No
+1485;46;Nebraska;4.5;No
+1486;56;Nebraska;4.9;No
+1487;73;Idaho;3.6;No
+1488;44;Arizona;4.9;No
+1489;44;Hawaii;4.75;No
+1490;26;Missouri;4.85;No
+1491;52;Louisiana;3.78;No
+1492;54;Arkansas;4.5;No
+1493;38;North Carolina;4.9;No
+1494;44;North Dakota;3.6;No
+1495;76;Montana;4.9;No
+1496;23;Rhode Island;4.75;No
+1497;98;Idaho;4.85;No
+1498;33;Michigan;3.78;No
+1499;32;Illinois;4.5;No
+1500;85;Georgia;4.9;No
+1501;69;Alabama;3.6;No
+1502;55;Alaska;4.9;No
+1503;66;Massachusetts;4.75;No
+1504;30;Michigan;4.85;No
+1505;80;Alaska;3.78;No
+1506;20;North Dakota;4.5;No
+1507;30;South Carolina;4.9;No
+1508;86;Pennsylvania;3.6;No
+1509;84;Colorado;4.9;No
+1510;54;New Hampshire;4.75;No
+1511;30;Maryland;4.85;No
+1512;91;Georgia;3.78;No
+1513;23;Wisconsin;4.5;No
+1514;35;Texas;4.9;No
+1515;90;Utah;3.6;No
+1516;93;Indiana;4.9;No
+1517;68;Nevada;4.75;No
+1518;15;New Hampshire;4.85;No
+1519;73;New York;3.78;No
+1520;73;Texas;4.5;No
+1521;66;Iowa;4.9;No
+1522;59;Washington;3.6;No
+1523;72;Tennessee;4.9;No
+1524;88;Georgia;4.75;No
+1525;76;Massachusetts;4.85;No
+1526;31;Oregon;3.78;No
+1527;22;Oklahoma;4.5;No
+1528;75;Wisconsin;4.9;No
+1529;75;Oregon;3.6;No
+1530;63;Georgia;4.9;No
+1531;21;New Mexico;4.75;No
+1532;83;Mississippi;4.85;No
+1533;46;Wisconsin;3.78;No
+1534;59;New Hampshire;4.5;No
+1535;66;Wyoming;4.9;No
+1536;74;West Virginia;3.6;No
+1537;82;Michigan;4.9;No
+1538;89;Alaska;4.75;No
+1539;65;Illinois;4.85;No
+1540;55;Hawaii;3.78;No
+1541;95;Colorado;4.5;No
+1542;77;Illinois;4.9;No
+1543;44;Hawaii;3.6;No
+1544;89;Wisconsin;4.9;No
+1545;24;Arkansas;4.75;No
+1546;43;Delaware;4.85;No
+1547;51;Oregon;3.78;No
+1548;46;South Carolina;4.5;No
+1549;32;Maryland;4.9;No
+1550;55;Kansas;3.6;No
+1551;26;Arkansas;4.9;No
+1552;29;Minnesota;4.75;No
+1553;10;New Mexico;4.85;No
+1554;10;Delaware;3.78;No
+1555;20;Utah;4.5;No
+1556;47;Ohio;4.9;No
+1557;57;Alabama;3.6;No
+1558;34;South Dakota;4.9;No
+1559;75;New Mexico;4.75;No
+1560;94;Oregon;4.85;No
+1561;84;Oregon;3.78;No
+1562;38;Mississippi;4.5;No
+1563;75;Alabama;4.9;No
+1564;44;Kansas;3.6;No
+1565;33;California;4.9;No
+1566;93;Idaho;4.75;No
+1567;99;Wyoming;4.85;No
+1568;33;Minnesota;3.78;No
+1569;76;Washington;4.5;No
+1570;63;Hawaii;4.9;No
+1571;15;Missouri;3.6;No
+1572;88;Colorado;4.9;No
+1573;92;Washington;4.75;No
+1574;31;North Dakota;4.85;No
+1575;25;Minnesota;3.78;No
+1576;28;California;4.5;No
+1577;75;Michigan;4.9;No
+1578;34;Delaware;3.6;No
+1579;97;California;4.9;No
+1580;80;Oklahoma;4.75;No
+1581;71;North Dakota;4.85;No
+1582;77;Ohio;3.78;No
+1583;15;Hawaii;4.5;No
+1584;92;Maryland;4.9;No
+1585;95;Hawaii;3.6;No
+1586;25;Alabama;4.9;No
+1587;77;Oklahoma;4.75;No
+1588;99;Alabama;4.85;No
+1589;24;Vermont;3.78;No
+1590;72;Ohio;4.5;No
+1591;80;Wisconsin;4.9;No
+1592;100;South Dakota;3.6;No
+1593;83;Iowa;4.9;No
+1594;95;Maryland;4.75;No
+1595;15;Colorado;4.85;No
+1596;35;Wisconsin;3.78;No
+1597;30;Mississippi;4.5;No
+1598;21;Mississippi;4.9;No
+1599;85;California;3.6;No
+1600;54;Delaware;4.9;No
+1601;26;Montana;4.75;No
+1602;59;Indiana;4.85;No
+1603;20;West Virginia;3.78;No
+1604;98;Iowa;4.5;No
+1605;92;Maine;4.9;No
+1606;46;Connecticut;3.6;No
+1607;21;Kansas;4.9;No
+1608;72;Vermont;4.75;No
+1609;58;Nebraska;4.85;No
+1610;93;Nevada;3.78;No
+1611;31;Tennessee;4.5;No
+1612;26;Arkansas;4.9;No
+1613;68;Wisconsin;3.6;No
+1614;31;Illinois;4.9;No
+1615;15;Kansas;4.75;No
+1616;62;New York;4.85;No
+1617;15;Colorado;3.78;No
+1618;64;Wisconsin;4.5;No
+1619;72;Michigan;4.9;No
+1620;78;Hawaii;3.6;No
+1621;47;Virginia;4.9;No
+1622;46;Ohio;4.75;No
+1623;43;Missouri;4.85;No
+1624;58;Indiana;3.78;No
+1625;32;Florida;4.5;No
+1626;10;Minnesota;4.9;No
+1627;35;Nevada;3.6;No
+1628;21;Maine;4.9;No
+1629;64;Massachusetts;4.75;No
+1630;88;North Dakota;4.85;No
+1631;20;New Jersey;3.78;No
+1632;36;Indiana;4.5;No
+1633;28;Oregon;4.9;No
+1634;80;North Dakota;3.6;No
+1635;23;South Carolina;4.9;No
+1636;24;North Carolina;4.75;No
+1637;22;North Dakota;4.85;No
+1638;21;Massachusetts;3.78;No
+1639;51;Tennessee;4.5;No
+1640;65;Missouri;4.9;No
+1641;51;Tennessee;3.6;No
+1642;32;Colorado;4.9;No
+1643;70;Mississippi;4.75;No
+1644;77;Ohio;4.85;No
+1645;90;North Carolina;3.78;No
+1646;36;Ohio;4.5;No
+1647;77;Nebraska;4.9;No
+1648;78;Hawaii;3.6;No
+1649;69;Oklahoma;4.9;No
+1650;63;Wisconsin;4.75;No
+1651;36;Arkansas;4.85;No
+1652;80;Texas;3.78;No
+1653;35;New Mexico;4.5;No
+1654;93;Colorado;4.9;No
+1655;25;Indiana;3.6;No
+1656;81;Arizona;4.9;No
+1657;16;Indiana;4.75;No
+1658;36;Indiana;4.85;No
+1659;66;Alaska;3.78;No
+1660;37;Utah;4.5;No
+1661;10;Louisiana;4.9;No
+1662;86;Iowa;3.6;No
+1663;24;New Mexico;4.9;No
+1664;22;Maine;4.75;No
+1665;53;Minnesota;4.85;No
+1666;15;New Mexico;3.78;No
+1667;64;Arkansas;4.5;No
+1668;14;Oklahoma;4.9;No
+1669;33;Utah;3.6;No
+1670;59;Wisconsin;4.9;No
+1671;73;Utah;4.75;No
+1672;22;Utah;4.85;No
+1673;73;South Carolina;3.78;No
+1674;62;Hawaii;4.5;No
+1675;56;Alaska;4.9;No
+1676;90;Colorado;3.6;No
+1677;44;West Virginia;4.9;No
+1678;35;Oregon;4.75;No
+1679;71;Ohio;4.85;No
+1680;52;Massachusetts;3.78;No
+1681;37;Louisiana;4.5;No
+1682;95;Virginia;4.9;No
+1683;97;New York;3.6;No
+1684;57;Arkansas;4.9;No
+1685;93;New Mexico;4.75;No
+1686;20;Minnesota;4.85;No
+1687;75;Illinois;3.78;No
+1688;70;Georgia;4.5;No
+1689;26;Mississippi;4.9;No
+1690;73;North Carolina;3.6;No
+1691;30;Nevada;4.9;No
+1692;61;Connecticut;4.75;No
+1693;75;Utah;4.85;No
+1694;88;Tennessee;3.78;No
+1695;67;Mississippi;4.5;No
+1696;95;Nebraska;4.9;No
+1697;69;West Virginia;3.6;No
+1698;87;South Carolina;4.9;No
+1699;15;Iowa;4.75;No
+1700;67;North Dakota;4.85;No
+1701;70;West Virginia;3.78;No
+1702;15;Mississippi;4.5;No
+1703;83;Alabama;4.9;No
+1704;22;California;3.6;No
+1705;20;Idaho;4.9;No
+1706;29;South Dakota;4.75;No
+1707;87;North Dakota;4.85;No
+1708;81;Nevada;3.78;No
+1709;58;Florida;4.5;No
+1710;83;Indiana;4.9;No
+1711;59;Arkansas;3.6;No
+1712;93;North Carolina;4.9;No
+1713;87;Illinois;4.75;No
+1714;22;Missouri;4.85;No
+1715;71;South Dakota;3.78;No
+1716;69;Idaho;4.5;No
+1717;47;Connecticut;4.9;No
+1718;50;Hawaii;3.6;No
+1719;96;Maryland;4.9;No
+1720;39;Maryland;4.75;No
+1721;84;Massachusetts;4.85;No
+1722;28;Delaware;3.78;No
+1723;51;Massachusetts;4.5;No
+1724;20;New York;4.9;No
+1725;72;Delaware;3.6;No
+1726;33;Massachusetts;4.9;No
+1727;28;Indiana;4.75;No
+1728;53;Virginia;4.85;No
+1729;20;Wyoming;3.78;No
+1730;21;Illinois;4.5;No
+1731;22;Alabama;4.9;No
+1732;87;Idaho;3.6;No
+1733;50;Rhode Island;4.9;No
+1734;85;New York;4.75;No
+1735;98;Missouri;4.85;No
+1736;34;Texas;3.78;No
+1737;61;Tennessee;4.5;No
+1738;98;Ohio;4.9;No
+1739;61;Tennessee;3.6;No
+1740;98;Minnesota;4.9;No
+1741;21;Wisconsin;4.75;No
+1742;51;Delaware;4.85;No
+1743;80;Kansas;3.78;No
+1744;72;Missouri;4.5;No
+1745;63;Michigan;4.9;No
+1746;27;West Virginia;3.6;No
+1747;44;Alabama;4.9;No
+1748;23;New Hampshire;4.75;No
+1749;93;Montana;4.85;No
+1750;70;Wyoming;3.78;No
+1751;85;Missouri;4.5;No
+1752;14;Ohio;4.9;No
+1753;29;South Dakota;3.6;No
+1754;27;Colorado;4.9;No
+1755;93;Massachusetts;4.75;No
+1756;20;Delaware;4.85;No
+1757;55;New Hampshire;3.78;No
+1758;94;Michigan;4.5;No
+1759;56;Pennsylvania;4.9;No
+1760;58;Louisiana;3.6;No
+1761;44;Minnesota;4.9;No
+1762;95;Hawaii;4.75;No
+1763;16;Idaho;4.85;No
+1764;93;Vermont;3.78;No
+1765;56;Delaware;4.5;No
+1766;88;New Mexico;4.9;No
+1767;54;Alaska;3.6;No
+1768;89;Minnesota;4.9;No
+1769;10;Nebraska;4.75;No
+1770;75;Alaska;4.85;No
+1771;22;Michigan;3.78;No
+1772;82;Indiana;4.5;No
+1773;34;Hawaii;4.9;No
+1774;92;West Virginia;3.6;No
+1775;78;New York;4.9;No
+1776;47;Iowa;4.75;No
+1777;64;Arizona;4.85;No
+1778;44;Minnesota;3.78;No
+1779;94;Texas;4.5;No
+1780;62;Virginia;4.9;No
+1781;81;North Dakota;3.6;No
+1782;33;Iowa;4.9;No
+1783;88;Utah;4.75;No
+1784;10;Ohio;4.85;No
+1785;31;Louisiana;3.78;No
+1786;29;Iowa;4.5;No
+1787;34;Maryland;4.9;No
+1788;38;Montana;3.6;No
+1789;15;Illinois;4.9;No
+1790;34;Arizona;4.75;No
+1791;26;North Carolina;4.85;No
+1792;98;Montana;3.78;No
+1793;59;Iowa;4.5;No
+1794;92;Iowa;4.9;No
+1795;14;Ohio;3.6;No
+1796;20;Wisconsin;4.9;No
+1797;35;South Carolina;4.75;No
+1798;35;Oregon;4.85;No
+1799;82;North Dakota;3.78;No
+1800;20;California;4.5;No
+1801;58;Mississippi;4.9;No
+1802;57;New Jersey;3.6;No
+1803;96;Rhode Island;4.9;No
+1804;97;New Hampshire;4.75;No
+1805;16;Louisiana;4.85;No
+1806;62;Arizona;3.78;No
+1807;67;Rhode Island;4.5;No
+1808;46;Vermont;4.9;No
+1809;71;Tennessee;3.6;No
+1810;99;Alaska;4.9;No
+1811;28;Maryland;4.75;No
+1812;77;Wisconsin;4.85;No
+1813;63;Nevada;3.78;No
+1814;62;Illinois;4.5;No
+1815;92;Montana;4.9;No
+1816;72;New Mexico;3.6;No
+1817;79;Virginia;4.9;No
+1818;27;Delaware;4.75;No
+1819;39;North Carolina;4.85;No
+1820;86;Nevada;3.78;No
+1821;94;Washington;4.5;No
+1822;53;Maine;4.9;No
+1823;85;Connecticut;3.6;No
+1824;50;Louisiana;4.9;No
+1825;47;Illinois;4.75;No
+1826;75;South Dakota;4.85;No
+1827;60;Indiana;3.78;No
+1828;36;Vermont;4.5;No
+1829;80;New Hampshire;4.9;No
+1830;96;Oregon;3.6;No
+1831;80;Kansas;4.9;No
+1832;71;Maine;4.75;No
+1833;29;Louisiana;4.85;No
+1834;53;Louisiana;3.78;No
+1835;35;Indiana;4.5;No
+1836;75;Kentucky;4.9;No
+1837;52;South Carolina;3.6;No
+1838;77;Montana;4.9;No
+1839;24;Vermont;4.75;No
+1840;78;Mississippi;4.85;No
+1841;98;Wyoming;3.78;No
+1842;57;Vermont;4.5;No
+1843;78;Alabama;4.9;No
+1844;76;Kentucky;3.6;No
+1845;26;South Dakota;4.9;No
+1846;78;Delaware;4.75;No
+1847;53;Wisconsin;4.85;No
+1848;100;Arizona;3.78;No
+1849;73;Maine;4.5;No
+1850;14;New Mexico;4.9;No
+1851;76;Wyoming;3.6;No
+1852;80;Delaware;4.9;No
+1853;80;Pennsylvania;4.75;No
+1854;67;North Dakota;4.85;No
+1855;61;Kentucky;3.78;No
+1856;76;Rhode Island;4.5;No
+1857;55;Arizona;4.9;No
+1858;85;Colorado;3.6;No
+1859;69;Maine;4.9;No
+1860;26;New Jersey;4.75;No
+1861;64;Kansas;4.85;No
+1862;60;South Dakota;3.78;No
+1863;36;New Hampshire;4.5;No
+1864;21;Connecticut;4.9;No
+1865;72;Wyoming;3.6;No
+1866;62;Missouri;4.9;No
+1867;44;Alaska;4.75;No
+1868;52;Delaware;4.85;No
+1869;58;Indiana;3.78;No
+1870;77;West Virginia;4.5;No
+1871;99;Wyoming;4.9;No
+1872;96;Illinois;3.6;No
+1873;64;Alaska;4.9;No
+1874;44;Wisconsin;4.75;No
+1875;33;Indiana;4.85;No
+1876;71;Tennessee;3.78;No
+1877;36;Illinois;4.5;No
+1878;62;Pennsylvania;4.9;No
+1879;29;Oklahoma;3.6;No
+1880;33;Tennessee;4.9;No
+1881;33;New Jersey;4.75;No
+1882;15;New Jersey;4.85;No
+1883;54;Tennessee;3.78;No
+1884;58;Georgia;4.5;No
+1885;30;Arizona;4.9;No
+1886;53;Nevada;3.6;No
+1887;91;Arkansas;4.9;No
+1888;44;North Dakota;4.75;No
+1889;89;South Dakota;4.85;No
+1890;57;North Carolina;3.78;No
+1891;57;Hawaii;4.5;No
+1892;74;New Hampshire;4.9;No
+1893;30;California;3.6;No
+1894;20;Delaware;4.9;No
+1895;90;Arizona;4.75;No
+1896;61;Washington;4.85;No
+1897;51;Nevada;3.78;No
+1898;97;Alaska;4.5;No
+1899;97;Texas;4.9;No
+1900;14;New York;3.6;No
+1901;85;Iowa;4.9;No
+1902;76;Arizona;4.75;No
+1903;22;New Mexico;4.85;No
+1904;63;North Carolina;3.78;No
+1905;71;Nevada;4.5;No
+1906;35;Idaho;4.9;No
+1907;30;Vermont;3.6;No
+1908;74;New Mexico;4.9;No
+1909;71;Georgia;4.75;No
+1910;84;Kentucky;4.85;No
+1911;38;New York;3.78;No
+1912;81;Arizona;4.5;No
+1913;56;Colorado;4.9;No
+1914;20;Kentucky;3.6;No
+1915;97;Alaska;4.9;No
+1916;74;Alabama;4.75;No
+1917;50;Connecticut;4.85;No
+1918;71;Hawaii;3.78;No
+1919;33;Idaho;4.5;No
+1920;56;Virginia;4.9;No
+1921;84;Connecticut;3.6;No
+1922;36;Michigan;4.9;No
+1923;63;Kentucky;4.75;No
+1924;36;Nebraska;4.85;No
+1925;63;Michigan;3.78;No
+1926;32;Utah;4.5;No
+1927;93;New Mexico;4.9;No
+1928;29;Florida;3.6;No
+1929;92;Mississippi;4.9;No
+1930;33;Hawaii;4.75;No
+1931;52;North Carolina;4.85;No
+1932;16;Illinois;3.78;No
+1933;36;Maryland;4.5;No
+1934;67;Montana;4.9;No
+1935;43;Michigan;3.6;No
+1936;68;North Carolina;4.9;No
+1937;60;Minnesota;4.75;No
+1938;53;Delaware;4.85;No
+1939;23;Kentucky;3.78;No
+1940;57;Ohio;4.5;No
+1941;89;Alaska;4.9;No
+1942;99;Vermont;3.6;No
+1943;28;Alabama;4.9;No
+1944;53;Wisconsin;4.75;No
+1945;10;Arkansas;4.85;No
+1946;38;Georgia;3.78;No
+1947;10;Louisiana;4.5;No
+1948;32;New York;4.9;No
+1949;37;Connecticut;3.6;No
+1950;80;Nebraska;4.9;No
+1951;78;Arkansas;4.75;No
+1952;53;Connecticut;4.85;No
+1953;82;Maryland;3.78;No
+1954;33;Colorado;4.5;No
+1955;77;Colorado;4.9;No
+1956;56;Maine;3.6;No
+1957;37;Oklahoma;4.9;No
+1958;54;South Carolina;4.75;No
+1959;67;Nevada;4.85;No
+1960;90;Colorado;3.78;No
+1961;72;Massachusetts;4.5;No
+1962;59;Nevada;4.9;No
+1963;10;Iowa;3.6;No
+1964;30;Michigan;4.9;No
+1965;51;West Virginia;4.75;No
+1966;90;Indiana;4.85;No
+1967;95;Indiana;3.78;No
+1968;81;Georgia;4.5;No
+1969;70;Minnesota;4.9;No
+1970;32;Louisiana;3.6;No
+1971;94;Maryland;4.9;No
+1972;29;Pennsylvania;4.75;No
+1973;31;Louisiana;4.85;No
+1974;20;Maryland;3.78;No
+1975;44;Tennessee;4.5;No
+1976;77;Illinois;4.9;No
+1977;51;Wyoming;3.6;No
+1978;10;Florida;4.9;No
+1979;78;Massachusetts;4.75;No
+1980;98;Tennessee;4.85;No
+1981;94;Iowa;3.78;No
+1982;91;Michigan;4.5;No
+1983;77;Kansas;4.9;No
+1984;97;Georgia;3.6;No
+1985;58;West Virginia;4.9;No
+1986;97;Tennessee;4.75;No
+1987;20;Arkansas;4.85;No
+1988;23;Vermont;3.78;No
+1989;79;Virginia;4.5;No
+1990;16;Maryland;4.9;No
+1991;95;Connecticut;3.6;No
+1992;29;Missouri;4.9;No
+1993;98;New Jersey;4.75;No
+1994;96;Arkansas;4.85;No
+1995;66;Nevada;3.78;No
+1996;80;Missouri;4.5;No
+1997;27;South Dakota;4.9;No
+1998;25;Connecticut;3.6;No
+1999;10;Vermont;4.9;No
+2000;89;Tennessee;4.75;No
+2001;27;California;4.85;No
+2002;90;Wyoming;3.78;No
+2003;65;New York;4.5;No
+2004;72;Maine;4.9;No
+2005;70;Georgia;3.6;No
+2006;82;Tennessee;4.9;No
+2007;97;New Mexico;4.75;No
+2008;25;Virginia;4.85;No
+2009;20;Florida;3.78;No
+2010;99;Alabama;4.5;No
+2011;21;Texas;4.9;No
+2012;94;West Virginia;3.6;No
+2013;53;Nevada;4.9;No
+2014;70;Virginia;4.75;No
+2015;26;Wisconsin;4.85;No
+2016;82;Virginia;3.78;No
+2017;47;Maine;4.5;No
+2018;32;Massachusetts;4.9;No
+2019;97;Arkansas;3.6;No
+2020;68;Idaho;4.9;No
+2021;23;Pennsylvania;4.75;No
+2022;33;Maine;4.85;No
+2023;38;Alabama;3.78;No
+2024;68;Idaho;4.5;No
+2025;23;Arkansas;4.9;No
+2026;29;Delaware;3.6;No
+2027;35;Maine;4.9;No
+2028;73;Nebraska;4.75;No
+2029;84;Ohio;4.85;No
+2030;23;Montana;3.78;No
+2031;67;New Mexico;4.5;No
+2032;51;North Carolina;4.9;No
+2033;36;South Carolina;3.6;No
+2034;55;Illinois;4.9;No
+2035;30;Alabama;4.75;No
+2036;70;Oklahoma;4.85;No
+2037;63;Minnesota;3.78;No
+2038;87;Illinois;4.5;No
+2039;70;Arkansas;4.9;No
+2040;51;Minnesota;3.6;No
+2041;25;South Carolina;4.9;No
+2042;32;New York;4.75;No
+2043;52;Alabama;4.85;No
+2044;33;New York;3.78;No
+2045;68;Missouri;4.5;No
+2046;20;Georgia;4.9;No
+2047;32;Oklahoma;3.6;No
+2048;82;Connecticut;4.9;No
+2049;64;Michigan;4.75;No
+2050;24;Rhode Island;4.85;No
+2051;96;Mississippi;3.78;No
+2052;94;Massachusetts;4.5;No
+2053;20;New Hampshire;4.9;No
+2054;60;Wyoming;3.6;No
+2055;56;New Jersey;4.9;No
+2056;33;Texas;4.75;No
+2057;46;Minnesota;4.85;No
+2058;37;South Dakota;3.78;No
+2059;98;Washington;4.5;No
+2060;50;California;4.9;No
+2061;63;Wisconsin;3.6;No
+2062;70;Michigan;4.9;No
+2063;63;South Carolina;4.75;No
+2064;86;Indiana;4.85;No
+2065;99;Arkansas;3.78;No
+2066;14;Oregon;4.5;No
+2067;92;Illinois;4.9;No
+2068;21;Maryland;3.6;No
+2069;81;Vermont;4.9;No
+2070;82;Texas;4.75;No
+2071;88;Nebraska;4.85;No
+2072;100;South Carolina;3.78;No
+2073;66;Massachusetts;4.5;No
+2074;25;Texas;4.9;No
+2075;53;Florida;3.6;No
+2076;28;South Carolina;4.9;No
+2077;23;Florida;4.75;No
+2078;34;Nebraska;4.85;No
+2079;16;Hawaii;3.78;No
+2080;24;Montana;4.5;No
+2081;47;South Dakota;4.9;No
+2082;78;Alabama;3.6;No
+2083;89;Arkansas;4.9;No
+2084;59;Mississippi;4.75;No
+2085;94;Vermont;4.85;No
+2086;10;New York;3.78;No
+2087;89;North Dakota;4.5;No
+2088;91;Wisconsin;4.9;No
+2089;89;California;3.6;No
+2090;57;Maryland;4.9;No
+2091;71;Massachusetts;4.75;No
+2092;97;Washington;4.85;No
+2093;10;Minnesota;3.78;No
+2094;91;Washington;4.5;No
+2095;25;South Carolina;4.9;No
+2096;63;New Mexico;3.6;No
+2097;52;North Carolina;4.9;No
+2098;43;Iowa;4.75;No
+2099;28;Louisiana;4.85;No
+2100;78;Oklahoma;3.78;No
+2101;31;Michigan;4.5;No
+2102;23;Oregon;4.9;No
+2103;25;Idaho;3.6;No
+2104;86;Indiana;4.9;No
+2105;88;New Mexico;4.75;No
+2106;35;South Carolina;4.85;No
+2107;34;Vermont;3.78;No
+2108;75;Delaware;4.5;No
+2109;46;North Dakota;4.9;No
+2110;31;California;3.6;No
+2111;93;Montana;4.9;No
+2112;85;Missouri;4.75;No
+2113;68;Tennessee;4.85;No
+2114;14;Virginia;3.78;No
+2115;51;Vermont;4.5;No
+2116;85;Rhode Island;4.9;No
+2117;23;Kansas;3.6;No
+2118;28;Colorado;4.9;No
+2119;44;Georgia;4.75;No
+2120;57;Nebraska;4.85;No
+2121;98;Missouri;3.78;No
+2122;68;Alaska;4.5;No
+2123;36;Virginia;4.9;No
+2124;71;Nebraska;3.6;No
+2125;60;Rhode Island;4.9;No
+2126;87;New Hampshire;4.75;No
+2127;38;Alabama;4.85;No
+2128;10;North Carolina;3.78;No
+2129;47;New Mexico;4.5;No
+2130;57;Minnesota;4.9;No
+2131;68;Arizona;3.6;No
+2132;52;Montana;4.9;No
+2133;87;Vermont;4.75;No
+2134;34;Maine;4.85;No
+2135;15;Virginia;3.78;No
+2136;94;California;4.5;No
+2137;93;New York;4.9;No
+2138;51;Indiana;3.6;No
+2139;16;Mississippi;4.9;No
+2140;95;New York;4.75;No
+2141;90;New Mexico;4.85;No
+2142;98;Kentucky;3.78;No
+2143;39;North Dakota;4.5;No
+2144;66;Arkansas;4.9;No
+2145;23;Maryland;3.6;No
+2146;73;Connecticut;4.9;No
+2147;23;Utah;4.75;No
+2148;43;Missouri;4.85;No
+2149;10;Nebraska;3.78;No
+2150;21;Hawaii;4.5;No
+2151;14;Illinois;4.9;No
+2152;58;Vermont;3.6;No
+2153;20;New Jersey;4.9;No
+2154;94;Kentucky;4.75;No
+2155;74;Wyoming;4.85;No
+2156;51;Hawaii;3.78;No
+2157;83;Missouri;4.5;No
+2158;68;Mississippi;4.9;No
+2159;84;Massachusetts;3.6;No
+2160;58;Louisiana;4.9;No
+2161;92;West Virginia;4.75;No
+2162;69;Washington;4.85;No
+2163;20;Oregon;3.78;No
+2164;60;New York;4.5;No
+2165;20;Iowa;4.9;No
+2166;55;Idaho;3.6;No
+2167;88;New Jersey;4.9;No
+2168;20;Ohio;4.75;No
+2169;74;Connecticut;4.85;No
+2170;16;Florida;3.78;No
+2171;32;South Carolina;4.5;No
+2172;98;Missouri;4.9;No
+2173;89;Rhode Island;3.6;No
+2174;97;Delaware;4.9;No
+2175;10;Colorado;4.75;No
+2176;50;Nebraska;4.85;No
+2177;91;Vermont;3.78;No
+2178;93;Montana;4.5;No
+2179;98;Florida;4.9;No
+2180;82;Delaware;3.6;No
+2181;37;Connecticut;4.9;No
+2182;63;Hawaii;4.75;No
+2183;99;New Mexico;4.85;No
+2184;37;Kansas;3.78;No
+2185;34;Nevada;4.5;No
+2186;32;North Carolina;4.9;No
+2187;23;New Mexico;3.6;No
+2188;78;Idaho;4.9;No
+2189;54;California;4.75;No
+2190;94;Wisconsin;4.85;No
+2191;75;Alaska;3.78;No
+2192;69;Pennsylvania;4.5;No
+2193;35;Virginia;4.9;No
+2194;78;California;3.6;No
+2195;29;Kentucky;4.9;No
+2196;62;New York;4.75;No
+2197;58;Vermont;4.85;No
+2198;88;Pennsylvania;3.78;No
+2199;80;New York;4.5;No
+2200;47;North Carolina;4.9;No
+2201;51;Wyoming;3.6;No
+2202;25;Ohio;4.9;No
+2203;36;Alabama;4.75;No
+2204;79;Rhode Island;4.85;No
+2205;15;Oregon;3.78;No
+2206;68;North Dakota;4.5;No
+2207;51;Illinois;4.9;No
+2208;38;New Mexico;3.6;No
+2209;46;Colorado;4.9;No
+2210;20;Utah;4.75;No
+2211;25;Virginia;4.85;No
+2212;89;Maine;3.78;No
+2213;77;Nebraska;4.5;No
+2214;94;Hawaii;4.9;No
+2215;100;Idaho;3.6;No
+2216;96;West Virginia;4.9;No
+2217;36;Vermont;4.75;No
+2218;27;Indiana;4.85;No
+2219;67;Idaho;3.78;No
+2220;91;Minnesota;4.5;No
+2221;62;Wyoming;4.9;No
+2222;88;Kansas;3.6;No
+2223;66;Georgia;4.9;No
+2224;65;Kansas;4.75;No
+2225;25;Nebraska;4.85;No
+2226;64;Washington;3.78;No
+2227;72;Missouri;4.5;No
+2228;74;Washington;4.9;No
+2229;50;Kansas;3.6;No
+2230;97;Minnesota;4.9;No
+2231;36;Colorado;4.75;No
+2232;10;Utah;4.85;No
+2233;64;North Carolina;3.78;No
+2234;31;Florida;4.5;No
+2235;66;New Hampshire;4.9;No
+2236;82;Illinois;3.6;No
+2237;88;Louisiana;4.9;No
+2238;34;Alabama;4.75;No
+2239;84;Florida;4.85;No
+2240;96;Alabama;3.78;No
+2241;71;California;4.5;No
+2242;77;Maryland;4.9;No
+2243;66;Nevada;3.6;No
+2244;21;Massachusetts;4.9;No
+2245;37;South Carolina;4.75;No
+2246;90;Delaware;4.85;No
+2247;96;Hawaii;3.78;No
+2248;37;Florida;4.5;No
+2249;66;Rhode Island;4.9;No
+2250;10;Wyoming;3.6;No
+2251;89;Colorado;4.9;No
+2252;94;Virginia;4.75;No
+2253;96;Nebraska;4.85;No
+2254;31;Oklahoma;3.78;No
+2255;79;North Dakota;4.5;No
+2256;39;Michigan;4.9;No
+2257;22;California;3.6;No
+2258;32;Tennessee;4.9;No
+2259;71;Ohio;4.75;No
+2260;96;Florida;4.85;No
+2261;82;Missouri;3.78;No
+2262;76;South Carolina;4.5;No
+2263;22;Arizona;4.9;No
+2264;14;Indiana;3.6;No
+2265;92;North Dakota;4.9;No
+2266;94;Montana;4.75;No
+2267;44;Missouri;4.85;No
+2268;10;Kentucky;3.78;No
+2269;26;Georgia;4.5;No
+2270;38;Kentucky;4.9;No
+2271;72;Georgia;3.6;No
+2272;99;Alaska;4.9;No
+2273;38;Maine;4.75;No
+2274;96;New Mexico;4.85;No
+2275;27;New York;3.78;No
+2276;24;Oklahoma;4.5;No
+2277;82;Wyoming;4.9;No
+2278;56;Alabama;3.6;No
+2279;25;Maryland;4.9;No
+2280;67;West Virginia;4.75;No
+2281;21;Kentucky;4.85;No
+2282;27;Kansas;3.78;No
+2283;97;Idaho;4.5;No
+2284;10;Ohio;4.9;No
+2285;63;Iowa;3.6;No
+2286;100;Michigan;4.9;No
+2287;38;South Dakota;4.75;No
+2288;10;Nebraska;4.85;No
+2289;91;California;3.78;No
+2290;82;Nevada;4.5;No
+2291;20;Kansas;4.9;No
+2292;30;Ohio;3.6;No
+2293;34;Vermont;4.9;No
+2294;68;Georgia;4.75;No
+2295;95;Maryland;4.85;No
+2296;22;Connecticut;3.78;No
+2297;88;Washington;4.5;No
+2298;83;California;4.9;No
+2299;87;Montana;3.6;No
+2300;57;Idaho;4.9;No
+2301;88;Pennsylvania;4.75;No
+2302;20;Maine;4.85;No
+2303;39;Montana;3.78;No
+2304;71;New Jersey;4.5;No
+2305;73;Louisiana;4.9;No
+2306;63;Maine;3.6;No
+2307;78;Florida;4.9;No
+2308;96;Missouri;4.75;No
+2309;81;North Dakota;4.85;No
+2310;95;Connecticut;3.78;No
+2311;68;Virginia;4.5;No
+2312;28;Montana;4.9;No
+2313;30;Vermont;3.6;No
+2314;31;Georgia;4.9;No
+2315;95;Virginia;4.75;No
+2316;79;Vermont;4.85;No
+2317;39;Montana;3.78;No
+2318;34;New Jersey;4.5;No
+2319;28;Wyoming;4.9;No
+2320;38;Maine;3.6;No
+2321;55;New Mexico;4.9;No
+2322;31;Colorado;4.75;No
+2323;84;Connecticut;4.85;No
+2324;93;Maryland;3.78;No
+2325;28;Oregon;4.5;No
+2326;55;New York;4.9;No
+2327;63;Oklahoma;3.6;No
+2328;94;Alabama;4.9;No
+2329;36;North Dakota;4.75;No
+2330;97;Nebraska;4.85;No
+2331;63;Arizona;3.78;No
+2332;77;Illinois;4.5;No
+2333;53;South Carolina;4.9;No
+2334;77;Kansas;3.6;No
+2335;79;Kansas;4.9;No
+2336;37;Idaho;4.75;No
+2337;94;California;4.85;No
+2338;76;North Dakota;3.78;No
+2339;68;Georgia;4.5;No
+2340;65;Illinois;4.9;No
+2341;24;Delaware;3.6;No
+2342;31;Connecticut;4.9;No
+2343;89;Tennessee;4.75;No
+2344;10;Maryland;4.85;No
+2345;92;Rhode Island;3.78;No
+2346;32;New York;4.5;No
+2347;67;New Mexico;4.9;No
+2348;64;California;3.6;No
+2349;84;Maine;4.9;No
+2350;34;New York;4.75;No
+2351;26;Hawaii;4.85;No
+2352;50;New Hampshire;3.78;No
+2353;46;Nebraska;4.5;No
+2354;71;Montana;4.9;No
+2355;78;Wisconsin;3.6;No
+2356;35;Tennessee;4.9;No
+2357;58;Montana;4.75;No
+2358;67;Michigan;4.85;No
+2359;93;Texas;3.78;No
+2360;81;Pennsylvania;4.5;No
+2361;80;New York;4.9;No
+2362;64;Alabama;3.6;No
+2363;15;Virginia;4.9;No
+2364;79;Pennsylvania;4.75;No
+2365;60;Mississippi;4.85;No
+2366;91;Wyoming;3.78;No
+2367;66;New Mexico;4.5;No
+2368;85;North Dakota;4.9;No
+2369;38;New Jersey;3.6;No
+2370;23;Vermont;4.9;No
+2371;71;Alaska;4.75;No
+2372;25;Indiana;4.85;No
+2373;39;Alabama;3.78;No
+2374;20;Michigan;4.5;No
+2375;73;Washington;4.9;No
+2376;63;Virginia;3.6;No
+2377;94;Tennessee;4.9;No
+2378;94;South Dakota;4.75;No
+2379;71;New Hampshire;4.85;No
+2380;77;South Dakota;3.78;No
+2381;66;Pennsylvania;4.5;No
+2382;23;Wisconsin;4.9;No
+2383;60;California;3.6;No
+2384;72;Rhode Island;4.9;No
+2385;35;Alabama;4.75;No
+2386;31;Oklahoma;4.85;No
+2387;33;Illinois;3.78;No
+2388;95;Tennessee;4.5;No
+2389;68;Alabama;4.9;No
+2390;87;Kansas;3.6;No
+2391;64;Arizona;4.9;No
+2392;74;Michigan;4.75;No
+2393;62;Missouri;4.85;No
+2394;97;Louisiana;3.78;No
+2395;47;Connecticut;4.5;No
+2396;83;Connecticut;4.9;No
+2397;82;Oregon;3.6;No
+2398;26;West Virginia;4.9;No
+2399;81;Florida;4.75;No
+2400;44;New Hampshire;4.85;No
+2401;88;Oregon;3.78;No
+2402;76;Oregon;4.5;No
+2403;89;Utah;4.9;No
+2404;22;Missouri;3.6;No
