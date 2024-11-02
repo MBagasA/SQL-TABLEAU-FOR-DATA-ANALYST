@@ -12,7 +12,7 @@ Welcome to my repository about fashion data, in this repository we display sales
 
 ### Tech Stack
 
-# Postgree SQL
-# EXCEL
-# TABLEAU
+### Postgree SQL
+### EXCEL
+### TABLEAU
 
