@@ -1,10 +1,10 @@
 
-##SQL & TABLEAU INTEGRATION PROJECT
+## SQL & TABLEAU INTEGRATION PROJECT
 
-##Fashion Data 
+## Fashion Data 
 
 
-welcome to my repository about fashion data, in this repository we display sales data, fashion trends in 2018-2023
+Welcome to my repository about fashion data, in this repository we display sales data, fashion trends in 2018-2023
 
 ## Screenshots
 
