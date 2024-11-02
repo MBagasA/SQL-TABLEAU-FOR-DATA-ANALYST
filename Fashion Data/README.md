@@ -10,9 +10,9 @@ Welcome to my repository about fashion data, in this repository we display sales
 
 ![img alt](https://github.com/MBagasA/SQL-TABLEAU-FOR-DATA-ANALYST/blob/bfaeb3b907945cd5b6bae93f50314b9dceb57983/Fashion%20Data/Dashboard%20data.png)
 
-## Tech Stack
+### Tech Stack
 
-Postgree SQL
-EXCEL
-TABLEAU
+# Postgree SQL
+# EXCEL
+# TABLEAU
 
