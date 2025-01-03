@@ -9,4 +9,4 @@ This repository is created using postgresql excel and looker studio tools.
 ### EXCEL
 ### Looker Stduio
 
-https://github.com/MBagasA/SQL-TABLEAU-FOR-DATA-ANALYST/blob/master/Sales%20Data%20Analyst/Dashboard%20Analysis%20Image.jpg
+![alt text](https://github.com/MBagasA/SQL-TABLEAU-FOR-DATA-ANALYST/blob/master/Sales%20Data%20Analyst/Dashboard%20Analysis%20Image.jpg?raw=true)
