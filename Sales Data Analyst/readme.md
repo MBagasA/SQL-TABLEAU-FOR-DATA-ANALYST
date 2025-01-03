@@ -5,8 +5,8 @@ There are total revenue, average age, total price, total units sold, oldest age,
 This repository is created using postgresql excel and looker studio tools.
 
 ## Tech Stack
-# Postgree SQL
-# EXCEL
-# Looker Stduio
+### Postgree SQL
+### EXCEL
+### Looker Stduio
 
-https://github.com/MBagasA/SQL-TABLEAU-FOR-DATA-ANALYST/blob/e657e7259de69bbae0993c5409db6098315112e3/Sales%20Data%20Analyst/Dashboard%20Analysis%20Image.jpg
+https://github.com/MBagasA/SQL-TABLEAU-FOR-DATA-ANALYST/blob/master/Sales%20Data%20Analyst/Dashboard%20Analysis%20Image.jpg
