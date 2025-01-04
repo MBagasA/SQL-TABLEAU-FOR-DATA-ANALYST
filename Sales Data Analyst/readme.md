@@ -9,4 +9,7 @@ This repository is created using postgresql excel and looker studio tools.
 ### EXCEL
 ### Looker Stduio
 
+## If you want to work with me you can hire me through upwork.Thank you.
+### https://www.upwork.com/freelancers/~0102117e3f8069f932?mp_source=share
+
 ![alt text](https://github.com/MBagasA/SQL-TABLEAU-FOR-DATA-ANALYST/blob/master/Sales%20Data%20Analyst/Dashboard%20Analysis%20Image.jpg?raw=true)
